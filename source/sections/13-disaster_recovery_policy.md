@@ -113,7 +113,7 @@ event affecting the IT system.
    environment. The team leader is the CTO and directs the Web Services Team.
 
 Members of the Ops and Web Services teams must maintain local copies of the
-contact information from [§13.2](#13.2-line-of-succession). Additionally, the
+contact information from [§13.2](#13-2-line-of-succession). Additionally, the
 CTO must maintain a local copy of this policy in the event Internet access is
 not available during a disaster scenario.
 

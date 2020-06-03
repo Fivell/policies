@@ -168,5 +168,5 @@ The following process is used to request audit reports:
 ## 1.5 Version Control
 
 Refer to the GitHub repository at
-[https://github.com/catalyzeio/policies/](https://github.com/catalyzeio/policies/)
+[https://github.com/foxandgeese/policies](https://github.com/foxandgeese/policies)
 for the full version history of these policies.

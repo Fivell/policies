@@ -37,9 +37,9 @@ Partners, Subcontractors, and Contracted Developers.
      services provided to Versionista.
    - Changes to 3rd party services are classified as configuration management
      changes and thus are subject to the policies and procedures described in
-     [§9](#9.-configuration-management-policy); substantial changes to services
+     [§9](#9-configuration-management-policy); substantial changes to services
      provided by 3rd parties will invoke a Risk Assessment as described in
-     [§4.2](#4.2-risk-management-policies).
+     [§4.2](#4-2-risk-management-policies).
    - Versionista utilizes monitoring tools to regularly evaluate Subcontractors
      against relevant SLAs.
 5. No Versionista Customers or Partners have access outside of their own
@@ -51,7 +51,7 @@ Partners, Subcontractors, and Contracted Developers.
    - The list of current Partners and Subcontractors is maintained by the
      Versionista Privacy Officer, includes details on all provided services
      (along with contact information), and is recorded in
-     [§1.4](#1.4-datica-organizational-concepts).
+     [§1.4](#1-4-datica-organizational-concepts).
    - The annual review of Partners and Subcontractors is conducted as a part of
      the security, compliance, and SLA review referenced below.
 8. Versionista assesses security, compliance, and SLA requirements and

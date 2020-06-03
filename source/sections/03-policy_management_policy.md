@@ -42,7 +42,7 @@ of finding policies at specific historic dates in time.
    the Issue as Done, adding any pertinent notes required.
 8. If the policy change requires technical modifications to production systems,
    those changes are carried out by authorized personnel using Versionista's
-   [change management process (§9.4)](#9.4-changing-existing-systems).
+   [change management process (§9.4)](#9-4-changing-existing-systems).
 9. All policies are made accessible to all Versionista workforce members. The
    current master policies are published at
    [https://github.com/foxandgeese/policies](https://github.com/foxandgeese/policies).
@@ -91,4 +91,4 @@ of finding policies at specific historic dates in time.
     System reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in
-[§5.3.1](#5.3-security-officer).
+[§5.3.1](#5-3-security-officer).

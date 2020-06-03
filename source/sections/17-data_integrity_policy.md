@@ -41,7 +41,7 @@ section.
    - The malware signature database is checked hourly and automatically updated
      if new signatures are available.
    - Logs of virus scans are maintained according to the requirements outlined
-     in [§8.6](#8.6-audit-log-security-controls-and-backup).
+     in [§8.6](#8-6-audit-log-security-controls-and-backup).
 3. All Production Systems are to only be used for Versionista business needs.
 
 ## 17.5 Patch Management
@@ -88,7 +88,7 @@ section.
 5. All Production Data at rest is stored on encrypted volumes using encryption
    keys managed by Versionista. Encryption at rest is ensured through the use of
    automated deployment scripts referenced in the
-   [Configuration Management Policy](#9.-configuration-management-policy).
+   [Configuration Management Policy](#9-configuration-management-policy).
 6. Volume encryption keys and machines that generate volume encryption keys are
    protected from unauthorized access. Volume encryption key material is
    protected with access controls such that the key material is only accessible

@@ -16,7 +16,7 @@ Of note, Versionista does not have ready access to ePHI, it provides
 cloud-based, compliant infrastructure to covered entities and business
 associates. Versionista does not physically house any systems used by its
 Platform in Versionista facilities. Physical security of our Platform servers is
-outlined [in §1.4](#1.4-datica-organizational-concepts).
+outlined [in §1.3](#1-3-versionista-organizational-concepts).
 
 ## 10.1 Applicable Standards
 

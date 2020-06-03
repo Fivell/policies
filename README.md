@@ -5,10 +5,6 @@ All policies are licensed under
 
 ### Policy Index
 
-Each policy is included as its own markdown file in case you want to cherry-pick
-specific policies. If you currently have no policies in place, we encourage you
-to consider utilizing all compliance policies.
-
 - [Introduction](source/sections/01-introduction.md)
 - [HIPAA Inheritance](source/sections/02-hipaa_inheritance.md)
 - [Policy Management Policy](source/sections/03-policy_management_policy.md)
@@ -31,8 +27,8 @@ to consider utilizing all compliance policies.
 - [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 - [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 - [Key Definitions](source/sections/22-key_definitions.md)
-- [Datica HIPAA Business Associate Agreement (“BAA”)](source/sections/23-datica_hipaa_business_associate_agreement.md)
-- [HIPAA Mappings to Datica Controls](source/sections/24-hipaa_mapping_to_datica_controls.md)
+- [Company HIPAA Business Associate Agreement (“BAA”)](source/sections/23-company.md)
+- [HIPAA Mappings to Company Controls](source/sections/24-hipaa_mapping_to_company_controls.md)
 
 ### How to build the docs
 
