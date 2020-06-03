@@ -1,5 +1,5 @@
 tocbot.init({
-  tocSelector: '.toc',
-  contentSelector: '.content',
-  headingSelector: 'h1'
+  tocSelector: ".toc",
+  contentSelector: ".content",
+  headingSelector: "h1",
 });
