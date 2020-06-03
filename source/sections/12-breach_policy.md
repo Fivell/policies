@@ -24,8 +24,8 @@ to the following: individuals, Department of Health and Human Services (HHS),
 and the media. The effective implementation for this provision is September 23,
 2009 (pending publication HHS regulations).
 
-In the case of a breach, Datica shall notify all affected Customers. It is the
-responsibility of the Customers to notify affected individuals.
+In the case of a breach, Versionista shall notify all affected Customers. It is
+the responsibility of the Customers to notify affected individuals.
 
 ## 12.1 Applicable Standards
 
@@ -41,30 +41,30 @@ responsibility of the Customers to notify affected individuals.
 - HITECH Timeliness of Notification - 13402(d)(1)
 - HITECH Content of Notification - 13402(f)(1)
 
-## 12.2 Datica Breach Policy
+## 12.2 Versionista Breach Policy
 
 1. Discovery of Breach: A breach of ePHI shall be treated as "discovered" as of
    the first day on which such breach is known to the organization, or, by
-   exercising reasonable diligence would have been known to Datica (includes
-   breaches by the organization's Customers, Partners, or subcontractors).
-   Datica shall be deemed to have knowledge of a breach if such breach is known
-   or by exercising reasonable diligence would have been known, to any person,
-   other than the person committing the breach, who is a workforce member or
-   Partner of the organization. Following the discovery of a potential breach,
-   the organization shall begin an investigation (see organizational policies
-   for security incident response and/or risk management incident response)
-   immediately, conduct a risk assessment, and based on the results of the risk
-   assessment, begin the process to notify each Customer affected by the breach.
-   Datica shall also begin the process of determining what external
-   notifications are required or should be made (e.g., Secretary of Department
-   of Health & Human Services (HHS), media outlets, law enforcement officials,
-   etc.)
-2. Breach Investigation: The Datica Security Officer shall name an individual to
-   act as the investigator of the breach (e.g., privacy officer, security
-   officer, risk manager, etc.). The investigator shall be responsible for the
-   management of the breach investigation, completion of a risk assessment, and
-   coordinating with others in the organization as appropriate (e.g.,
-   administration, security incident response team, human resources, risk
+   exercising reasonable diligence would have been known to Versionista
+   (includes breaches by the organization's Customers, Partners, or
+   subcontractors). Versionista shall be deemed to have knowledge of a breach if
+   such breach is known or by exercising reasonable diligence would have been
+   known, to any person, other than the person committing the breach, who is a
+   workforce member or Partner of the organization. Following the discovery of a
+   potential breach, the organization shall begin an investigation (see
+   organizational policies for security incident response and/or risk management
+   incident response) immediately, conduct a risk assessment, and based on the
+   results of the risk assessment, begin the process to notify each Customer
+   affected by the breach. Versionista shall also begin the process of
+   determining what external notifications are required or should be made (e.g.,
+   Secretary of Department of Health & Human Services (HHS), media outlets, law
+   enforcement officials, etc.)
+2. Breach Investigation: The Versionista Security Officer shall name an
+   individual to act as the investigator of the breach (e.g., privacy officer,
+   security officer, risk manager, etc.). The investigator shall be responsible
+   for the management of the breach investigation, completion of a risk
+   assessment, and coordinating with others in the organization as appropriate
+   (e.g., administration, security incident response team, human resources, risk
    management, public relations, legal counsel, etc.) The investigator shall be
    the key facilitator for all breach notification processes to the appropriate
    entities (e.g., HHS, media, law enforcement officials, etc.). All
@@ -93,14 +93,14 @@ responsibility of the Customers to notify affected individuals.
      impermissibly disclosed;
    - The type and amount of ePHI involved;
    - The cause of the breach, and the entity responsible for the breach, either
-     Customer, Datica, or Partner;
+     Customer, Versionista, or Partner;
    - The potential for significant risk of financial, reputational, or other
      harm.
 4. Timeliness of Notification: Upon discovery of a breach, notice shall be made
-   to the affected Datica Customers no later than 4 hours after the discovery of
-   the breach. It is the responsibility of the organization to demonstrate that
-   all notifications were made as required, including evidence demonstrating the
-   necessity of delay.
+   to the affected Versionista Customers no later than 4 hours after the
+   discovery of the breach. It is the responsibility of the organization to
+   demonstrate that all notifications were made as required, including evidence
+   demonstrating the necessity of delay.
 5. Delay of Notification Authorized for Law Enforcement Purposes: If a law
    enforcement official states to the organization that a notification, notice,
    or posting would impede a criminal investigation or cause damage to national
@@ -123,17 +123,17 @@ responsibility of the Customers to notify affected individuals.
      code or other types of information were involved), if known;
    - Any steps the Customer should take to protect Customer data from potential
      harm resulting from the breach;
-   - A brief description of what Datica is doing to investigate the breach, to
-     mitigate harm to individuals and Customers, and to protect against further
-     breaches;
+   - A brief description of what Versionista is doing to investigate the breach,
+     to mitigate harm to individuals and Customers, and to protect against
+     further breaches;
    - Contact procedures for individuals to ask questions or learn additional
      information, which may include a toll-free telephone number, an e-mail
      address, a web site, or postal address.
-7. Methods of Notification: Datica Customers will be notified via email and
+7. Methods of Notification: Versionista Customers will be notified via email and
    phone within the timeframe for reporting breaches, as outlined above.
 8. Maintenance of Breach Information/Log: As described above and in addition to
-   the reports created for each incident, Datica shall maintain a process to
-   record or log all breaches of unsecured ePHI regardless of the number of
+   the reports created for each incident, Versionista shall maintain a process
+   to record or log all breaches of unsecured ePHI regardless of the number of
    records and Customers affected. The following information should be
    collected/logged for each breach (see sample Breach Notification Log):
    - A description of what happened, including the date of the breach, the date
@@ -146,31 +146,31 @@ responsibility of the Customers to notify affected individuals.
      regarding the breach.
    - Resolution steps taken to mitigate the breach and prevent future
      occurrences.
-9. Workforce Training: Datica shall train all members of its workforce on the
-   policies and procedures with respect to ePHI as necessary and appropriate for
-   the members to carry out their job responsibilities. Workforce members shall
-   also be trained as to how to identify and report breaches within the
+9. Workforce Training: Versionista shall train all members of its workforce on
+   the policies and procedures with respect to ePHI as necessary and appropriate
+   for the members to carry out their job responsibilities. Workforce members
+   shall also be trained as to how to identify and report breaches within the
    organization.
-10. Complaints: Datica must provide a process for individuals to make complaints
-    concerning the organization's patient privacy policies and procedures or its
-    compliance with such policies and procedures.
+10. Complaints: Versionista must provide a process for individuals to make
+    complaints concerning the organization's patient privacy policies and
+    procedures or its compliance with such policies and procedures.
 11. Sanctions: The organization shall have in place and apply appropriate
     sanctions against members of its workforce, Customers, and Partners who fail
     to comply with privacy policies and procedures.
-12. Retaliation/Waiver: Datica may not intimidate, threaten, coerce,
+12. Retaliation/Waiver: Versionista may not intimidate, threaten, coerce,
     discriminate against, or take other retaliatory action against any
     individual for the exercise by the individual of any privacy right. The
     organization may not require individuals to waive their privacy rights under
     as a condition of the provision of treatment, payment, enrollment in a
     health plan, or eligibility for benefits.
 
-## 12.3 Datica Platform Customer Responsibilities
+## 12.3 Versionista Platform Customer Responsibilities
 
-1. The Datica Customer that accesses, maintains, retains, modifies, records,
-   stores, destroys, or otherwise holds, uses, or discloses unsecured ePHI
-   shall, without unreasonable delay and in no case later than 60 calendar days
-   after discovery of a breach, notify Datica of such breach. The Customer shall
-   provide Datica with the following information:
+1. The Versionista Customer that accesses, maintains, retains, modifies,
+   records, stores, destroys, or otherwise holds, uses, or discloses unsecured
+   ePHI shall, without unreasonable delay and in no case later than 60 calendar
+   days after discovery of a breach, notify Versionista of such breach. The
+   Customer shall provide Versionista with the following information:
    - A description of what happened, including the date of the breach, the date
      of the discovery of the breach, and the number of records and Customers
      affected, if known.
@@ -181,10 +181,10 @@ responsibility of the Customers to notify affected individuals.
      regarding the breach.
    - Resolution steps taken to mitigate the breach and prevent future
      occurrences.
-2. Notice to Media: Datica Customers are responsible for providing notice to
-   prominent media outlets at the Customer's discretion.
-3. Notice to Secretary of HHS: Datica Customers are responsible for providing
-   notice to the Secretary of HHS at the Customer's discretion.
+2. Notice to Media: Versionista Customers are responsible for providing notice
+   to prominent media outlets at the Customer's discretion.
+3. Notice to Secretary of HHS: Versionista Customers are responsible for
+   providing notice to the Secretary of HHS at the Customer's discretion.
 
 ## 12.4 Sample Letter to Customers in Case of Breach
 
@@ -194,10 +194,10 @@ responsibility of the Customers to notify affected individuals.
 
 Dear [Name of Customer]:
 
-I am writing to you from Datica Health, Inc., with important information about a
-recent breach that affects your account with us. We became aware of this breach
-on [Insert Date] which occurred on or about [Insert Date]. The breach occurred
-as follows:
+I am writing to you from Versionista Health, Inc., with important information
+about a recent breach that affects your account with us. We became aware of this
+breach on [Insert Date] which occurred on or about [Insert Date]. The breach
+occurred as follows:
 
 Describe event and include the following information:
 
@@ -209,7 +209,7 @@ Describe event and include the following information:
   other types of information were involved), if known.
 - Any steps the Customer should take to protect themselves from potential harm
   resulting from the breach.
-- A brief description of what Datica is doing to investigate the breach, to
+- A brief description of what Versionista is doing to investigate the breach, to
   mitigate harm to individuals, and to protect against further breaches.
 - Contact procedures for individuals to ask questions or learn additional
   information, which includes a toll-free telephone number, an e-mail address,
@@ -223,4 +223,5 @@ We will assist you in remedying the situation.
 
 Sincerely,
 
-Travis Good, MD Co-founder - Datica Health, Inc. travis@datica.com 303-351-2640
+Travis Good, MD Co-founder - Versionista Health, Inc. travis@datica.com
+303-351-2640

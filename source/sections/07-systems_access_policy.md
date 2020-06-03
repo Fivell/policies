@@ -1,7 +1,7 @@
 # 7. System Access Policy
 
-Access to Datica systems and applications is limited for all users, including
-but not limited to workforce members, volunteers, business associates,
+Access to Versionista systems and applications is limited for all users,
+including but not limited to workforce members, volunteers, business associates,
 contracted providers, and consultants. Access by any other entity is allowable
 only on a minimum necessary basis. All users are responsible for reporting an
 incident of unauthorized use or access of the organization's information
@@ -39,10 +39,10 @@ regulations including the following:
 
 ## 7.2 Access Establishment and Modification
 
-1. Requests for access to Datica Platform systems and applications are made
+1. Requests for access to Versionista Platform systems and applications are made
    formally using the following process:
-1. A Datica workforce member initiates the access request by creating an Issue
-   in the Datica Quality Management System.
+1. A Versionista workforce member initiates the access request by creating an
+   Issue in the Versionista Quality Management System.
    - User identities must be verified prior to granting access to new accounts.
    - Identity verification must be done in person where possible; for remote
      employees, identities must be verified over the phone.
@@ -67,18 +67,18 @@ regulations including the following:
      appropriate user account to the corresponding LDAP group.
    - For non-production systems, access grants are accomplished by leveraging
      the access control mechanisms built into those systems. Account management
-     for non-production systems may be delegated to a Datica employee at the
-     discretion of the Security Officer or Privacy Officer .
-1. Access is not granted until receipt, review, and approval by the Datica
+     for non-production systems may be delegated to a Versionista employee at
+     the discretion of the Security Officer or Privacy Officer .
+1. Access is not granted until receipt, review, and approval by the Versionista
    Security Officer or Privacy Officer.
 1. The request for access is retained for future reference.
-1. All access to Datica systems and services is reviewed and updated on a
+1. All access to Versionista systems and services is reviewed and updated on a
    bi-annual basis to ensure proper authorizations are in place commensurate
    with job functions. The process for conducting reviews is outlined below:
    1. The Security Officer initiates the review of user access by creating an
-      Issue in the Datica Quality Management System.
+      Issue in the Versionista Quality Management System.
    2. The Security Officer is assigned to review levels of access for each
-      Datica workforce member.
+      Versionista workforce member.
    3. If user access is found during review that is not in line with the least
       privilege principle, the process below is used to modify user access and
       notify the user of access changes. Once those steps are completed, the
@@ -90,8 +90,9 @@ regulations including the following:
       Done, adding any pertinent notes required.
    6. Review of user access is monitored on a quarterly basis using the Quality
       Management System reporting to assess compliance with above policy.
-1. Any Datica workforce member can request change of access using the process
-   outlined in [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
+1. Any Versionista workforce member can request change of access using the
+   process outlined in
+   [§7.2 paragraph 1](#7.2-access-establishment-and-modification).
 1. Access to production systems is controlled using centralized user management
    and authentication.
 1. Temporary accounts are not used unless absolutely necessary for business
@@ -101,7 +102,7 @@ regulations including the following:
    - Accounts that are inactive for over 90 days are removed.
 1. In the case of non-personal information, such as generic educational content,
    identification and authentication may not be required. This is the
-   responsibility of Datica Customers to define, and not Datica.
+   responsibility of Versionista Customers to define, and not Versionista.
 1. Privileged users must first access systems using standard, unique user
    accounts before switching to privileged users and performing privileged
    tasks.
@@ -113,7 +114,7 @@ regulations including the following:
 1. All application to application communication using service accounts is
    restricted and not permitted unless absolutely needed. Automated tools are
    used to limit account access across applications and systems.
-1. Generic accounts are not allowed on Datica systems.
+1. Generic accounts are not allowed on Versionista systems.
 1. Access is granted through encrypted, VPN tunnels that utilize two-factor
    authentication.
    - Two-factor authentication is accomplished using a Time-based One-Time
@@ -135,16 +136,16 @@ regulations including the following:
    classification and/or to a user needing access to carry out treatment,
    payment, or healthcare operations.
 2. All access requests are treated on a "least-access principle."
-3. Datica maintains a minimum necessary approach to access to Customer data. As
-   such, Datica, including all workforce members, does not readily have access
-   to any ePHI.
+3. Versionista maintains a minimum necessary approach to access to Customer
+   data. As such, Versionista, including all workforce members, does not readily
+   have access to any ePHI.
 
 ## 7.4 Access Authorization
 
-1. Role based access categories for each Datica system and application are
+1. Role based access categories for each Versionista system and application are
    pre-approved by the Security Officer, or an authorized delegate of the
    Security Officer.
-2. Datica utilizes hardware and software firewalls to segment data, prevent
+2. Versionista utilizes hardware and software firewalls to segment data, prevent
    unauthorized access, and monitor traffic for denial of service attacks.
 
 ## 7.5 Person or Entity Authentication
@@ -153,28 +154,30 @@ regulations including the following:
    identifies him/her as the user of the information system.
 2. Each Customer and Partner has and uses a unique user ID and password that
    identifies him/her as the user of the information system.
-3. All Customer support desk interactions must be verified before Datica support
-   personnel will satisfy any request having information security implications.
-   - Datica's current support desk software, Zendesk, requires users to
+3. All Customer support desk interactions must be verified before Versionista
+   support personnel will satisfy any request having information security
+   implications.
+   - Versionista's current support desk software, Zendesk, requires users to
      authenticate before submitting support tickets.
-   - Support issues submitted via Datica's dashboard require that users
-     authenticate with their Datica account before submitting support tickets.
-   - Support issues submitted by email must be verified by Datica personnel
+   - Support issues submitted via Versionista's dashboard require that users
+     authenticate with their Versionista account before submitting support
+     tickets.
+   - Support issues submitted by email must be verified by Versionista personnel
      using a phone number that has been registered with the corresponding
      account.
 
 ## 7.6 Unique User Identification
 
-1. Access to the Datica Platform systems and applications is controlled by
+1. Access to the Versionista Platform systems and applications is controlled by
    requiring unique User Login IDs and passwords for each individual user and
    developer.
 2. Passwords requirements mandate strong password controls (see below).
 3. Passwords are not displayed at any time and are not transmitted or stored in
    plain text.
 4. Default accounts on all production systems, including root, are disabled.
-5. Shared accounts are not allowed within Datica systems or networks.
+5. Shared accounts are not allowed within Versionista systems or networks.
 6. Automated log-on configurations that store user passwords or bypass password
-   entry are not permitted for use with Datica workstations or production
+   entry are not permitted for use with Versionista workstations or production
    systems.
 
 ## 7.7 Automatic Logoff
@@ -189,8 +192,8 @@ regulations including the following:
 
 ## 7.8 Employee Workstation Use
 
-All workstations at Datica are company owned, and all are laptop Apple products
-running Mac OSX or Linux.
+All workstations at Versionista are company owned, and all are laptop Apple
+products running Mac OSX or Linux.
 
 1. Workstations may not be used to engage in any activity that is illegal or is
    in violation of organization's policies.
@@ -216,24 +219,25 @@ running Mac OSX or Linux.
 8. All workstations have firewalls enabled to prevent unauthorized access unless
    explicitly granted.
 9. All workstations are to have the following messages added to the lock screen
-   and login screen: _This computer is owned by Datica Health, Inc. By logging
-   in, unlocking, and/or using this computer you acknowledge you have seen, and
-   follow, these policies (https://policy.datica.com) and have completed this
-   training (https://training.datica.com/). Please contact us if you have
-   problems with this - privacy@datica.com._
+   and login screen: _This computer is owned by Versionista Health, Inc. By
+   logging in, unlocking, and/or using this computer you acknowledge you have
+   seen, and follow, these policies (https://policy.datica.com) and have
+   completed this training (https://training.datica.com/). Please contact us if
+   you have problems with this - privacy@datica.com._
 
 ## 7.9 Wireless Access Use
 
-1. Datica production systems are not accessible directly over wireless channels.
+1. Versionista production systems are not accessible directly over wireless
+   channels.
 2. Wireless access is disabled on all production systems.
 3. When accessing production systems via remote wireless connections, the same
    system access policies and procedures apply to wireless as all other
    connections, including wired.
-4. Wireless networks managed within Datica non-production facilities (offices,
-   etc.) are secured with the following configurations:
+4. Wireless networks managed within Versionista non-production facilities
+   (offices, etc.) are secured with the following configurations:
    - All data in transit over wireless is encrypted using WPA2 encryption;
    - Passwords are rotated on a regular basis, presently quarterly. This process
-     is managed by the Datica Security Officer.
+     is managed by the Versionista Security Officer.
 
 ## 7.10 Employee Termination Procedures
 
@@ -254,24 +258,24 @@ running Mac OSX or Linux.
      as providing the unauthorized individual with the User Login ID and
      password).
 3. The Security Officer will terminate users' access rights immediately upon
-   notification, and will coordinate with the appropriate Datica employees to
-   terminate access to any non-production systems managed by those employees.
+   notification, and will coordinate with the appropriate Versionista employees
+   to terminate access to any non-production systems managed by those employees.
 4. The Security Officer audits and may terminate access of users that have not
    logged into organization's information systems/applications for an extended
    period of time.
 
 ## 7.11 Paper Records
 
-Datica does not use paper records for any sensitive information. Use of paper
-for recording and storing sensitive data is against Datica policies.
+Versionista does not use paper records for any sensitive information. Use of
+paper for recording and storing sensitive data is against Versionista policies.
 
 ## 7.12 Password Management
 
-1. User IDs and passwords are used to control access to Datica systems and may
-   not be disclosed to anyone for any reason.
+1. User IDs and passwords are used to control access to Versionista systems and
+   may not be disclosed to anyone for any reason.
 2. Users may not allow anyone, for any reason, to have access to any information
    system using another user's unique user ID and password.
-3. On all production systems and applications in the Datica environment,
+3. On all production systems and applications in the Versionista environment,
    password configurations are set to require:
    - a minimum length of 8 characters;
    - a mix of upper case characters, lower case characters, and numbers or
@@ -328,26 +332,26 @@ membership as needed.
    measures.
    - All production access to systems is performed through a bastion/jump host
      accessed through a VPN. Direct access to production systems is disallowed
-     by Datica's VPN configuration.
+     by Versionista's VPN configuration.
    - On production Linux bastions, all file transfer services are disabled
      including file-transfer functionality of SSH services (SCP/SFTP).
    - On production Windows bastions, local drive mappings are disabled by Group
      Policy settings.
    - Configuration settings for enforcing these technical controls are managed
-     by Datica's configuration management tooling, Chef/Salt.
+     by Versionista's configuration management tooling, Chef/Salt.
 
 ## 7.14 PaaS Customer Access to Systems
 
-Datica grants PaaS customer secure system access via VPN connections. This
+Versionista grants PaaS customer secure system access via VPN connections. This
 access is only to Customer-specific systems, no other systems in the
 environment. These connections are setup at customer deployment. These
 connections are secured and encrypted and the only method for customers to
-connect to Datica hosted systems.
+connect to Versionista hosted systems.
 
-In the case of data migration, Datica does, on a case by case basis, support
-customers in importing data. In these cases Datica requires that all data is
-secured and encrypted in transit, such as by using SFTP or SCP for transferring
-files.
+In the case of data migration, Versionista does, on a case by case basis,
+support customers in importing data. In these cases Versionista requires that
+all data is secured and encrypted in transit, such as by using SFTP or SCP for
+transferring files.
 
-In the case of an investigation, Datica will assist customers, at Datica's
-discretion, and law enforcement in forensics.
+In the case of an investigation, Versionista will assist customers, at
+Versionista's discretion, and law enforcement in forensics.

@@ -1,10 +1,11 @@
 # 15. IDS Policy
 
-In order to preserve the integrity of data that Datica stores, processes, or
-transmits for Customers, Datica implements strong intrusion detection tools and
-policies to proactively track and retroactively investigate unauthorized access.
-Datica currently utilizes [OSSEC](http://www.ossec.net/) to track file system
-integrity, monitor log data, and detect rootkit access.
+In order to preserve the integrity of data that Versionista stores, processes,
+or transmits for Customers, Versionista implements strong intrusion detection
+tools and policies to proactively track and retroactively investigate
+unauthorized access. Versionista currently utilizes
+[OSSEC](http://www.ossec.net/) to track file system integrity, monitor log data,
+and detect rootkit access.
 
 ## 15.1 Applicable Standards
 
@@ -29,11 +30,11 @@ integrity, monitor log data, and detect rootkit access.
    suspicious changes are made to the file system.
 4. Automatic monitoring is done to identify patterns that might signify the lack
    of availability of certain services and systems (DoS attacks).
-5. Datica firewalls monitor all incoming traffic to detect potential
+5. Versionista firewalls monitor all incoming traffic to detect potential
    denial-of-service attacks. Suspected attack sources are blocked
    automatically. Additionally, our hosting provider actively monitors its
    network to detect denial-of-service attacks.
 6. All new firewall rules and configuration changes are tested before being
    pushed into production. All firewall and router rules are reviewed every
    quarter.
-7. Datica utilizes redundant firewall on network perimeters.
+7. Versionista utilizes redundant firewall on network perimeters.

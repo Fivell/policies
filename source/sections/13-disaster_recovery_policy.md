@@ -1,8 +1,8 @@
 # 13. Disaster Recovery Policy
 
-The Datica Contingency Plan establishes procedures to recover Datica following a
-disruption resulting from a disaster. This Disaster Recovery Policy is
-maintained by the Datica Security Officer and Privacy Officer.
+The Versionista Contingency Plan establishes procedures to recover Versionista
+following a disruption resulting from a disaster. This Disaster Recovery Policy
+is maintained by the Versionista Security Officer and Privacy Officer.
 
 The following objectives have been established for this plan:
 
@@ -14,31 +14,33 @@ The following objectives have been established for this plan:
      to the original system;
    - _Reconstitution phase_ to restore IT system processing capabilities to
      normal operations.
-2. Identify the activities, resources, and procedures needed to carry out Datica
-   processing requirements during prolonged interruptions to normal operations.
-3. Identify and define the impact of interruptions to Datica systems.
-4. Assign responsibilities to designated personnel and provide guidance for
-   recovering Datica systems during prolonged periods of interruption to normal
+2. Identify the activities, resources, and procedures needed to carry out
+   Versionista processing requirements during prolonged interruptions to normal
    operations.
-5. Ensure coordination with other Datica staff who will participate in the
+3. Identify and define the impact of interruptions to Versionista systems.
+4. Assign responsibilities to designated personnel and provide guidance for
+   recovering Versionista systems during prolonged periods of interruption to
+   normal operations.
+5. Ensure coordination with other Versionista staff who will participate in the
    contingency planning strategies.
 6. Ensure coordination with external points of contact and vendors who will
    participate in the contingency planning strategies.
 
-This Datica Contingency Plan has been developed as required under the Office of
-Management and Budget (OMB) Circular A-130, Management of Federal Information
-Resources, Appendix III, November 2000, and the Health Insurance Portability and
-Accountability Act (HIPAA) Final Security Rule, Section §164.308(a)(7), which
-requires the establishment and implementation of procedures for responding to
-events that damage systems containing electronic protected health information.
+This Versionista Contingency Plan has been developed as required under the
+Office of Management and Budget (OMB) Circular A-130, Management of Federal
+Information Resources, Appendix III, November 2000, and the Health Insurance
+Portability and Accountability Act (HIPAA) Final Security Rule, Section
+§164.308(a)(7), which requires the establishment and implementation of
+procedures for responding to events that damage systems containing electronic
+protected health information.
 
-This Datica Contingency Plan is created under the legislative requirements set
-forth in the Federal Information Security Management Act (FISMA) of 2002 and the
-guidelines established by the National Institute of Standards and Technology
+This Versionista Contingency Plan is created under the legislative requirements
+set forth in the Federal Information Security Management Act (FISMA) of 2002 and
+the guidelines established by the National Institute of Standards and Technology
 (NIST) Special Publication (SP) 800-34, titled "Contingency Planning Guide for
 Information Technology Systems" dated June 2002.
 
-The Datica Contingency Plan also complies with the following federal and
+The Versionista Contingency Plan also complies with the following federal and
 departmental policies:
 
 - The Computer Security Act of 1987;
@@ -58,7 +60,8 @@ Example of the types of disasters that would initiate this plan are natural
 disaster, political disturbances, man made disaster, external human threats,
 internal malicious activities.
 
-Datica defines two categories of systems from a disaster recovery perspective.
+Versionista defines two categories of systems from a disaster recovery
+perspective.
 
 1. _Critical Systems_. These systems host application servers and database
    servers or are required for functioning of systems that host application
@@ -85,13 +88,13 @@ Datica defines two categories of systems from a disaster recovery perspective.
 ## 13.2 Line of Succession
 
 The following order of succession to ensure that decision-making authority for
-the Datica Contingency Plan is uninterrupted. The Chief Technology Officer (CTO)
-is responsible for ensuring the safety of personnel and the execution of
-procedures documented within this Datica Contingency Plan. If the CTO is unable
-to function as the overall authority or chooses to delegate this responsibility
-to a successor, the CEO or COO shall function as that authority. To provide
-contact initiation should the contingency plan need to be initiated, please use
-the contact list below.
+the Versionista Contingency Plan is uninterrupted. The Chief Technology Officer
+(CTO) is responsible for ensuring the safety of personnel and the execution of
+procedures documented within this Versionista Contingency Plan. If the CTO is
+unable to function as the overall authority or chooses to delegate this
+responsibility to a successor, the CEO or COO shall function as that authority.
+To provide contact initiation should the contingency plan need to be initiated,
+please use the contact list below.
 
 - Ryan Rich, CPO/Security Officer: 503-334-9134, ryan@datica.com
 - Travis Good, CEO/Privacy Officer: 303-351-2640, travis@datica.com
@@ -101,10 +104,10 @@ the contact list below.
 The following teams have been developed and trained to respond to a contingency
 event affecting the IT system.
 
-1. The **Ops Team** is responsible for recovery of the Datica hosted
+1. The **Ops Team** is responsible for recovery of the Versionista hosted
    environment, network devices, and all servers. Members of the team include
    personnel who are also responsible for the daily operations and maintenance
-   of Datica. The team leader is the CTO and directs the Dev Ops Team.
+   of Versionista. The team leader is the CTO and directs the Dev Ops Team.
 2. The **Web Services Team** is responsible for assuring all application
    servers, web services, and platform add-ons are working. It is also
    responsible for testing redeployments and assessing damage to the
@@ -156,9 +159,9 @@ designated requirements. Technical testing shall include, but is not limited to:
 ### 13.5.1 Notification and Activation Phase
 
 This phase addresses the initial actions taken to detect and assess damage
-inflicted by a disruption to Datica. Based on the assessment of the Event,
-sometimes according to the Datica Incident Response Policy, the Contingency Plan
-may be activated by the CTO.
+inflicted by a disruption to Versionista. Based on the assessment of the Event,
+sometimes according to the Versionista Incident Response Policy, the Contingency
+Plan may be activated by the CTO.
 
 The notification sequence is listed below:
 
@@ -176,11 +179,11 @@ The notification sequence is listed below:
   - Alternate Assessment Procedures:
     - Upon notification, the CTO is to follow the procedures for damage
       assessment with combined Dev Ops and Web Services Teams.
-- The Datica Contingency Plan is to be activated if one or more of the following
-  criteria are met:
-  - Datica systems will be unavailable for more than 48 hours.
+- The Versionista Contingency Plan is to be activated if one or more of the
+  following criteria are met:
+  - Versionista systems will be unavailable for more than 48 hours.
   - Hosting facility is damaged and will be unavailable for more than 24 hours.
-  - Other criteria, as appropriate and as defined by Datica.
+  - Other criteria, as appropriate and as defined by Versionista.
 - If the plan is to be activated, the CTO is to notify and inform team members
   of the details of the event and if relocation is required.
 - Upon notification from the CTO, group leaders and managers are to notify their
@@ -199,11 +202,12 @@ This section provides procedures for recovering the application at an alternate
 site, whereas other efforts are directed to repair damage to the original system
 and capabilities.
 
-The following procedures are for recovering the Datica infrastructure at the
-alternate site. Procedures are outlined per team required. Each procedure should
-be executed in the sequence it is presented to maintain efficient operations.
+The following procedures are for recovering the Versionista infrastructure at
+the alternate site. Procedures are outlined per team required. Each procedure
+should be executed in the sequence it is presented to maintain efficient
+operations.
 
-Recovery Goal: The goal is to rebuild Datica infrastructure to a production
+Recovery Goal: The goal is to rebuild Versionista infrastructure to a production
 state.
 
 The tasks outlines below are not sequential and some can be run in parallel.
@@ -221,12 +225,12 @@ The tasks outlines below are not sequential and some can be run in parallel.
 
 ### 13.5.3 Reconstitution Phase
 
-This section discusses activities necessary for restoring Datica operations at
-the original or new site. The goal is to restore full operations within 24 hours
-of a disaster or outage. When the hosted data center at the original or new site
-has been restored, Datica operations at the alternate site may be transitioned
-back. The goal is to provide a seamless transition of operations from the
-alternate site to the computer center.
+This section discusses activities necessary for restoring Versionista operations
+at the original or new site. The goal is to restore full operations within 24
+hours of a disaster or outage. When the hosted data center at the original or
+new site has been restored, Versionista operations at the alternate site may be
+transitioned back. The goal is to provide a seamless transition of operations
+from the alternate site to the computer center.
 
 1. Original or New Site Restoration
    - Begin replication of new environment using automated and tested scripts,
@@ -237,6 +241,6 @@ alternate site to the computer center.
    - Assure systems are appropriately patched and up to date. - Dev Ops
    - Update DNS to new environment. - Dev Ops
 2. Plan Deactivation
-   - If the Datica environment is moved back to the original site from the
+   - If the Versionista environment is moved back to the original site from the
      alternative site, all hardware used at the alternate site should be handled
-     and disposed of according to the Datica Media Disposal Policy.
+     and disposed of according to the Versionista Media Disposal Policy.

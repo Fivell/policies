@@ -1,10 +1,10 @@
 # 9. Configuration Management Policy
 
-Datica standardizes and automates configuration management through the use of
-Chef/Salt scripts as well as documentation of all changes to production systems
-and networks. Chef and Salt automatically configure all Datica systems according
-to established and tested policies, and are used as part of our Disaster
-Recovery plan and process.
+Versionista standardizes and automates configuration management through the use
+of Chef/Salt scripts as well as documentation of all changes to production
+systems and networks. Chef and Salt automatically configure all Versionista
+systems according to established and tested policies, and are used as part of
+our Disaster Recovery plan and process.
 
 ## 9.1 Applicable Standards
 
@@ -19,11 +19,11 @@ Recovery plan and process.
 ## 9.2 Configuration Management Policies
 
 1. Chef and Salt are used to standardize and automate configuration management.
-2. No systems are deployed into Datica environments without approval of the
-   Datica CTO.
+2. No systems are deployed into Versionista environments without approval of the
+   Versionista CTO.
 3. All changes to production systems, network devices, and firewalls are
-   approved by the Datica CTO before they are implemented to assure they comply
-   with business and security requirements.
+   approved by the Versionista CTO before they are implemented to assure they
+   comply with business and security requirements.
 4. All changes to production systems are tested before they are implemented in
    production.
 5. Implementation of approved changes are only performed by authorized
@@ -36,7 +36,7 @@ Recovery plan and process.
    - The Security Officer maintains scripts to generate inventory lists on
      demand using APIs provided by each cloud provider.
    - These scripts are used to generate the diagrams and asset lists required by
-     the Risk Assessment phase of Datica's Risk Management procedures
+     the Risk Assessment phase of Versionista's Risk Management procedures
      ([§4.3.1](#4.3-risk-management-procedures)).
    - After every use of these scripts, the Security Officer will verify their
      accuracy by reconciling their output with recent changes to production
@@ -48,12 +48,12 @@ Recovery plan and process.
 8. All software and systems are tested using unit tests and end to end tests.
 9. All committed code is reviewed using pull requests to assure software code
    quality and proactively detect potential security issues in development.
-10. Datica utilizes development and staging environments that mirror production
-    to assure proper function.
-11. Datica also deploys environments locally using Vagrant to assure
+10. Versionista utilizes development and staging environments that mirror
+    production to assure proper function.
+11. Versionista also deploys environments locally using Vagrant to assure
     functionality before moving to staging or production.
 12. All formal change requests require unique ID and authentication.
-13. Datica uses the
+13. Versionista uses the
     [Security Technical Implementation Guides (STIGs)](http://iase.disa.mil/stigs/)
     published by the Defense Information Systems Agency as a baseline for
     hardening systems.
@@ -69,7 +69,7 @@ Recovery plan and process.
 ## 9.3 Provisioning Production Systems
 
 1. Before provisioning any systems, ops team members must file a request in the
-   Datica Quality Management System.
+   Versionista Quality Management System.
    - Quality Management System access requires authenticated users.
    - The CTO grants access to the Quality Management System following the
      procedures covered in the
@@ -163,8 +163,8 @@ Recovery plan and process.
    or Windows Domain Controllers must be configured with appropriate Salt
    states.
    - These Salt states have been approved by the CTO, or an authorized delegate
-     of the CTO, to be in accordance with all Datica policies, including setting
-     appropriate:
+     of the CTO, to be in accordance with all Versionista policies, including
+     setting appropriate:
      - Audit logging requirements.
      - Password size, strength, and expiration requirements.
      - Transmission encryption requirements.
@@ -196,7 +196,7 @@ Recovery plan and process.
 
 ## 9.5 Patch Management Procedures
 
-1. Datica uses automated tooling to ensure systems are up-to-date with the
+1. Versionista uses automated tooling to ensure systems are up-to-date with the
    latest security patches.
 2. On Ubuntu Linux systems, the unattended-upgrades tool is used to apply
    security patches in phases.
@@ -247,10 +247,10 @@ Recovery plan and process.
      are not applicable.
 5. If the feature or defect interacts with ePHI, or controls access to data
    potentially containing ePHI, the code changes must be reviewed by two members
-   of Datica's Blue Team (software security team) before the feature is marked
-   as complete.
+   of Versionista's Blue Team (software security team) before the feature is
+   marked as complete.
    - The Blue Team members will provide a security analysis of features to
-     ensure they satisfy Datica's compliance and security commitments.
+     ensure they satisfy Versionista's compliance and security commitments.
    - This review must include a security analysis for potential vulnerabilities
      such as those listed in the
      [OWASP Top 10](https://www.owasp.org/index.php/Top10) or the
@@ -259,7 +259,7 @@ Recovery plan and process.
      users will generate appropriate audit log entries.
    - Blue Team members are required to undergo annual training on identifying
      the most common software vulnerabilities and will receive ongoing training
-     on Datica's compliance and security requirements.
+     on Versionista's compliance and security requirements.
 6. Once the review process finishes, each reviewer should leave a comment on the
    pull request saying "looks good to me" (often abbreviated as "LGTM"), at
    which point the original author(s) may merge their change into the release

@@ -1,19 +1,19 @@
 # 8. Auditing Policy
 
-Datica shall audit access and activity of electronic protected health
+Versionista shall audit access and activity of electronic protected health
 information (ePHI) applications and systems in order to ensure compliance. The
 Security Rule requires healthcare organizations to implement reasonable
 hardware, software, and/or procedural mechanisms that record and examine
 activity in information systems that contain or use ePHI. Audit activities may
 be limited by application, system, and/or network auditing capabilities and
-resources. Datica shall make reasonable and good-faith efforts to safeguard
+resources. Versionista shall make reasonable and good-faith efforts to safeguard
 information privacy and security through a well-thought-out approach to auditing
 that is consistent with available resources.
 
-It is the policy of Datica to safeguard the confidentiality, integrity, and
+It is the policy of Versionista to safeguard the confidentiality, integrity, and
 availability of applications, systems, and networks. To ensure that appropriate
-safeguards are in place and effective, Datica shall audit access and activity to
-detect, report, and guard against:
+safeguards are in place and effective, Versionista shall audit access and
+activity to detect, report, and guard against:
 
 - Network vulnerabilities and intrusions;
 - Breaches in confidentiality and security of patient protected health
@@ -22,7 +22,7 @@ detect, report, and guard against:
 - Improper alteration or destruction of ePHI;
 - Out of date software and/or software known to have vulnerabilities.
 
-This policy applies to all Datica Add-on systems that store, transmit, or
+This policy applies to all Versionista Add-on systems that store, transmit, or
 process ePHI.
 
 ## 8.1 Applicable Standards
@@ -51,7 +51,7 @@ process ePHI.
 ## 8.2 Auditing Policies
 
 1. Responsibility for auditing information system access and activity is
-   assigned to Datica's Security Officer. The Security Officer shall:
+   assigned to Versionista's Security Officer. The Security Officer shall:
    - Assign the task of generating reports for audit activities to the workforce
      member responsible for the application, system, or network;
    - Assign the task of reviewing the audit reports to the workforce member
@@ -60,16 +60,16 @@ process ePHI.
    - Organize and provide oversight to a team structure charged with audit
      compliance activities (e.g., parameters, frequency, sample sizes, report
      formats, evaluation, follow-up, etc.).
-   - All connections to Datica are monitored. Access is limited to certain
+   - All connections to Versionista are monitored. Access is limited to certain
      services, ports, and destinations. Exceptions to these rules, if created,
      are reviewed on an annual basis.
-2. Datica's auditing processes shall address access and activity at the
+2. Versionista's auditing processes shall address access and activity at the
    following levels listed below. In the case of PaaS Customers, Application and
-   User level auditing is the responsibility of the Customer; Datica provides
-   software to aggregate and view User and Application logs, but the log data
-   collected is the responsibility of the PaaS Customer. Auditing processes may
-   address date and time of each log-on attempt, date and time of each log-off
-   attempt, devices used, functions performed, etc.
+   User level auditing is the responsibility of the Customer; Versionista
+   provides software to aggregate and view User and Application logs, but the
+   log data collected is the responsibility of the PaaS Customer. Auditing
+   processes may address date and time of each log-on attempt, date and time of
+   each log-off attempt, devices used, functions performed, etc.
    - User: User level audit trails generally monitor and log all commands
      directly initiated by the user, all identification and authentication
      attempts, and data and services accessed.
@@ -77,32 +77,33 @@ process ePHI.
      user activities, including data accessed and modified and specific actions.
    - System: System level audit trails generally monitor and log user
      activities, applications accessed, and other system defined specific
-     actions. Datica utilizes file system monitoring from OSSEC to assure the
-     integrity of file system data.
+     actions. Versionista utilizes file system monitoring from OSSEC to assure
+     the integrity of file system data.
    - Network: Network level audit trails generally monitor information on what
      is operating, penetrations, and vulnerabilities.
-3. Datica shall log all incoming and outgoing traffic to into and out of its
-   environment. This includes all successful and failed attempts at data access
-   and editing. Data associated with this data will include origin, destination,
-   time, and other relevant details that are available to Datica.
-4. Datica utilizes OSSEC to scan all systems for malicious and unauthorized
+3. Versionista shall log all incoming and outgoing traffic to into and out of
+   its environment. This includes all successful and failed attempts at data
+   access and editing. Data associated with this data will include origin,
+   destination, time, and other relevant details that are available to
+   Versionista.
+4. Versionista utilizes OSSEC to scan all systems for malicious and unauthorized
    software every 2 hours and at reboot of systems.
-5. Datica leverages process monitoring tools throughout its environment.
-6. Datica treats its Dashboard as a Platform Add-on and, as such, it logs all
-   activity associated with Dashboard Access.
-7. Datica uses OSSEC to monitor the integrity of log files by utilizing OSSEC
-   System Integrity Checking capabilities.
-8. Datica shall identify "trigger events" or criteria that raise awareness of
-   questionable conditions of viewing of confidential information. The "events"
-   may be applied to the entire Datica Platform or may be specific to a
-   Customer, partner, business associate, Platform Add-on or application (See
-   Listing of Potential Trigger Events below).
-9. In addition to trigger events, Datica utilizes OSSEC log correlation
+5. Versionista leverages process monitoring tools throughout its environment.
+6. Versionista treats its Dashboard as a Platform Add-on and, as such, it logs
+   all activity associated with Dashboard Access.
+7. Versionista uses OSSEC to monitor the integrity of log files by utilizing
+   OSSEC System Integrity Checking capabilities.
+8. Versionista shall identify "trigger events" or criteria that raise awareness
+   of questionable conditions of viewing of confidential information. The
+   "events" may be applied to the entire Versionista Platform or may be specific
+   to a Customer, partner, business associate, Platform Add-on or application
+   (See Listing of Potential Trigger Events below).
+9. In addition to trigger events, Versionista utilizes OSSEC log correlation
    functionality to proactively identify and enable alerts based on log data.
 10. Logs are reviewed weekly by the Security Officer.
-11. Datica's Security Officer and Privacy Officer are authorized to select and
-    use auditing tools that are designed to detect network vulnerabilities and
-    intrusions. Such tools are explicitly prohibited by others, including
+11. Versionista's Security Officer and Privacy Officer are authorized to select
+    and use auditing tools that are designed to detect network vulnerabilities
+    and intrusions. Such tools are explicitly prohibited by others, including
     Customers and Partners, without the explicit authorization of the Security
     Officer. These tools may include, but are not limited to:
     - Scanning tools and devices;
@@ -111,8 +112,8 @@ process ePHI.
     - Passive and active intrusion detection systems.
 12. The process for review of audit logs, trails, and reports shall include:
     - Description of the activity as well as rationale for performing the audit.
-    - Identification of which Datica workforce members will be responsible for
-      review (workforce members shall not review audit logs that pertain to
+    - Identification of which Versionista workforce members will be responsible
+      for review (workforce members shall not review audit logs that pertain to
       their own system activity).
     - Frequency of the auditing process.
     - Determination of significant events requiring further review and
@@ -141,21 +142,21 @@ process ePHI.
    user.
 2. A request for an audit for specific cause must include time frame, frequency,
    and nature of the request. The request must be reviewed and approved by
-   Datica's Privacy or Security Officer.
-3. A request for an audit must be approved by Datica's Privacy Officer and/or
-   Security Officer before proceeding. Under no circumstances shall detailed
-   audit information be shared with parties without proper permissions and
-   access to see such data.
+   Versionista's Privacy or Security Officer.
+3. A request for an audit must be approved by Versionista's Privacy Officer
+   and/or Security Officer before proceeding. Under no circumstances shall
+   detailed audit information be shared with parties without proper permissions
+   and access to see such data.
    - Should the audit disclose that a workforce member has accessed ePHI
      inappropriately, the minimum necessary/least privileged information shall
-     be shared with Datica's Security Officer to determine appropriate
+     be shared with Versionista's Security Officer to determine appropriate
      sanction/corrective disciplinary action.
    - Only de-identified information shall be shared with Customer or Partner
      regarding the results of the investigative audit process. This information
-     will be communicated to the appropriate personnel by Datica's Privacy
+     will be communicated to the appropriate personnel by Versionista's Privacy
      Officer or designee. Prior to communicating with customers and partners
-     regarding an audit, it is recommended that Datica consider seeking risk
-     management and/or legal counsel.
+     regarding an audit, it is recommended that Versionista consider seeking
+     risk management and/or legal counsel.
 
 ## 8.4 Review and Reporting of Audit Findings
 
@@ -163,11 +164,11 @@ process ePHI.
    manner, currently monthly, by the responsible workforce member(s). On a
    quarterly basis, logs are reviewed to assure the proper data is being
    captured and retained. The following process details how log reviews are done
-   at Datica:
+   at Versionista:
 1. The Security Officer initiates the log review by creating an Issue in the
-   Datica Quality Management System.
-1. The Security Officer, or a Datica Security Engineer assigned by the Security
-   Officer, is assigned to review the logs.
+   Versionista Quality Management System.
+1. The Security Officer, or a Versionista Security Engineer assigned by the
+   Security Officer, is assigned to review the logs.
 1. Relevant audit log findings are added to the Issue; these findings are
    investigated in a later step. Once those steps are completed, the Issue is
    then reviewed again.
@@ -181,20 +182,21 @@ process ePHI.
    findings to those workforce members, Customers, or Partners requesting the
    audit.
    - Significant findings shall be reported immediately in a written format.
-     Datica's security incident response form may be utilized to report a single
-     event.
+     Versionista's security incident response form may be utilized to report a
+     single event.
    - Routine findings shall be reported to the sponsoring leadership structure
      in a written report format.
 1. Reports of audit results shall be limited to internal use on a minimum
    necessary/need-to-know basis. Audit results shall not be disclosed externally
    without administrative and/or legal counsel approval.
 1. Security audits constitute an internal, confidential monitoring practice that
-   may be included in Datica's performance improvement activities and reporting.
-   Care shall be taken to ensure that the results of the audits are disclosed to
-   administrative level oversight structures only and that information which may
-   further expose organizational risk is shared with extreme caution. Generic
-   security audit information may be included in organizational reports
-   (individually-identifiable ePHI shall not be included in the reports).
+   may be included in Versionista's performance improvement activities and
+   reporting. Care shall be taken to ensure that the results of the audits are
+   disclosed to administrative level oversight structures only and that
+   information which may further expose organizational risk is shared with
+   extreme caution. Generic security audit information may be included in
+   organizational reports (individually-identifiable ePHI shall not be included
+   in the reports).
 1. Whenever indicated through evaluation and reporting, appropriate corrective
    actions must be undertaken. These actions shall be documented and shared with
    the responsible workforce members, Customers, and/or Partners.
@@ -205,14 +207,15 @@ process ePHI.
 
 1. Periodic monitoring of Customer and Partner activity shall be carried out to
    ensure that access and activity is appropriate for privileges granted and
-   necessary to the arrangement between Datica and the 3rd party. Datica will
-   make every effort to assure Customers and Partners do not gain access to data
-   outside of their own Environments.
+   necessary to the arrangement between Versionista and the 3rd party.
+   Versionista will make every effort to assure Customers and Partners do not
+   gain access to data outside of their own Environments.
 2. If it is determined that the Customer or Partner has exceeded the scope of
-   access privileges, Datica's leadership must remedy the problem immediately.
+   access privileges, Versionista's leadership must remedy the problem
+   immediately.
 3. If it is determined that a Customer or Partner has violated the terms of the
    HIPAA business associate agreement or any terms within the HIPAA regulations,
-   Datica must take immediate action to remediate the situation. Continued
+   Versionista must take immediate action to remediate the situation. Continued
    violations may result in discontinuation of the business relationship.
 
 ## 8.6 Audit Log Security Controls and Backup
@@ -228,31 +231,31 @@ process ePHI.
    by those with system administrator privileges.
    - Separate systems are used to apply the security principle of "separation of
      duties" to protect audit trails from hackers.
-   - Datica logging servers include Elasticsearch, Logstash, and Kibana (ELK) as
-     part of their baseline configuration to ease reviewing of audit log data.
-     The ELK toolkit provides message summarization, reduction, and reporting
-     functionality.
-4. For PaaS Customers choosing to use Datica logging services, log data will be
-   separated from the log data of other Datica Customers.
+   - Versionista logging servers include Elasticsearch, Logstash, and Kibana
+     (ELK) as part of their baseline configuration to ease reviewing of audit
+     log data. The ELK toolkit provides message summarization, reduction, and
+     reporting functionality.
+4. For PaaS Customers choosing to use Versionista logging services, log data
+   will be separated from the log data of other Versionista Customers.
 
 ## 8.7 Workforce Training, Education, Awareness and Responsibilities
 
-1. Datica workforce members are provided training, education, and awareness on
-   safeguarding the privacy and security of business and ePHI. Datica's
+1. Versionista workforce members are provided training, education, and awareness
+   on safeguarding the privacy and security of business and ePHI. Versionista's
    commitment to auditing access and activity of the information applications,
    systems, and networks is communicated through new employee orientation,
-   ongoing training opportunities and events, and applicable policies. Datica
-   workforce members are made aware of responsibilities with regard to privacy
-   and security of information as well as applicable sanctions/corrective
-   disciplinary actions should the auditing process detect a workforce member's
-   failure to comply with organizational policies.
-2. Datica Customers are provided with necessary information to understand Datica
-   auditing capabilities, and PaaS Customers can choose the level of logging and
-   auditing that Datica will implement on their behalf.
+   ongoing training opportunities and events, and applicable policies.
+   Versionista workforce members are made aware of responsibilities with regard
+   to privacy and security of information as well as applicable
+   sanctions/corrective disciplinary actions should the auditing process detect
+   a workforce member's failure to comply with organizational policies.
+2. Versionista Customers are provided with necessary information to understand
+   Versionista auditing capabilities, and PaaS Customers can choose the level of
+   logging and auditing that Versionista will implement on their behalf.
 
 ## 8.8 External Audits of Information Access and Activity
 
-1. Prior to contracting with an external audit firm, Datica shall:
+1. Prior to contracting with an external audit firm, Versionista shall:
    - Outline the audit responsibility, authority, and accountability;
    - Choose an audit firm that is independent of other organizational
      operations;
@@ -277,7 +280,7 @@ process ePHI.
    (currently S3) using automated scripts, and is retained for a minimum of one
    year.
 4. For PaaS Customers, they choose the length of backup retention and
-   availability that Datica will implement and enforce.
+   availability that Versionista will implement and enforce.
 
 ## 8.10 Potential Trigger Events
 

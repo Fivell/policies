@@ -1,10 +1,10 @@
 # 17. Data Integrity Policy
 
-Datica takes data integrity very seriously. As stewards and partners of Datica
-Customers, we strive to assure data is protected from unauthorized access and
-that it is available when needed. The following policies drive many of our
-procedures and technical settings in support of the Datica mission of data
-protection.
+Versionista takes data integrity very seriously. As stewards and partners of
+Versionista Customers, we strive to assure data is protected from unauthorized
+access and that it is available when needed. The following policies drive many
+of our procedures and technical settings in support of the Versionista mission
+of data protection.
 
 Production systems that create, receive, store, or transmit Customer data
 (hereafter "Production Systems") must follow the guidelines described in this
@@ -28,7 +28,7 @@ section.
 ## 17.3 Monitoring Log-in Attempts
 
 1. All access to Production Systems must be logged. This is done following the
-   Datica Auditing Policy.
+   Versionista Auditing Policy.
 
 ## 17.4 Prevention of Malware on Production Systems
 
@@ -42,7 +42,7 @@ section.
      if new signatures are available.
    - Logs of virus scans are maintained according to the requirements outlined
      in [§8.6](#8.6-audit-log-security-controls-and-backup).
-3. All Production Systems are to only be used for Datica business needs.
+3. All Production Systems are to only be used for Versionista business needs.
 
 ## 17.5 Patch Management
 
@@ -53,10 +53,10 @@ section.
    patches are applied within 30 days from testing and all security patches are
    applied within 90 days after testing.
    - In the case of PaaS Customers, updates to Application and Database versions
-     are the responsibility of Customers, though Datica will, at its own
+     are the responsibility of Customers, though Versionista will, at its own
      discretion, notify and recommend updates to Customer systems.
 2. Administrators subscribe to mailing lists to ensure that they are using
-   current versions of all Datica-managed software on Production Systems.
+   current versions of all Versionista-managed software on Production Systems.
 
 ## 17.6 Intrusion Detection and Vulnerability Scanning
 
@@ -83,10 +83,10 @@ section.
    improper alteration or destruction.
 3. Ensure that confidential data is stored in a manner that supports user access
    logs and automated monitoring for potential security incidents.
-4. Ensure Datica Customer Production Data is segmented and only accessible to
-   Customers authorized to access data.
+4. Ensure Versionista Customer Production Data is segmented and only accessible
+   to Customers authorized to access data.
 5. All Production Data at rest is stored on encrypted volumes using encryption
-   keys managed by Datica. Encryption at rest is ensured through the use of
+   keys managed by Versionista. Encryption at rest is ensured through the use of
    automated deployment scripts referenced in the
    [Configuration Management Policy](#9.-configuration-management-policy).
 6. Volume encryption keys and machines that generate volume encryption keys are
@@ -99,7 +99,7 @@ section.
 ## 17.9 Transmission Security
 
 1. All data transmission is encrypted end to end using encryption keys managed
-   by Datica. Encryption is not terminated at the network end point, and is
+   by Versionista. Encryption is not terminated at the network end point, and is
    carried through to the application.
 2. Transmission encryption keys and machines that generate keys are protected
    from unauthorized access. Transmission encryption key material is protected
@@ -110,7 +110,7 @@ section.
    session keys in the case of IPsec encryption).
 4. Transmission encryption keys are limited to use for one year and then must be
    regenerated.
-5. In the case of Datica provided APIs, provide mechanisms to assure person
+5. In the case of Versionista provided APIs, provide mechanisms to assure person
    sending or receiving data is authorized to send and save data.
 6. System logs of all transmissions of Production Data access. These logs must
    be available for audit.

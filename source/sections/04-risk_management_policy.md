@@ -1,6 +1,6 @@
 # 4. Risk Management Policy
 
-This policy establishes the scope, objectives, and procedures of Datica's
+This policy establishes the scope, objectives, and procedures of Versionista's
 information security risk management process. The risk management process is
 intended to support and protect the organization and its ability to fulfill its
 mission.
@@ -21,51 +21,54 @@ mission.
 
 ## 4.2 Risk Management Policies
 
-1. It is the policy of Datica to conduct thorough and timely risk assessments of
-   the potential threats and vulnerabilities to the confidentiality, integrity,
-   and availability of electronic protected health information (ePHI) (and other
-   confidential and proprietary electronic information) it stores, transmits,
-   and/or processes for its Customers and to develop strategies to efficiently
-   and effectively mitigate the risks identified in the assessment process as an
-   integral part of the Datica's information security program.
+1. It is the policy of Versionista to conduct thorough and timely risk
+   assessments of the potential threats and vulnerabilities to the
+   confidentiality, integrity, and availability of electronic protected health
+   information (ePHI) (and other confidential and proprietary electronic
+   information) it stores, transmits, and/or processes for its Customers and to
+   develop strategies to efficiently and effectively mitigate the risks
+   identified in the assessment process as an integral part of the Versionista's
+   information security program.
 2. Risk analysis and risk management are recognized as important components of
-   Datica's corporate compliance program and information security program in
-   accordance with the Risk Analysis and Risk Management implementation
+   Versionista's corporate compliance program and information security program
+   in accordance with the Risk Analysis and Risk Management implementation
    specifications within the Security Management standard and the evaluation
    standards set forth in the HIPAA Security Rule, 45 CFR 164.308(a)(1)(ii)(A),
    164.308(a)(1)(ii)(B), 164.308(a)(1)(i), and 164.308(a)(8).
    1. Risk assessments are done throughout product life cycles;
    2. Before the integration of new system technologies and before changes are
-      made to Datica physical safeguards; and
+      made to Versionista physical safeguards; and
       - These changes do not include routine updates to existing systems,
         deployments of new systems created based on previously configured
         systems, deployments of new Customers, or new code developed for
-        operations and management of the Datica Platform.
-   3. While making changes to Datica physical equipment and facilities that
+        operations and management of the Versionista Platform.
+   3. While making changes to Versionista physical equipment and facilities that
       introduce new, untested configurations.
-   4. Datica performs periodic technical and non-technical assessments of the
-      security rule requirements as well as in response to environmental or
+   4. Versionista performs periodic technical and non-technical assessments of
+      the security rule requirements as well as in response to environmental or
       operational changes affecting the security of ePHI.
-3. Datica implements security measures sufficient to reduce risks and
+3. Versionista implements security measures sufficient to reduce risks and
    vulnerabilities to a reasonable and appropriate level to:
-   1. Ensure the confidentiality, integrity, and availability of all ePHI Datica
-      receives, maintains, processes, and/or transmits for its Customers;
+   1. Ensure the confidentiality, integrity, and availability of all ePHI
+      Versionista receives, maintains, processes, and/or transmits for its
+      Customers;
    2. Protect against any reasonably anticipated threats or hazards to the
       security or integrity of Customer ePHI;
    3. Protect against any reasonably anticipated uses or disclosures of Customer
       ePHI that are not permitted or required; and
    4. Ensure compliance by all workforce members.
 4. Any risk remaining (residual) after other risk controls have been applied,
-   requires sign off by the senior management and Datica's Security Officer.
-5. All Datica workforce members are expected to fully cooperate with all persons
-   charged with doing risk management work, including contractors and audit
-   personnel. Any workforce member that violates this policy will be subject to
-   disciplinary action based on the severity of the violation, as outlined in
-   the Datica Roles Policy.
+   requires sign off by the senior management and Versionista's Security
+   Officer.
+5. All Versionista workforce members are expected to fully cooperate with all
+   persons charged with doing risk management work, including contractors and
+   audit personnel. Any workforce member that violates this policy will be
+   subject to disciplinary action based on the severity of the violation, as
+   outlined in the Versionista Roles Policy.
 6. The implementation, execution, and maintenance of the information security
-   risk analysis and risk management process is the responsibility of Datica's
-   Security Officer (or other designated employee), and the identified Risk
-   Management Team.
+   risk analysis and risk management process is the responsibility of
+   Versionista's Security Officer (or other designated employee), and the
+   identified Risk Management Team.
 7. All risk management efforts, including decisions made on what controls to put
    in place as well as those to not put into place, are documented and the
    documentation is maintained for six years.
@@ -73,7 +76,7 @@ mission.
    discovery, and mitigation, are outlined in detail below. The process is
    tracked, measured, and monitored using the following procedures:
 9. The Security Officer or the Privacy Officer initiates the Risk Management
-   Procedures by creating an Issue in the Datica Quality Management System.
+   Procedures by creating an Issue in the Versionista Quality Management System.
 10. The Security Officer or the Privacy Officer is assigned to carry out the
     Risk Management Procedures.
 11. All findings are documented in an approved spreadsheet that is linked to the
@@ -99,10 +102,11 @@ risk.
 
   - The first step in assessing risk is to define the scope of the effort. To do
     this, identify where ePHI is received, maintained, processed, or
-    transmitted. Using information-gathering techniques, the Datica Platform
-    boundaries are identified.
-  - Output - Characterization of the Datica Platform system assessed, a good
-    picture of the Platform environment, and delineation of Platform boundaries.
+    transmitted. Using information-gathering techniques, the Versionista
+    Platform boundaries are identified.
+  - Output - Characterization of the Versionista Platform system assessed, a
+    good picture of the Platform environment, and delineation of Platform
+    boundaries.
 
 - Step 2. Threat Identification
 
@@ -129,7 +133,7 @@ risk.
 - Step 4. Control Analysis
 
   - Document and assess the effectiveness of technical and non-technical
-    controls that have been or will be implemented by Datica to minimize or
+    controls that have been or will be implemented by Versionista to minimize or
     eliminate the likelihood / probability of a threat-source exploiting a
     Platform vulnerability.
   - Output - List of current or planned controls (policies, procedures,
@@ -149,8 +153,8 @@ risk.
 
   - Determine the level of adverse impact that would result from a threat
     successfully exploiting a vulnerability. Factors of the data and systems to
-    consider should include the importance to Datica's mission; sensitivity and
-    criticality (value or importance); costs associated; loss of
+    consider should include the importance to Versionista's mission; sensitivity
+    and criticality (value or importance); costs associated; loss of
     confidentiality, integrity, and availability of systems and data.
   - Output - Magnitude of impact rating of low (10), medium (50), or high (100).
     Refer to the NIST SP 800-30 definitions of low, medium, and high.
@@ -192,9 +196,10 @@ risk.
 
 Risk mitigation involves prioritizing, evaluating, and implementing the
 appropriate risk-reducing controls recommended from the Risk Assessment process
-to ensure the confidentiality, integrity and availability of Datica Platform
-ePHI. Determination of appropriate controls to reduce risk is dependent upon the
-risk tolerance of the organization consistent with its goals and mission.
+to ensure the confidentiality, integrity and availability of Versionista
+Platform ePHI. Determination of appropriate controls to reduce risk is dependent
+upon the risk tolerance of the organization consistent with its goals and
+mission.
 
 - Step 1. Prioritize Actions
 
@@ -230,11 +235,11 @@ risk tolerance of the organization consistent with its goals and mission.
 - Step 4. Select Control(s)
 
   - Taking into account the information and results from previous steps,
-    Datica's mission, and other important criteria, the Risk Management Team
-    determines the best control(s) for reducing risks to the information systems
-    and to the confidentiality, integrity, and availability of ePHI. These
-    controls may consist of a mix of administrative, physical, and/or technical
-    safeguards.
+    Versionista's mission, and other important criteria, the Risk Management
+    Team determines the best control(s) for reducing risks to the information
+    systems and to the confidentiality, integrity, and availability of ePHI.
+    These controls may consist of a mix of administrative, physical, and/or
+    technical safeguards.
   - Output - Selected control(s)
 
 - Step 5. Assign Responsibility
@@ -264,7 +269,7 @@ risk tolerance of the organization consistent with its goals and mission.
     requirements (staff and other individuals' time, budget, etc.),
     interrelationships between projects, and any other relevant information.
     Regular status reporting of the plan, along with key metrics and success
-    indicators should be reported to Datica Senior Management.
+    indicators should be reported to Versionista Senior Management.
   - Individual project plans for safeguard implementation may be developed and
     contain detailed steps that assigned resources carry out to meet
     implementation timeframes and expectations. Additionally, consider including
@@ -294,13 +299,13 @@ risk tolerance of the organization consistent with its goals and mission.
 
 The two principle components of the risk management process - risk assessment
 and risk mitigation - will be carried out according to the following schedule to
-ensure the continued adequacy and continuous improvement of Datica's information
-security program:
+ensure the continued adequacy and continuous improvement of Versionista's
+information security program:
 
-- Scheduled Basis - an overall risk assessment of Datica's information system
-  infrastructure will be conducted annually. The assessment process should be
-  completed in a timely fashion so that risk mitigation strategies can be
-  determined and included in the corporate budgeting process.
+- Scheduled Basis - an overall risk assessment of Versionista's information
+  system infrastructure will be conducted annually. The assessment process
+  should be completed in a timely fashion so that risk mitigation strategies can
+  be determined and included in the corporate budgeting process.
 - Throughout a System's Development Life Cycle - from the time that a need for a
   new, untested information system configuration and/or application is
   identified through the time it is disposed of, ongoing assessments of the
@@ -310,7 +315,7 @@ security program:
   Management Team may call for a full or partial risk assessment in response to
   changes in business strategies, information technology, information
   sensitivity, threats, legal liabilities, or other significant factors that
-  affect Datica's Platform.
+  affect Versionista's Platform.
 
 ## 4.4 Process Documentation
 

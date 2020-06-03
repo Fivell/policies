@@ -1,11 +1,12 @@
 # 22. Key Definitions
 
-- _Application_: An application hosted by Datica, either maintained and created
-  by Datica, or maintained and created by a Customer or Partner.
+- _Application_: An application hosted by Versionista, either maintained and
+  created by Versionista, or maintained and created by a Customer or Partner.
 
 - _Application Level_: Controls and security associated with an Application. In
-  the case of PaaS Customers, Datica does not have access to and cannot assure
-  compliance with security standards and policies at the Application Level.
+  the case of PaaS Customers, Versionista does not have access to and cannot
+  assure compliance with security standards and policies at the Application
+  Level.
 
 - _Audit_: Internal process of reviewing information system access and activity
   (e.g., log-ins, file accesses, and security incidents). An audit may be done
@@ -28,8 +29,8 @@
   or incremental, including just the data that changed from the previous backup.
 
 - _Backup Service_: A logging service for unifying system and application logs,
-  encrypting them, and providing a dashboard for them. Offered with all Datica
-  Add-ons and as an option for PaaS Customers.
+  encrypting them, and providing a dashboard for them. Offered with all
+  Versionista Add-ons and as an option for PaaS Customers.
 
 - _Breach_: Means the acquisition, access, use, or disclosure of protected
   health information (PHI) in a manner not permitted under the Privacy Rule
@@ -70,14 +71,14 @@
 - _Disaster Recovery Service_: A disaster recovery service for disaster recovery
   in the case of system unavailability. This includes both the technical and the
   non-technical (process) required to effectively stand up an application after
-  an outage. Offered with all Datica Add-ons and as an option for PaaS
+  an outage. Offered with all Versionista Add-ons and as an option for PaaS
   Customers.
 
 - _Disclosure_: Disclosure means the release, transfer, provision of, access to,
   or divulging in any other manner of information outside the entity holding the
   information.
 
-- _Customers_: Contractually bound users of Datica Platform.
+- _Customers_: Contractually bound users of Versionista Platform.
 
 - _Electronic Protected Health Information (ePHI)_: Any individually
   identifiable health information protected by HIPAA that is transmitted by,
@@ -87,8 +88,9 @@
   network devices, and applications.
 
 - _Event_: An event is defined as an occurrence that does not constitute a
-  serious adverse effect on Datica, its operations, or its Customers, though it
-  may be less than optimal. Examples of events include, but are not limited to:
+  serious adverse effect on Versionista, its operations, or its Customers,
+  though it may be less than optimal. Examples of events include, but are not
+  limited to:
 
   - A hard drive malfunction that requires replacement;
   - Systems become unavailable due to power outage that is non-hostile in
@@ -130,7 +132,7 @@
   access.
 
 - _IDS Service_: An Intrusion Detection Service for providing IDS notification
-  to customers in the case of suspicious activity. Offered with all Datica
+  to customers in the case of suspicious activity. Offered with all Versionista
   Add-ons and as an option for PaaS Customers.
 
 - _Law Enforcement Official_: Any officer or employee of an agency or authority
@@ -141,8 +143,8 @@
   an alleged violation of law.
 
 - _Logging Service_: A logging service for unifying system and application logs,
-  encrypting them, and providing a dashboard for them. Offered with all Datica
-  Add-ons and as an option for PaaS Customers.
+  encrypting them, and providing a dashboard for them. Offered with all
+  Versionista Add-ons and as an option for PaaS Customers.
 
 - _Messaging_: API-based services to deliver and receive SMS messages.
 
@@ -156,12 +158,12 @@
   must be physically separate from the creating site.
 
 - _Organization_: For the purposes of this policy, the term "organization" shall
-  mean Datica.
+  mean Versionista.
 
-- _Partner_: Contractual bound 3rd party vendor with integration with the Datica
-  Platform. May offer Add-on services.
+- _Partner_: Contractual bound 3rd party vendor with integration with the
+  Versionista Platform. May offer Add-on services.
 
-- _Platform_: The overall technical environment of Datica.
+- _Platform_: The overall technical environment of Versionista.
 
 - _Protected Health Information (PHI)_: Individually identifiable health
   information that is created by or received by the organization, including
@@ -244,7 +246,7 @@
     this breach can be inadvertent or malicious;
   - Unauthorized disclosure;
   - Unauthorized change or destruction of ePHI (i.e. delete dictation, data
-    alterations not following Datica's procedures);
+    alterations not following Versionista's procedures);
   - Denial of service not attributable to identifiable physical, environmental,
     human or technology causes;
   - Disaster or enacted threat to business continuity;
@@ -330,7 +332,7 @@
      that the PHI cannot be retrieved.
 
 - _Vendors_: Persons from other organizations marketing or selling products or
-  services, or providing services to Datica.
+  services, or providing services to Versionista.
 
 - _Vulnerability_: A weakness or flaw in an information system that can be
   accidentally triggered or intentionally exploited by a threat and lead to a

@@ -1,11 +1,11 @@
 # 3. Policy Management Policy
 
-Datica implements policies and procedures to maintain compliance and integrity
-of data. The Security Officer and Privacy Officer are responsible for
-maintaining policies and procedures and assuring all Datica workforce members,
-business associates, customers, and partners are adherent to all applicable
-policies. Previous versions of policies are retained to assure ease of finding
-policies at specific historic dates in time.
+Versionista implements policies and procedures to maintain compliance and
+integrity of data. The Security Officer and Privacy Officer are responsible for
+maintaining policies and procedures and assuring all Versionista workforce
+members, business associates, customers, and partners are adherent to all
+applicable policies. Previous versions of policies are retained to assure ease
+of finding policies at specific historic dates in time.
 
 ## 3.1 Applicable Standards
 
@@ -21,17 +21,18 @@ policies at specific historic dates in time.
 
 ## 3.2 Maintenance of Policies
 
-1. All policies are stored and updated to maintain Datica compliance with HIPAA,
-   HITRUST, NIST, and other relevant standards. Updates and version control are
-   done similarly to source code control.
+1. All policies are stored and updated to maintain Versionista compliance with
+   HIPAA, HITRUST, NIST, and other relevant standards. Updates and version
+   control are done similarly to source code control.
 2. Policy update requests can be made by any workforce member at any time.
    Furthermore, all policies are reviewed annually by both the Security and
    Privacy Officer to assure they are accurate and up-to-date.
-3. Datica employees may request changes to policies using the following process:
-4. The Datica employee initiates a policy change request by creating an Issue in
-   the Datica Quality Management System. The change request may optionally
-   include a GitHub pull request from a separate branch or repository containing
-   the desired changes.
+3. Versionista employees may request changes to policies using the following
+   process:
+4. The Versionista employee initiates a policy change request by creating an
+   Issue in the Versionista Quality Management System. The change request may
+   optionally include a GitHub pull request from a separate branch or repository
+   containing the desired changes.
 5. The Security Officer or the Privacy Officer is assigned to review the policy
    change request.
 6. Once the review is completed, the Security Officer or Privacy Officer
@@ -40,31 +41,31 @@ policies at specific historic dates in time.
 7. If the review is approved, the Security Officer or Privacy Officer then marks
    the Issue as Done, adding any pertinent notes required.
 8. If the policy change requires technical modifications to production systems,
-   those changes are carried out by authorized personnel using Datica's
+   those changes are carried out by authorized personnel using Versionista's
    [change management process (§9.4)](#9.4-changing-existing-systems).
-9. All policies are made accessible to all Datica workforce members. The current
-   master policies are published at
+9. All policies are made accessible to all Versionista workforce members. The
+   current master policies are published at
    [https://policy.datica.com](https://policy.datica.com).
-   - Changes are automatically communicated to all Datica team members through
-     integrations between GitHub and Slack that log all GitHub policy channels
-     to a dedicated Datica Slack Channel.
+   - Changes are automatically communicated to all Versionista team members
+     through integrations between GitHub and Slack that log all GitHub policy
+     channels to a dedicated Versionista Slack Channel.
    - The Security Officer also communicates policy changes to all employees via
      email. These emails include a high-level description of the policy change
      using terminology appropriate for the target audience.
 10. All policies, and associated documentation, are retained for 6 years from
     the date of its creation or the date when it last was in effect, whichever
     is later
-    1. Version history of all Datica policies is done via GitHub.
+    1. Version history of all Versionista policies is done via GitHub.
     2. Backup storage of all policies is done with Box.
 11. The policies and information security policies are reviewed and audited
-    annually, or after significant changes occur to Datica's organizational
+    annually, or after significant changes occur to Versionista's organizational
     environment. Issues that come up as part of this process are reviewed by
-    Datica management to assure all risks and potential gaps are mitigated
+    Versionista management to assure all risks and potential gaps are mitigated
     and/or fully addressed. The process for reviewing polices is outlined below:
 12. The Security Officer initiates the policy review by creating an Issue in the
-    Datica Quality Management System.
+    Versionista Quality Management System.
 13. The Security Officer or the Privacy Officer is assigned to review the
-    current Datica policies
+    current Versionista policies
     ([https://policy.datica.com/](https://policy.datica.com/)).
 14. If changes are made, the above process is used. All changes are documented
     in the Issue.
@@ -75,13 +76,14 @@ policies at specific historic dates in time.
     marks the Issue as Done, adding any pertinent notes required.
 17. Policy review is monitored on a quarterly basis using the Quality Management
     System reporting to assess compliance with above policy.
-18. Datica utilizes the HITRUST MyCSF framework to track compliance with the
-    HITRUST CSF on an annual basis. Datica also tracks compliance with HIPAA and
-    publishes results at [https://hipaa.datica.com](https://hipaa.datica.com).
-    In order to track and measure adherence on an annual basis, Datica uses the
-    following process to track HITRUST audits, both full and interim:
+18. Versionista utilizes the HITRUST MyCSF framework to track compliance with
+    the HITRUST CSF on an annual basis. Versionista also tracks compliance with
+    HIPAA and publishes results at
+    [https://hipaa.datica.com](https://hipaa.datica.com). In order to track and
+    measure adherence on an annual basis, Versionista uses the following process
+    to track HITRUST audits, both full and interim:
 19. The Security Officer initiates the HITRUST audit activity by creating an
-    Issue in the Datica Quality Management System.
+    Issue in the Versionista Quality Management System.
 20. The Security Officer or the Privacy Officer is assigned to own and manage
     the HITRUST activity.
 21. Once the HITRUST activity is completed, the Security Officer approves or

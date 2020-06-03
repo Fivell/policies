@@ -2,7 +2,7 @@
 
 ## 2.1 HIPAA Inheritance for PaaS Customers
 
-| **Administrative Controls** HIPAA Rule             | Datica Control           | Inherited |
+| **Administrative Controls** HIPAA Rule             | Versionista Control      | Inherited |
 | -------------------------------------------------- | ------------------------ | --------- |
 | Security Management Process - 164.308(a)(1)(i)     | Risk Management Policy   | Yes       |
 | Assigned Security Responsibility - 164.308(a)(2)   | Roles Policy             | Partially |
@@ -13,14 +13,14 @@
 | Contingency Plan - 164.308(a)(7)(i)                | Disaster Recovery Policy | Yes       |
 | Evaluation - 164.308(a)(8)                         | Auditing Policy          | Yes       |
 
-| **Physical Safeguards** HIPAA Rule        | Datica Control                                       | Inherited |
+| **Physical Safeguards** HIPAA Rule        | Versionista Control                                  | Inherited |
 | ----------------------------------------- | ---------------------------------------------------- | --------- |
 | Facility Access Controls - 164.310(a)(1)  | Facility and Disaster Recovery Policies              | Yes       |
 | Workstation Use - 164.310(b)              | System Access, Approved Tools, and Employee Policies | Partially |
 | Workstation Security - 164.310('c')       | System Access, Approved Tools, and Employee Policies | Partially |
 | Device and Media Controls - 164.310(d)(1) | Disposable Media and Data Management Policies        | Yes       |
 
-| **Technical Safeguards** HIPAA Rule          | Datica Control                            | Inherited      |
+| **Technical Safeguards** HIPAA Rule          | Versionista Control                       | Inherited      |
 | -------------------------------------------- | ----------------------------------------- | -------------- |
 | Access Control - 164.312(a)(1)               | System Access Policy                      | Partially      |
 | Audit Controls - 164.312(b)                  | Auditing Policy                           | Yes (optional) |
@@ -28,24 +28,24 @@
 | Person or Entity Authentication - 164.312(d) | System Access Policy                      | Yes            |
 | Transmission Security - 164.312(e)(1)        | System Access and Data Management Policy  | Yes            |
 
-| **Organizational Requirements** HIPAA Rule                            | Datica Control                                         | Inherited |
+| **Organizational Requirements** HIPAA Rule                            | Versionista Control                                    | Inherited |
 | --------------------------------------------------------------------- | ------------------------------------------------------ | --------- |
 | Business Associate Contracts or Other Arrangements - 164.314(a)(1)(i) | Business Associate Agreements and 3rd Parties Policies | Partially |
 
-| **Policies and Procedures and Documentation Requirements** HIPAA Rule | Datica Control           | Inherited |
+| **Policies and Procedures and Documentation Requirements** HIPAA Rule | Versionista Control      | Inherited |
 | --------------------------------------------------------------------- | ------------------------ | --------- |
 | Policies and Procedures - 164.316(a)                                  | Policy Management Policy | Partially |
 | Documentation - 164.316(b)(1)(i)                                      | Policy Management Policy | Partially |
 
-| **HITECH Act - Security Provisions** HIPAA Rule       | Datica Control | Inherited |
-| ----------------------------------------------------- | -------------- | --------- |
-| Notification in the Case of Breach - 13402(a) and (b) | Breach Policy  | Partially |
-| Timelines of Notification - 13402(d)(1)               | Breach Policy  | Partially |
-| Content of Notification - 13402(f)(1)                 | Breach Policy  | Partially |
+| **HITECH Act - Security Provisions** HIPAA Rule       | Versionista Control | Inherited |
+| ----------------------------------------------------- | ------------------- | --------- |
+| Notification in the Case of Breach - 13402(a) and (b) | Breach Policy       | Partially |
+| Timelines of Notification - 13402(d)(1)               | Breach Policy       | Partially |
+| Content of Notification - 13402(f)(1)                 | Breach Policy       | Partially |
 
 ## 2.2 HIPAA Inheritance for Platform Add-on Customers
 
-| **Administrative Controls** HIPAA Rule             | Datica Control           | Inherited |
+| **Administrative Controls** HIPAA Rule             | Versionista Control      | Inherited |
 | -------------------------------------------------- | ------------------------ | --------- |
 | Security Management Process - 164.308(a)(1)(i)     | Risk Management Policy   | Yes       |
 | Assigned Security Responsibility - 164.308(a)(2)   | Roles Policy             | Partially |
@@ -56,14 +56,14 @@
 | Contingency Plan - 164.308(a)(7)(i)                | Disaster Recovery Policy | Yes       |
 | Evaluation - 164.308(a)(8)                         | Auditing Policy          | Yes       |
 
-| **Physical Safeguards** HIPAA Rule        | Datica Control                                       | Inherited |
+| **Physical Safeguards** HIPAA Rule        | Versionista Control                                  | Inherited |
 | ----------------------------------------- | ---------------------------------------------------- | --------- |
 | Facility Access Controls - 164.310(a)(1)  | Facility and Disaster Recovery Policies              | Yes       |
 | Workstation Use - 164.310(b)              | System Access, Approved Tools, and Employee Policies | Partially |
 | Workstation Security - 164.310('c')       | System Access, Approved Tools, and Employee Policies | Partially |
 | Device and Media Controls - 164.310(d)(1) | Disposable Media and Data Management Policies        | Yes       |
 
-| **Technical Safeguards** HIPAA Rule          | Datica Control                            | Inherited |
+| **Technical Safeguards** HIPAA Rule          | Versionista Control                       | Inherited |
 | -------------------------------------------- | ----------------------------------------- | --------- |
 | Access Control - 164.312(a)(1)               | System Access Policy                      | Yes       |
 | Audit Controls - 164.312(b)                  | Auditing Policy                           | Yes       |
@@ -71,17 +71,17 @@
 | Person or Entity Authentication - 164.312(d) | System Access Policy                      | Yes       |
 | Transmission Security - 164.312(e)(1)        | System Access and Data Management Policy  | Yes       |
 
-| **Organizational Requirements** HIPAA Rule                            | Datica Control                                         | Inherited |
+| **Organizational Requirements** HIPAA Rule                            | Versionista Control                                    | Inherited |
 | --------------------------------------------------------------------- | ------------------------------------------------------ | --------- |
 | Business Associate Contracts or Other Arrangements - 164.314(a)(1)(i) | Business Associate Agreements and 3rd Parties Policies | Partially |
 
-| **Policies and Procedures and Documentation Requirements** HIPAA Rule | Datica Control           | Inherited |
+| **Policies and Procedures and Documentation Requirements** HIPAA Rule | Versionista Control      | Inherited |
 | --------------------------------------------------------------------- | ------------------------ | --------- |
 | Policies and Procedures - 164.316(a)                                  | Policy Management Policy | Partially |
 | Documentation - 164.316(b)(1)(i)                                      | Policy Management Policy | Partially |
 
-| **HITECH Act - Security Provisions** HIPAA Rule       | Datica Control | Inherited |
-| ----------------------------------------------------- | -------------- | --------- |
-| Notification in the Case of Breach - 13402(a) and (b) | Breach Policy  | Yes       |
-| Timelines of Notification - 13402(d)(1)               | Breach Policy  | Yes       |
-| Content of Notification - 13402(f)(1)                 | Breach Policy  | Yes       |
+| **HITECH Act - Security Provisions** HIPAA Rule       | Versionista Control | Inherited |
+| ----------------------------------------------------- | ------------------- | --------- |
+| Notification in the Case of Breach - 13402(a) and (b) | Breach Policy       | Yes       |
+| Timelines of Notification - 13402(d)(1)               | Breach Policy       | Yes       |
+| Content of Notification - 13402(f)(1)                 | Breach Policy       | Yes       |

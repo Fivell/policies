@@ -1,6 +1,6 @@
 # 11. Incident Response Policy
 
-Datica implements an information security incident response process to
+Versionista implements an information security incident response process to
 consistently detect, respond to, and report incidents, minimize loss and
 destruction, mitigate the weaknesses that were exploited, and restore
 information system functionality and business continuity as soon as possible.
@@ -36,13 +36,13 @@ Refer to the linked document for additional copyright information.
 
 ## 11.2 Incident Management Policies
 
-The Datica incident response process follows the process recommended by
+The Versionista incident response process follows the process recommended by
 [SANS](https://www.sans.org), an industry leader in security. Process flows are
 a direct representation of the SANS process which can be found in
 [this document](sections/incident-flowchart.pdf).
 
-Datica's incident response classifies security-related events into the following
-categories:
+Versionista's incident response classifies security-related events into the
+following categories:
 
 - **Events** - Any observable computer security-related occurrence in a system
   or network with a negative consequence. Examples:
@@ -52,7 +52,7 @@ categories:
 - **Precursors** - A sign that an incident may occur in the future. Examples:
   - Monitoring system showing unusual behavior.
   - Audit log alerts indicated several failed login attempts.
-  - Suspicious emails targeting specific Datica staff members with
+  - Suspicious emails targeting specific Versionista staff members with
     administrative access to production systems.
 - **Indications** - A sign that an incident may have occurred or may be
   occurring at the present time. Examples:
@@ -67,15 +67,15 @@ categories:
   - A Denial-of-Service (DoS) attack causing a critical service to become
     unreachable.
 
-Datica employees must report any unauthorized or suspicious activity seen on
-production systems or associated with related communication systems (such as
+Versionista employees must report any unauthorized or suspicious activity seen
+on production systems or associated with related communication systems (such as
 email or Slack). In practice this means keeping an eye out for security events,
 and letting the Security Officer know about any observed precursors or
 indications as soon as they are discovered.
 
 ### 11.2.1 Identification Phase
 
-1. Immediately upon observation Datica members report suspected and known
+1. Immediately upon observation Versionista members report suspected and known
    Events, Precursors, Indications, and Incidents in one of the following ways:
    1. Direct report to management, the Security Officer, Privacy Officer, or
       other;
@@ -118,20 +118,20 @@ indications as soon as they are discovered.
          [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR
          form is to provide a summary of all events, efforts, and conclusions of
          each Phase of this policy and procedures.
-4. The Security Officer, Privacy Officer, or Datica representative appointed
-   notifies any affected Customers and Partners. If no Customers and Partners
-   are affected, notification is at the discretion of the Security and Privacy
-   Officer.
+4. The Security Officer, Privacy Officer, or Versionista representative
+   appointed notifies any affected Customers and Partners. If no Customers and
+   Partners are affected, notification is at the discretion of the Security and
+   Privacy Officer.
 5. In the case of a threat identified, the Security Officer is to form a team to
-   investigate and involve necessary resources, both internal to Datica and
+   investigate and involve necessary resources, both internal to Versionista and
    potentially external.
 
 ### 11.2.2 Containment Phase (Technical)
 
-In this Phase, Datica's IT department attempts to contain the security incident.
-It is extremely important to take detailed notes during the security incident
-response process. This provides that the evidence gathered during the security
-incident can be used successfully during prosecution, if appropriate.
+In this Phase, Versionista's IT department attempts to contain the security
+incident. It is extremely important to take detailed notes during the security
+incident response process. This provides that the evidence gathered during the
+security incident can be used successfully during prosecution, if appropriate.
 
 1. The SIRT reviews any information that has been collected by the Security
    Officer or any other individual investigating the security incident.
@@ -223,8 +223,8 @@ Timeframes may extend to one to two weeks post-incident.
    incident.
 2. Create a "lessons learned" document and attach it to the completed
    [SIR Form](sections/sir-form.doc).
-   1. Evaluate the cost and impact of the security incident to Datica using the
-      documents provided by the SIRT and the technical security resource.
+   1. Evaluate the cost and impact of the security incident to Versionista using
+      the documents provided by the SIRT and the technical security resource.
    2. Determine what could be improved.
    3. Communicate these findings to Senior Management for approval and for
       implementation of any recommendations made post-review of the security
@@ -238,13 +238,13 @@ Timeframes may extend to one to two weeks post-incident.
 It is important to note that the processes surrounding security incident
 response should be periodically reviewed and evaluated for effectiveness. This
 also involves appropriate training of resources expected to respond to security
-incidents, as well as the training of the general population regarding Datica's
-expectation for them, relative to security responsibilities. The incident
-response plan is tested annually.
+incidents, as well as the training of the general population regarding
+Versionista's expectation for them, relative to security responsibilities. The
+incident response plan is tested annually.
 
 ## 11.3 Security Incident Response Team (SIRT)
 
-Current members of the Datica SIRT:
+Current members of the Versionista SIRT:
 
 - Security Officer
 - Privacy Officer

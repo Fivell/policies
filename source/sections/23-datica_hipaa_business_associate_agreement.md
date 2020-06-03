@@ -1,4 +1,4 @@
-# 23. Datica HIPAA Business Associate Agreement ("BAA")
+# 23. Versionista HIPAA Business Associate Agreement ("BAA")
 
 This HIPAA Business Associate Agreement (this "BAA") defines the rights and
 responsibilities of Provider and Customer with respect to Protected Health
@@ -29,7 +29,7 @@ Agreement.
       capitalized terms in this BAA will have the meanings set forth in the PaaS
       Agreement or in HIPAA.
 2. Additional Meanings.
-   - "Business Associate" shall mean Provider, or Datica Health, Inc.
+   - "Business Associate" shall mean Provider, or Versionista Health, Inc.
    - "HITECH ACT" shall mean the Health Information Technology for Economic and
      Clinical Health Act.
    - "Individual" shall have the same meaning as the term "individual" in 45 CFR
