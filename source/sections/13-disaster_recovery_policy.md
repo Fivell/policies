@@ -96,8 +96,7 @@ responsibility to a successor, the CEO or COO shall function as that authority.
 To provide contact initiation should the contingency plan need to be initiated,
 please use the contact list below.
 
-- Ryan Rich, CPO/Security Officer: 503-334-9134, ryan@datica.com
-- Travis Good, CEO/Privacy Officer: 303-351-2640, travis@datica.com
+- Peter Bray, CEO: peter@versionista.com
 
 ## 13.3 Responsibilities
 

@@ -75,15 +75,6 @@
     border-top: 1px solid $c_border;
   }
 
-  a{
-    @include easing(350ms);
-    text-decoration: none;
-    &:hover{
-      @include easing(350ms);
-      color: $c_header;
-    }
-  }
-
   table{
     border: 1px solid $c_border;
     margin: 0 0 20px 0;

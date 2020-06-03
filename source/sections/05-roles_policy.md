@@ -34,8 +34,8 @@ responsibilities.
    affect security and compliance of ePHI.
 4. Assist Security Officer as needed.
 
-The current Versionista Privacy Officer is Travis Good
-([travis@datica.com](mailto:travis@datica.com)).
+The current Versionista Privacy Officer is Peter Bray
+([peter@versionista.com](mailto:peter@versionista.com)).
 
 ### 5.2.1 Workforce Training Responsibilities
 
@@ -97,8 +97,8 @@ the security regulations [164.308(a)(1)(ii)&lpar;c&rpar;], and writing,
 implementing, and maintaining all polices, procedures, and documentation related
 to efforts toward security and compliance [164.316(a-b)].
 
-The current Versionista Security Officer is Ryan Rich
-([ryan@datica.com](mailto:ryan@datica.com)).
+The current Versionista Security Officer is Peter Bray
+([peter@versionista.com](mailto:peter@versionista.com)).
 
 ### 5.3.1 Organizational Responsibilities
 

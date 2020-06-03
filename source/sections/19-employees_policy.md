@@ -28,8 +28,6 @@ non-compliance.
    - Records of training are kept for all workforce members.
    - Upon completion of training, workforce members complete this
      [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
-   - Current Versionista training is hosted at
-     [training.datica.com](https://training.datica.com/).
    - Employees must complete this training before accessing production systems
      containing ePHI.
 2. All workforce members are granted access to formal organizational policies,
@@ -46,26 +44,18 @@ non-compliance.
    networks.
 5. All workforce members are educated about the approved set of tools to be
    installed on workstations.
-6. All new workforce members are given HIPAA training within 30 days of
-   beginning employment. Training includes HIPAA reporting requirements,
-   including the ability to anonymously report security incidents, and the
-   levels of compliance and obligations for Versionista and its Customers and
-   Partners.
-   - Current Versionista training is hosted at
-     [training.datica.com](https://training.datica.com/).
-7. All remote (teleworking) workforce members are trained on the risks, the
+6. All remote (teleworking) workforce members are trained on the risks, the
    controls implemented, their responsibilities, and sanctions associated with
    violation of policies. Additionally, remote security is maintained through
    the use of VPN tunnels for all access to production systems with access to
    ePHI data.
-8. All Versionista-purchased and -owned computers are to display this message at
+7. All Versionista-purchased and -owned computers are to display this message at
    login and when the computer is unlocked: _This computer is owned by
-   Versionista Health, Inc. By logging in, unlocking, and/or using this computer
-   you acknowledge you have seen, and follow, these policies
-   (https://policy.datica.com) and have completed this training
-   (https://training.datica.com). Please contact us if you have problems with
-   this - privacy@datica.com_.
-9. Employees may only use Versionista-purchased and -owned workstations for
+   Versionista. By logging in, unlocking, and/or using this computer you
+   acknowledge you have seen, and follow, these policies
+   (https://github.com/foxandgeese/policies). Please contact us if you have
+   problems with this - leval@versionista.com_.
+8. Employees may only use Versionista-purchased and -owned workstations for
    accessing production systems with access to ePHI data.
    - Any workstations used to access production systems must be configured as
      prescribed in [§7.8](#7.8-employee-workstation-use).
@@ -74,19 +64,19 @@ non-compliance.
    - Versionista may monitor access and activities of all users on workstations
      and production systems in order to meet auditing policy requirements
      ([§8](#8.-auditing-policy)).
-10. Access to internal Versionista systems can be requested using the procedures
-    outlined in [§7.2](#7.2-access-establishment-and-modification). All requests
-    for access must be granted by the Versionista Security Officer.
-11. Request for modifications of access for any Versionista employee can be made
+9. Access to internal Versionista systems can be requested using the procedures
+   outlined in [§7.2](#7.2-access-establishment-and-modification). All requests
+   for access must be granted by the Versionista Security Officer.
+10. Request for modifications of access for any Versionista employee can be made
     using the procedures outlined in
     [§7.2](#7.2-access-establishment-and-modification).
-12. Versionista employees are strictly forbidden from downloading any ePHI to
+11. Versionista employees are strictly forbidden from downloading any ePHI to
     their workstations.
     - Restricting transfers of ePHI is enforced through technical controls as
       described in [§7.13](#7.13-access-to-ephi).
     - Employees found to be in violation of this policy will be subject to
       sanctions as described in [§5.3.3](#5.3-security-officer).
-13. Employees are required to cooperate with federal and state investigations.
+12. Employees are required to cooperate with federal and state investigations.
     - Employees must not interfere with investigations through willful
       misrepresentation, omission of facts, or by the use of threats against any
       person.

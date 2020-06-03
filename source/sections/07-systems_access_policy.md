@@ -219,11 +219,10 @@ products running Mac OSX or Linux.
 8. All workstations have firewalls enabled to prevent unauthorized access unless
    explicitly granted.
 9. All workstations are to have the following messages added to the lock screen
-   and login screen: _This computer is owned by Versionista Health, Inc. By
-   logging in, unlocking, and/or using this computer you acknowledge you have
-   seen, and follow, these policies (https://policy.datica.com) and have
-   completed this training (https://training.datica.com/). Please contact us if
-   you have problems with this - privacy@datica.com._
+   and login screen: _This computer is owned by Versionista. By logging in,
+   unlocking, and/or using this computer you acknowledge you have seen, and
+   follow, these policies (https://github.com/foxandgeese/policies) . Please
+   contact us if you have problems with this - leval@versionista.com._
 
 ## 7.9 Wireless Access Use
 
@@ -311,9 +310,9 @@ paper for recording and storing sensitive data is against Versionista policies.
     immediately report the incident to the Security Office.
 12. In cases where a user has forgotten their password, the following procedure
     is used to reset the password.
-    - The user submits a password reset request to password-reset@datica.com.
-      The request should include the system to which the user has lost access
-      and needs the password reset.
+    - The user submits a password reset request to account@versionista.com. The
+      request should include the system to which the user has lost access and
+      needs the password reset.
     - An administrator with password reset privileges is notified and connects
       directly with the user requesting the password reset.
     - The administrator verifies the identity of the user either in-person or

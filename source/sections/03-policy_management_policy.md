@@ -45,7 +45,7 @@ of finding policies at specific historic dates in time.
    [change management process (§9.4)](#9.4-changing-existing-systems).
 9. All policies are made accessible to all Versionista workforce members. The
    current master policies are published at
-   [https://policy.datica.com](https://policy.datica.com).
+   [https://github.com/foxandgeese/policies](https://github.com/foxandgeese/policies).
    - Changes are automatically communicated to all Versionista team members
      through integrations between GitHub and Slack that log all GitHub policy
      channels to a dedicated Versionista Slack Channel.
@@ -66,7 +66,7 @@ of finding policies at specific historic dates in time.
     Versionista Quality Management System.
 13. The Security Officer or the Privacy Officer is assigned to review the
     current Versionista policies
-    ([https://policy.datica.com/](https://policy.datica.com/)).
+    ([https://github.com/foxandgeese/policies](https://github.com/foxandgeese/policies)).
 14. If changes are made, the above process is used. All changes are documented
     in the Issue.
 15. Once the review is completed, the Security Officer or Privacy Officer
@@ -77,11 +77,7 @@ of finding policies at specific historic dates in time.
 17. Policy review is monitored on a quarterly basis using the Quality Management
     System reporting to assess compliance with above policy.
 18. Versionista utilizes the HITRUST MyCSF framework to track compliance with
-    the HITRUST CSF on an annual basis. Versionista also tracks compliance with
-    HIPAA and publishes results at
-    [https://hipaa.datica.com](https://hipaa.datica.com). In order to track and
-    measure adherence on an annual basis, Versionista uses the following process
-    to track HITRUST audits, both full and interim:
+    the HITRUST CSF on an annual basis.
 19. The Security Officer initiates the HITRUST audit activity by creating an
     Issue in the Versionista Quality Management System.
 20. The Security Officer or the Privacy Officer is assigned to own and manage

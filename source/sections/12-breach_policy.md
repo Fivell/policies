@@ -223,5 +223,4 @@ We will assist you in remedying the situation.
 
 Sincerely,
 
-Travis Good, MD Co-founder - Versionista Health, Inc. travis@datica.com
-303-351-2640
+Peter Bray, CEO peter@versionista.com
