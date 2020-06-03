@@ -2,22 +2,24 @@
 .fixed-bar{
   position: fixed;
   background: $c_brand;
-  top: 0px;
-  left: 0px;
-  right: 0px;
+  top: 0;
+  left: 0;
+  right: 0;
   height: 5px;
   z-index: 3;
 }
-body{margin: 5px 0px 0px 0px;}
+
+body{margin: 5px 0 0 0;}
+
 .product-navigation{
   position: fixed;
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
+  bottom: 0;
+  left: 0;
+  right: 0;
   background-color: #fff;
   z-index: 3;
   border-top: 1px solid $c_border;
-  box-shadow: 0px 0px 10px 0px $c_border;
+  box-shadow: 0 0 10px 0 $c_border;
   @extend .cf;
   a{
     text-decoration: none;
@@ -33,38 +35,45 @@ body{margin: 5px 0px 0px 0px;}
       color: $c_header;
     }
   }
+
   .right,
   .left{
     float: left;
     display: block;
     border-right: 1px solid $c_border;
   }
+
   .right{
     float: right;
     border-left: 1px solid $c_border;
   }
+
   .span-left{
     display: block;
     float: left;
   }
+
   .span-right{
     display: block;
     float: right;
   }
+
   span{
     font-size: 12px;
     color: $c_header;
     font-weight: 500;
-    padding: 27px 10px 0px 10px;
+    padding: 27px 10px 0 10px;
   }
+
   span.quote{
     color: $c_text;
     display: inline-block;
-    padding: 27px 10px 0px 50px;
+    padding: 27px 10px 0 50px;
     text-align: center;
     font-size: 11px;
   }
 }
+
 .stamp{
   position: fixed;
   bottom: 80px;
@@ -82,18 +91,19 @@ body{margin: 5px 0px 0px 0px;}
   position: relative;
   z-index: 2;
   .logo{
-    margin: 5px 0px 0px 0px;
+    margin: 5px 0 0 0;
     max-width: 125px;
     float: left;
     img{max-width: 100%;}
   }
+
   nav{
     float: right;
     font-size: 14px;
-    margin: 18px 0px 0px 0px;
+    margin: 18px 0 0 0;
     a{
       display: inline-block;
-      margin: 0px 0px 0px 20px;
+      margin: 0 0 0 20px;
       color: $c_brand;
       text-decoration: none;
       @include easing(350ms);
@@ -102,6 +112,7 @@ body{margin: 5px 0px 0px 0px;}
         color: $c_header;
       }
     }
+
     a.cta{
       padding: 10px;
       color: $c_brand;
@@ -115,6 +126,7 @@ body{margin: 5px 0px 0px 0px;}
     }
   }
 }
+
 .sub-header{
   border-bottom: 1px solid $c_border;
   padding: 15px;
@@ -123,7 +135,7 @@ body{margin: 5px 0px 0px 0px;}
   background-color: #fff;
   @extend .cf;
   h1.site-title{
-    margin: 5px 0px 0px 0px;
+    margin: 5px 0 0 0;
     font-size: 14px;
     background-color: $c_brand;
     color: #fff;
@@ -132,13 +144,15 @@ body{margin: 5px 0px 0px 0px;}
     float: left;
     font-weight: 500;
   }
+
   a.up-next{
     text-decoration: none;
     color: $c_brand;
     float: left;
-    margin: 5px 0px 0px 145px;
+    margin: 5px 0 0 145px;
     padding: 5px 10px;
   }
+
   .search{
     position: relative;
     float: right;
@@ -152,6 +166,7 @@ body{margin: 5px 0px 0px 0px;}
       top: 6px;
       img{max-width: 80%;height: auto;}
     }
+
     input[type="text"]{
       width: 200px;
       padding: 10px 30px 10px 10px;
@@ -166,15 +181,16 @@ body{margin: 5px 0px 0px 0px;}
     }
   }
 }
+
 .search-results{
   display: none;
   z-index: 99;
   background-color: #fff;
-  margin: 20px 20px 0px 33.33%;
+  margin: 20px 20px 0 33.33%;
   border: 1px solid $c_border;
   padding: 5px 5px 5px 10px;
   @include border-radius(5px);
-  @include box-shadow(0px 0px 10px $c_border);
+  @include box-shadow(0 0 10px $c_border);
   li{
     color: $c_text;
     a{
@@ -193,6 +209,7 @@ body{margin: 5px 0px 0px 0px;}
           right: 20px;
         }
       }
+
       &:after{
         @include easing(350ms);
         content: " ";
@@ -208,28 +225,32 @@ body{margin: 5px 0px 0px 0px;}
         @include border-radius(20px);
       }
     }
+
     &:last-of-type{
-      a{border-bottom: 0px;}
+      a{border-bottom: 0;}
     }
   }
 }
+
 .search-results.visible{display: block;}
 // Menu
 .menu{
-  padding: 10px 20px 10px 0px;
+  padding: 10px 20px 10px 0;
   border-right: 1px solid $c_border;
   position: fixed;
   z-index: 1;
-  top: 0px;
-  bottom: 0px;
-  width: 20.80%;
+  top: 0;
+  bottom: 0;
+  width: 20.8%;
   max-width: 300px;
-  box-shadow: 8px 0px 10px -7px $c_border;
+  box-shadow: 8px 0 10px -7px $c_border;
   ul{
-    &:first-of-type{@include easing(250ms);margin: 155px 0px 0px 0px;}
-    li{margin: 5px 0px;}
+    &:first-of-type{@include easing(250ms);margin: 155px 0 0 0;}
+
+    li{margin: 5px 0;}
+
     ul{
-      &:first-of-type{@include easing(0ms);margin-top: 0px;margin-left: 10%;}
+      &:first-of-type{@include easing(0ms);margin-top: 0;margin-left: 10%;}
       margin-left: 10%;
       background-color: $c_bg;
       padding: 10px;
@@ -243,11 +264,13 @@ body{margin: 5px 0px 0px 0px;}
       }
     }
   }
+
   ul.menu-position{
     @include easing(250ms);
-    margin: 20px 0px 0px 0px;
-    &:first-of-type{margin: 20px 0px 0px 0px;}
+    margin: 20px 0 0 0;
+    &:first-of-type{margin: 20px 0 0 0;}
   }
+
   a{
     padding: 6px;
     font-size: 13px;
@@ -263,7 +286,9 @@ body{margin: 5px 0px 0px 0px;}
       color: $c_brand;
     }
   }
+
   li.tocify-focus{a{color: $c_brand;}}
+
   #toc{
     max-height: 92%;
     overflow: scroll;
@@ -271,32 +296,34 @@ body{margin: 5px 0px 0px 0px;}
     z-index: 0;
   }
 }
+
 .device-controls{
   @extend .cf;
   display: none;
   position: fixed;
   font-size: 14px;
   z-index: 3;
-  top: 0px;
-  left: 0px;
-  right: 0px;
+  top: 0;
+  left: 0;
+  right: 0;
   width: 100%;
   font-size: 14px;
   font-weight: 600;
   color: #fff;
   cursor: pointer;
-  left: 0px;
+  left: 0;
   span.show-menu{
     color: #fff;
     @include background-gradient(lighten($c_brand, 10%), $c_brand);
     padding: 8px;
     position: fixed;
-    top: 0px;
+    top: 0;
     text-align: center;
-    left: 0px;
-    right: 0px;
+    left: 0;
+    right: 0;
     width: 100%;
   }
+
   span.hide-menu{
     @extend span.show-menu;
   }
@@ -305,59 +332,69 @@ body{margin: 5px 0px 0px 0px;}
 .content{
   padding: 2rem 0;
   .search-highlight{background-color: $c_search;}
+
   h2,
   h1{
     font-size: 24px;
     font-weight: 300;
-    padding: 0px 0px 20px 0px;
+    padding: 0 0 20px 0;
     position: relative;
     color: $c_header;
   }
+
   h2{
     font-size: 16px;
     font-weight: 500;
     color: $c_header;
     &:after{display: none;content: " ";}
   }
-  strong{font-family: $f_serif;font-weight:600;color: $c_header;}
+
+  strong{font-family: $f_serif;font-weight: 600;color: $c_header;}
+
   em{font-family: $f_serif; font-style: italic;}
-  img{max-width: 100%;height: auto;display: block;margin: 0px 0px 20px 0px;}
+
+  img{max-width: 100%;height: auto;display: block;margin: 0 0 20px 0;}
+
   h3{
-    padding: 0px 0px 20px 0px;
+    padding: 0 0 20px 0;
     color: $c_header;
     font-size: 14px;
     font-weight: 500;
   }
+
   ol{
-    padding: 0px 0px 20px 20px;
+    padding: 0 0 20px 20px;
     list-style: decimal;
     li{
-      margin: 0px 0px 10px 0px;
+      margin: 0 0 10px 0;
       line-height: 2;
       font-size: 14px;
       color: $c_text;
     }
   }
+
   ul{
-    padding: 0px 0px 20px 20px;
+    padding: 0 0 20px 20px;
     list-style: square;
     li{
-      margin: 0px 0px 10px 0px;
+      margin: 0 0 10px 0;
       line-height: 2;
       font-size: 14px;
       color: $c_text;
     }
   }
+
   blockquote{
     background-color: $c_bg;
     border-left: 2px solid $c_brand;
-    margin: 0px 0px 20px 0px;
+    margin: 0 0 20px 0;
     padding: 10px 10px 10px 20px;
     p{
-      padding: 0px;
+      padding: 0;
       font-style: italic;
     }
   }
+
   hr{
     display: block;
     height: 1px;
@@ -365,8 +402,9 @@ body{margin: 5px 0px 0px 0px;}
     border-top: 1px solid $c_border;
     padding: 0;
   }
+
   p{
-    padding: 0px 0px 20px 0px;
+    padding: 0 0 20px 0;
     color: $c_text;
     font-size: 14px;
     line-height: 2;
@@ -381,6 +419,7 @@ body{margin: 5px 0px 0px 0px;}
       }
     }
   }
+
   a{
     @include easing(350ms);
     color: $c_brand;
@@ -390,9 +429,10 @@ body{margin: 5px 0px 0px 0px;}
       color: $c_header;
     }
   }
+
   table{
     border: 1px solid $c_border;
-    margin: 0px 0px 20px 0px;
+    margin: 0 0 20px 0;
     tr{
       td,
       th{
@@ -407,6 +447,7 @@ body{margin: 5px 0px 0px 0px;}
           font-weight: 600;
         }
       }
+
       td{
         background-color: #fff;
         font-size: 12px;
