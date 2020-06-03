@@ -47,4 +47,4 @@ _Commands_
 - `rake build` will build the static site into the `build` directory
 - `rake serve_static` will create a simple HTTP server for the `build` directory
 
-### Originally forked from [Datica HIPAA policies](https://github.com/catalyzeio/policies)
+#### Originally forked from [Datica HIPAA policies](https://github.com/catalyzeio/policies)
