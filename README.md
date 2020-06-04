@@ -1,4 +1,4 @@
-### _[https://policies.versionista.com](See a demo of this repo.)_
+### _[See a demo of this repo.](https://policies.versionista.com)_
 
 # Policy Index
 
