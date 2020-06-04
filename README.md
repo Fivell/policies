@@ -1,26 +1,4 @@
-### License
-
-All policies are licensed under
-[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
-
-### Disclaimer
-
-The information provided herein does not, and is not intended to, constitute
-legal advice; instead, all information, content, and materials available herein
-are for general informational purposes only. Information herein may not
-constitute the most up-to-date legal or other information. Right?
-
-Readers of this information should contact their attorney to obtain advice with
-respect to any particular legal matter. No reader, user, or browser of this
-information should act or refrain from acting on the basis of information herein
-without first seeking legal advice from counsel in the relevant jurisdiction.
-Only your individual attorney can provide assurances that the information
-contained herein – and your interpretation of it – is applicable or appropriate
-to your particular situation. Use of, and access to, information herein, or any
-of the links or resources contained herein, do not create an attorney-client
-relationship in any way, shape, or form. Got it?
-
-### Policy Index
+# Policy Index
 
 - [Introduction](source/sections/01-introduction.md)
 - [Policy Management Policy](source/sections/03-policy_management_policy.md)
@@ -43,17 +21,49 @@ relationship in any way, shape, or form. Got it?
 - [Approved Tools Policy](source/sections/20-approved_tools_policy.md)
 - [3rd Party Policy](source/sections/21-3rd_party_policy.md)
 
-### How to build the docs
+### Deployment
 
-- Download this repository
-- cd `policies`
-- `bundle install`
+```
+yarn
+```
 
-_Commands_
+To build, watch for file edits and hot-reload, and run locally:
 
-- `rake run` will run the site locally
-- `rake sass` will compile any changes made to `assets/css/styles.scss`
-- `rake build` will build the static site into the `build` directory
-- `rake serve_static` will create a simple HTTP server for the `build` directory
+```
+yarn run develop
+```
+
+To build for PROD:
+
+```
+yarn run build
+```
+
+While you could run `gatsby` commands directly, it is preferable to use
+`yarn run` (and see corresponding scripts in `package.json`) so as to avoid
+differences between local and global `gatsby` versions.
+([See the CLI instructions for more details](https://www.npmjs.com/package/gatsby-cli).)
+
+### Disclaimer
+
+The information provided herein does not, and is not intended to, constitute
+legal advice; instead, all information, content, and materials available herein
+are for general informational purposes only. Information herein may not
+constitute the most up-to-date legal or other information. Right?
+
+Readers of this information should contact their attorney to obtain advice with
+respect to any particular legal matter. No reader, user, or browser of this
+information should act or refrain from acting on the basis of information herein
+without first seeking legal advice from counsel in the relevant jurisdiction.
+Only your individual attorney can provide assurances that the information
+contained herein – and your interpretation of it – is applicable or appropriate
+to your particular situation. Use of, and access to, information herein, or any
+of the links or resources contained herein, do not create an attorney-client
+relationship in any way, shape, or form. Got it?
+
+### License
+
+All policies are licensed under
+[CC BY-SA 4.0](http://creativecommons.org/licenses/by-sa/4.0/).
 
 #### Originally forked from [Datica HIPAA policies](https://github.com/catalyzeio/policies)
