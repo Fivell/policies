@@ -3,6 +3,7 @@
 # Policy Index
 
 - [Introduction](src/pages/policies/introduction.md)
+- [Policy on Policies](src/pages/policies/policy_on_policies.md)
 - [Policy Management Policy](src/pages/policies/policy_management_policy.md)
 - [Risk Management Policy](src/pages/policies/risk_management_policy.md)
 - [Roles Policy](src/pages/policies/roles_policy.md)
