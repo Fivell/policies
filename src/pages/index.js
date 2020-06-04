@@ -5,8 +5,8 @@ import PropTypes from "prop-types";
 import SEO from "../components/SEO";
 import Card from "../components/Card";
 import Page from "../components/Page";
-import Button from "@material-ui/core/Button";
 import Carousel from "../components/Carousel";
+import List from "../components/List";
 import Avatar from "@material-ui/core/Avatar";
 import { Gift } from "mdi-material-ui";
 import withStyles from "@material-ui/styles/withStyles";
@@ -24,17 +24,6 @@ const Home = props => {
         <meta content="All our policies in one place." name="description" />
       </SEO>
       <Card
-        action={
-          <Button
-            className={props.classes.root}
-            color="secondary"
-            component={Link}
-            to="/policies"
-            variant="contained"
-          >
-            View All Policies
-          </Button>
-        }
         avatar={
           <Avatar>
             <Gift />
@@ -45,6 +34,8 @@ const Home = props => {
       >
         <Carousel items={policies} />
       </Card>
+      <p />
+      <List items={policies} />
     </Page>
   );
 };
