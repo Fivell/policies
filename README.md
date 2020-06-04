@@ -51,7 +51,10 @@ differences between local and global `gatsby` versions.
 The information provided herein does not, and is not intended to, constitute
 legal advice; instead, all information, content, and materials available herein
 are for general informational purposes only. Information herein may not
-constitute the most up-to-date legal or other information. Right?
+constitute the most up-to-date legal or other information.
+
+All information is provided as-is with no warranty, express or implied, of any
+kind.
 
 Readers of this information should contact their attorney to obtain advice with
 respect to any particular legal matter. No reader, user, or browser of this
