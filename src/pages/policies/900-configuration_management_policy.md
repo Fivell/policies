@@ -1,8 +1,8 @@
 ---
 path: "/policies/900-configuration_management_policy"
-title: "Balderdash Backpack"
+title: "Configuration Management Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "jakob-owens-235219-unsplash.jpg"
+image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 ---
 
 # 9. Configuration Management Policy

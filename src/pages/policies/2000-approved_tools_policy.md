@@ -1,8 +1,8 @@
 ---
 path: "/policies/2000-approved_tools_policy"
-title: "Balderdash Backpack"
+title: "Approved Tools Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "jakob-owens-235219-unsplash.jpg"
+image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 ---
 
 # 20. Approved Tools Policy

@@ -1,8 +1,8 @@
 ---
 path: "/policies/1500-ids_policy"
-title: "Balderdash Backpack"
+title: "IDS Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "jakob-owens-235219-unsplash.jpg"
+image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 ---
 
 # 15. IDS Policy

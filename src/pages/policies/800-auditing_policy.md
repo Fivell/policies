@@ -1,8 +1,8 @@
 ---
 path: "/policies/800-auditing_policy"
-title: "Balderdash Backpack"
+title: "Auditing Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "jakob-owens-235219-unsplash.jpg"
+image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 ---
 
 # 8. Auditing Policy

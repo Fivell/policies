@@ -1,8 +1,8 @@
 ---
 path: "/policies/700-systems_access_policy"
-title: "Balderdash Backpack"
+title: "System Access Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "jakob-owens-235219-unsplash.jpg"
+image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 ---
 
 # 7. System Access Policy
