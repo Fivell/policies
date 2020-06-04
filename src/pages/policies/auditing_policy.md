@@ -6,8 +6,6 @@ image: "images/clint-adair-BW0vK-FA3eg-unsplash.jpg"
 sortField: 800
 ---
 
-# 8. Auditing Policy
-
 Versionista shall audit access and activity of electronic protected health
 information (ePHI) applications and systems in order to ensure compliance. The
 Security Rule requires healthcare organizations to implement reasonable
@@ -33,9 +31,9 @@ activity to detect, report, and guard against:
 This policy applies to all Versionista Add-on systems that store, transmit, or
 process ePHI.
 
-## 8.1 Applicable Standards
+## Applicable Standards
 
-### 8.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 0.a Information Security Management Program
 - 01.a Access Control Policy
@@ -46,7 +44,7 @@ process ePHI.
 - 09.ab - Monitoring System Use
 - 06.e - Prevention of Misuse of Information
 
-### 8.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 45 CFR §164.308(a)(1)(ii)(D) - Information System Activity Review
 - 45 CFR §164.308(a)(5)(ii)(B) & &lpar;C&rpar; - Protection from Malicious
@@ -56,7 +54,7 @@ process ePHI.
 - 45 CFR §164.312&lpar;c&rpar;(2) - Mechanism to Authenticate ePHI
 - 45 CFR §164.312(e)(2)(i) - Integrity Controls
 
-## 8.2 Auditing Policies
+## Auditing Policies
 
 1. Responsibility for auditing information system access and activity is
    assigned to Versionista's Security Officer. The Security Officer shall:
@@ -142,7 +140,7 @@ process ePHI.
 14. Software patches and updates will be applied to all systems in a timely
     manner.
 
-## 8.3 Audit Requests
+## Audit Requests
 
 1. A request may be made for an audit for a specific cause. The request may come
    from a variety of sources including, but not limited to, Privacy Officer,
@@ -166,7 +164,7 @@ process ePHI.
      regarding an audit, it is recommended that Versionista consider seeking
      risk management and/or legal counsel.
 
-## 8.4 Review and Reporting of Audit Findings
+## Review and Reporting of Audit Findings
 
 1. Audit information that is routinely gathered must be reviewed in a timely
    manner, currently monthly, by the responsible workforce member(s). On a
@@ -211,7 +209,7 @@ process ePHI.
 1. Log review activity is monitored on a quarterly basis using the Quality
    Management System reporting to assess compliance with above policy.
 
-## 8.5 Auditing Customer and Partner Activity
+## Auditing Customer and Partner Activity
 
 1. Periodic monitoring of Customer and Partner activity shall be carried out to
    ensure that access and activity is appropriate for privileges granted and
@@ -226,7 +224,7 @@ process ePHI.
    Versionista must take immediate action to remediate the situation. Continued
    violations may result in discontinuation of the business relationship.
 
-## 8.6 Audit Log Security Controls and Backup
+## Audit Log Security Controls and Backup
 
 1. Audit logs shall be protected from unauthorized access or modification, so
    the information they contain will be made available only if needed to
@@ -246,7 +244,7 @@ process ePHI.
 4. For PaaS Customers choosing to use Versionista logging services, log data
    will be separated from the log data of other Versionista Customers.
 
-## 8.7 Workforce Training, Education, Awareness and Responsibilities
+## Workforce Training, Education, Awareness and Responsibilities
 
 1. Versionista workforce members are provided training, education, and awareness
    on safeguarding the privacy and security of business and ePHI. Versionista's
@@ -261,7 +259,7 @@ process ePHI.
    Versionista auditing capabilities, and PaaS Customers can choose the level of
    logging and auditing that Versionista will implement on their behalf.
 
-## 8.8 External Audits of Information Access and Activity
+## External Audits of Information Access and Activity
 
 1. Prior to contracting with an external audit firm, Versionista shall:
    - Outline the audit responsibility, authority, and accountability;
@@ -274,7 +272,7 @@ process ePHI.
    - Assign organizational responsibility for supervision of the external audit
      firm.
 
-## 8.9 Retention of Audit Data
+## Retention of Audit Data
 
 1. Audit logs shall be maintained based on organizational needs. There is no
    standard or law addressing the retention of audit log/trail information.
@@ -290,7 +288,7 @@ process ePHI.
 4. For PaaS Customers, they choose the length of backup retention and
    availability that Versionista will implement and enforce.
 
-## 8.10 Potential Trigger Events
+## Potential Trigger Events
 
 - High risk or problem prone incidents or events.
 - Business associate, customer, or partner complaints.

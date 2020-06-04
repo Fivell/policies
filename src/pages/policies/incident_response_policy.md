@@ -6,8 +6,6 @@ image: "images/marius-masalar-CyFBmFEsytU-unsplash.jpg"
 sortField: 1100
 ---
 
-# 11. Incident Response Policy
-
 Versionista implements an information security incident response process to
 consistently detect, respond to, and report incidents, minimize loss and
 destruction, mitigate the weaknesses that were exploited, and restore
@@ -30,19 +28,19 @@ _Note:_ These policies were adapted from work by the
 [HIPAA Collaborative of Wisconsin Security Networking Group](http://hipaacow.org/wp-content/uploads/2015/02/HCR-Security-Incident-Response-FINAL-12.18.14.doc).
 Refer to the linked document for additional copyright information.
 
-## 11.1 Applicable Standards
+## Applicable Standards
 
-### 11.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 11.a - Reporting Information Security Events
 - 11.c - Responsibilities and Procedures
 
-### 11.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(5)(i) - Security Awareness and Training
 - 164.308(a)(6) - Security Incident Procedures
 
-## 11.2 Incident Management Policies
+## Incident Management Policies
 
 The Versionista incident response process follows the process recommended by
 [SANS](https://www.sans.org), an industry leader in security. Process flows are
@@ -81,7 +79,7 @@ email or Slack). In practice this means keeping an eye out for security events,
 and letting the Security Officer know about any observed precursors or
 indications as soon as they are discovered.
 
-### 11.2.1 Identification Phase
+### Identification Phase
 
 1. Immediately upon observation Versionista members report suspected and known
    Events, Precursors, Indications, and Incidents in one of the following ways:
@@ -134,7 +132,7 @@ indications as soon as they are discovered.
    investigate and involve necessary resources, both internal to Versionista and
    potentially external.
 
-### 11.2.2 Containment Phase (Technical)
+### Containment Phase (Technical)
 
 In this Phase, Versionista's IT department attempts to contain the security
 incident. It is extremely important to take detailed notes during the security
@@ -165,7 +163,7 @@ security incident can be used successfully during prosecution, if appropriate.
 5. Continue to notify affected Customers and Partners with relevant updates as
    needed
 
-### 11.2.3 Eradication Phase (Technical)
+### Eradication Phase (Technical)
 
 The Eradication Phase represents the SIRT's effort to remove the cause, and the
 resulting security exposures, that are now on the affected system(s).
@@ -192,7 +190,7 @@ resulting security exposures, that are now on the affected system(s).
    needed.
 8. Move to Phase IV, Recovery.
 
-### 11.2.4 Recovery Phase (Technical)
+### Recovery Phase (Technical)
 
 The Recovery Phase represents the SIRT's effort to restore the affected
 system(s) back to operation after the resulting security exposures, if any, have
@@ -218,7 +216,7 @@ been corrected.
       as needed.
    8. Move to Phase V, Follow-up.
 
-### 11.2.5 Follow-up Phase (Technical and Non-Technical)
+### Follow-up Phase (Technical and Non-Technical)
 
 The Follow-up Phase represents the review of the security incident to look for
 "lessons learned" and to determine whether the process that was taken could have
@@ -241,7 +239,7 @@ Timeframes may extend to one to two weeks post-incident.
       budget, time and resources should be committed to this activity.
    5. Close the security incident.
 
-### 11.2.6 Periodic Evaluation
+### Periodic Evaluation
 
 It is important to note that the processes surrounding security incident
 response should be periodically reviewed and evaluated for effectiveness. This
@@ -250,7 +248,7 @@ incidents, as well as the training of the general population regarding
 Versionista's expectation for them, relative to security responsibilities. The
 incident response plan is tested annually.
 
-## 11.3 Security Incident Response Team (SIRT)
+## Security Incident Response Team (SIRT)
 
 Current members of the Versionista SIRT:
 

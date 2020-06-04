@@ -6,28 +6,26 @@ image: "images/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg"
 sortField: 500
 ---
 
-# 5. Roles Policy
-
 Versionista has a Security Officer [164.308(a)(2)] and Privacy Officer
 [164.308(a)(2)] appointed to assist in maintaining and enforcing safeguards
 towards compliance. The responsibilities associated with these roles are
 outlined below.
 
-## 5.1 Applicable Standards
+## Applicable Standards
 
-### 5.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 02.f - Disciplinary Process
 - 06.d - Data Protection and Privacy of Covered Information
 - 06.f - Prevention of Misuse of Information Assets
 - 06.g - Compliance with Security Policies and Standards
 
-### 5.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(2) - Assigned Security Responsibility
 - 164.308(a)(5)(i) - Security Awareness and Training
 
-## 5.2 Privacy Officer
+## Privacy Officer
 
 The Privacy Officer is responsible for assisting with compliance and security
 training for workforce members, assuring the organization remains in compliance
@@ -45,7 +43,7 @@ responsibilities.
 The current Versionista Privacy Officer is Peter Bray
 ([peter@versionista.com](mailto:peter@versionista.com)).
 
-### 5.2.1 Workforce Training Responsibilities
+### Workforce Training Responsibilities
 
 1. The Privacy Officer facilitates the training of all workforce members as
    follows:
@@ -95,7 +93,7 @@ The current Versionista Privacy Officer is Peter Bray
    22. Procedures to re-use electronic media containing ePHI;
    23. SSH key and sensitive document encryption procedures.
 
-## 5.3 Security Officer
+## Security Officer
 
 The Security Officer is responsible for facilitating the training and
 supervision of all workforce members [164.308(a)(3)(ii)(A) and
@@ -108,7 +106,7 @@ to efforts toward security and compliance [164.316(a-b)].
 The current Versionista Security Officer is Peter Bray
 ([peter@versionista.com](mailto:peter@versionista.com)).
 
-### 5.3.1 Organizational Responsibilities
+### Organizational Responsibilities
 
 The Security Officer, in collaboration with the Privacy Officer, is responsible
 for facilitating the development, testing, implementation, training, and
@@ -190,7 +188,7 @@ following:
         was not in the budget forecast, the Security Officer works with the COO
         to reallocate any resources as necessary to cover this expense.
 
-### 5.3.2 Supervision of Workforce Responsibilities
+### Supervision of Workforce Responsibilities
 
 Although the Security Officer is responsible for implementing and overseeing all
 activities related to maintaining compliance, it is the responsibility of all
@@ -208,7 +206,7 @@ ePHI.
    provide access to users who comply with the Security regulations and
    Versionista's security policies and procedures.
 
-### 5.3.3 Sanctions of Workforce Responsibilities
+### Sanctions of Workforce Responsibilities
 
 All workforce members report non-compliance of Versionista's policies and
 procedures to the Security Officer or other individual as assigned by the

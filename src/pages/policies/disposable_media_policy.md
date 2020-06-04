@@ -6,8 +6,6 @@ image: "images/dennis-kummer-52gEprMkp7M-unsplash.jpg"
 sortField: 1400
 ---
 
-# 14. Disposable Media Policy
-
 Versionista recognizes that media containing ePHI may be reused when appropriate
 steps are taken to ensure that all stored ePHI has been effectively rendered
 inaccessible. Destruction/disposal of ePHI shall be carried out in accordance
@@ -18,17 +16,17 @@ ePHI is only stored in our hosted environment using encrypted storage.
 Versionista does not use, own, or manage any mobile devices, SD cards, or tapes
 that have access to ePHI.
 
-## 14.1 Applicable Standards
+## Applicable Standards
 
-### 14.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 0.9o - Management of Removable Media
 
-### 14.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.310(d)(1) - Device and Media Controls
 
-## 14.2 Disposable Media Policy
+## Disposable Media Policy
 
 1. All removable media is restricted, audited, and is encrypted.
 2. Versionista assumes all disposable media in its Platform may contain ePHI, so

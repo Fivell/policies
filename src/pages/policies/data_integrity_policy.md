@@ -6,8 +6,6 @@ image: "images/tobias-fischer-PkbZahEG2Ng-unsplash.jpg"
 sortField: 1700
 ---
 
-# 17. Data Integrity Policy
-
 Versionista takes data integrity very seriously. As stewards and partners of
 Versionista Customers, we strive to assure data is protected from unauthorized
 access and that it is available when needed. The following policies drive many
@@ -18,27 +16,27 @@ Production systems that create, receive, store, or transmit Customer data
 (hereafter "Production Systems") must follow the guidelines described in this
 section.
 
-## 17.1 Applicable Standards
+## Applicable Standards
 
-### 17.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 10.b - Input Data Validation
 
-### 17.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(8) - HIPAA Security Rule Evaluation
 
-## 17.2 Disabling Non-Essential Services
+## Disabling Non-Essential Services
 
 1. All Production Systems must disable services that are not required to achieve
    the business purpose or function of the system.
 
-## 17.3 Monitoring Log-in Attempts
+## Monitoring Log-in Attempts
 
 1. All access to Production Systems must be logged. This is done following the
    Versionista Auditing Policy.
 
-## 17.4 Prevention of Malware on Production Systems
+## Prevention of Malware on Production Systems
 
 1. All Production Systems must have OSSEC running, and set to scan system every
    2 hours and at reboot to assure no malware is present. Detected malware is
@@ -52,7 +50,7 @@ section.
      in [§8.6](#8-6-audit-log-security-controls-and-backup).
 3. All Production Systems are to only be used for Versionista business needs.
 
-## 17.5 Patch Management
+## Patch Management
 
 1. Software patches and updates will be applied to all systems in a timely
    manner. In the case of routine updates, they will be applied after thorough
@@ -66,7 +64,7 @@ section.
 2. Administrators subscribe to mailing lists to ensure that they are using
    current versions of all Versionista-managed software on Production Systems.
 
-## 17.6 Intrusion Detection and Vulnerability Scanning
+## Intrusion Detection and Vulnerability Scanning
 
 1. Production systems are monitored using IDS systems. Suspicious activity is
    logged and alerts are generated.
@@ -75,7 +73,7 @@ section.
    reviewed by Security Officer, with defined steps for risk mitigation, and
    retained for future reference.
 
-## 17.7 Production System Security
+## Production System Security
 
 1. System, network, and server security is managed and maintained by the
    Security Officer in conjunction with the Dev Ops team.
@@ -84,7 +82,7 @@ section.
 3. Access to Production Systems is controlled using centralized tools and
    two-factor authentication.
 
-## 17.8 Production Data Security
+## Production Data Security
 
 1. Reduce the risk of compromise of Production Data.
 2. Implement and/or review controls designed to protect Production Data from
@@ -104,7 +102,7 @@ section.
 7. Encrypted volumes use AES encryption with a minimum of 256-bit keys, or keys
    and ciphers of equivalent or higher cryptographic strength.
 
-## 17.9 Transmission Security
+## Transmission Security
 
 1. All data transmission is encrypted end to end using encryption keys managed
    by Versionista. Encryption is not terminated at the network end point, and is

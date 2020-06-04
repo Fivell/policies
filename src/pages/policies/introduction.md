@@ -6,8 +6,6 @@ image: "images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
 sortField: 100
 ---
 
-# 1. Introduction
-
 Fox and Geese LLC D/B/A Versionista ("Versionista") is committed to ensuring the
 confidentiality, privacy, integrity, and availability of all digital information
 it receives, maintains, processes and/or transmits on behalf of its Customers.
@@ -26,7 +24,7 @@ and 2) **Platform Add-ons**. These Categories are cited throughout policies as
 Customers in each category inherit different policies, procedures, and
 obligations from Versionista.
 
-## 1.1 Platform as a Service (PaaS)
+## Platform as a Service (PaaS)
 
 PaaS Customers utilize hosted software and infrastructure from Versionista to
 deploy, host, and scale custom developed applications and configured databases.
@@ -39,7 +37,7 @@ unauthorized disclosure, access, and/or breach of PaaS Customer data through
 network (firewalls, dedicated IP spaces, etc) and server settings (encryption at
 rest and in transit, OSSEC throughout the Platform, etc).
 
-## 1.2 Compliance Inheritance
+## Compliance Inheritance
 
 Versionista provides hosted software infrastructure for its Customers.
 Versionista's service offerings are available on AWS, Azure, Rackspace, and
@@ -63,7 +61,7 @@ Mappings of HIPAA Rules to Versionista controls and a mapping of what Rules are
 inherited by Customers, both Platform Customers and Add-on Customers, are
 covered in [§2](#2-hipaa-inheritance).
 
-## 1.3 Versionista Organizational Concepts
+## Versionista Organizational Concepts
 
 The physical infrastructure environment is hosted at
 [Rackspace](https://www.rackspace.com/),
@@ -131,7 +129,7 @@ servers is not accessible except through load balancers.
 All Platform Add-ons and operating systems are tested end-to-end for usability,
 security, and impact prior to deployment to production.
 
-## 1.4 Requesting Audit and Compliance Reports
+## Requesting Audit and Compliance Reports
 
 Versionista, at its sole discretion, shares audit reports, including its
 Corrective Action Plans (CAPs), with customers on a case by case basis. All
@@ -159,7 +157,7 @@ The following process is used to request audit reports:
    requested audit report and complete the Quality Management System issue for
    the request.
 
-## 1.5 Version Control
+## Version Control
 
 Refer to the GitHub repository at
 [https://github.com/foxandgeese/policies](https://github.com/foxandgeese/policies)

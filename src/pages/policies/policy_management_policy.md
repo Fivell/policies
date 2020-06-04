@@ -6,8 +6,6 @@ image: "images/jordan-harrison-40XgDxBfYXM-unsplash.jpg"
 sortField: 300
 ---
 
-# 3. Policy Management Policy
-
 Versionista implements policies and procedures to maintain compliance and
 integrity of data. The Security Officer and Privacy Officer are responsible for
 maintaining policies and procedures and assuring all Versionista workforce
@@ -15,19 +13,19 @@ members, business associates, customers, and partners are adherent to all
 applicable policies. Previous versions of policies are retained to assure ease
 of finding policies at specific historic dates in time.
 
-## 3.1 Applicable Standards
+## Applicable Standards
 
-### 3.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 12.c - Developing and Implementing Continuity Plans Including Information
   Security
 
-### 3.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.316(a) - Policies and Procedures
 - 164.316(b)(1)(i) - Documentation
 
-## 3.2 Maintenance of Policies
+## Maintenance of Policies
 
 1. All policies are stored and updated to maintain Versionista compliance with
    HIPAA, HITRUST, NIST, and other relevant standards. Updates and version

@@ -6,8 +6,6 @@ image: "images/markus-spiske-hvSr_CVecVI-unsplash.jpg"
 sortField: 1200
 ---
 
-# 12. Breach Policy
-
 To provide guidance for breach notification when impressive or unauthorized
 access, acquisition, use and/or disclosure of the ePHI occurs. Breach
 notification will be carried out in compliance with the American Recovery and
@@ -35,21 +33,21 @@ and the media. The effective implementation for this provision is September 23,
 In the case of a breach, Versionista shall notify all affected Customers. It is
 the responsibility of the Customers to notify affected individuals.
 
-## 12.1 Applicable Standards
+## Applicable Standards
 
-### 12.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 11.a Reporting Information Security Events
 - 11.c Responsibilities and Procedures
 
-### 12.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(6)(i) - Security Incident Procedures
 - HITECH Notification in the Case of Breach - 13402(a) and 13402(b)
 - HITECH Timeliness of Notification - 13402(d)(1)
 - HITECH Content of Notification - 13402(f)(1)
 
-## 12.2 Versionista Breach Policy
+## Versionista Breach Policy
 
 1. Discovery of Breach: A breach of ePHI shall be treated as "discovered" as of
    the first day on which such breach is known to the organization, or, by
@@ -172,7 +170,7 @@ the responsibility of the Customers to notify affected individuals.
     as a condition of the provision of treatment, payment, enrollment in a
     health plan, or eligibility for benefits.
 
-## 12.3 Versionista Platform Customer Responsibilities
+## Versionista Platform Customer Responsibilities
 
 1. The Versionista Customer that accesses, maintains, retains, modifies,
    records, stores, destroys, or otherwise holds, uses, or discloses unsecured
@@ -194,7 +192,7 @@ the responsibility of the Customers to notify affected individuals.
 3. Notice to Secretary of HHS: Versionista Customers are responsible for
    providing notice to the Secretary of HHS at the Customer's discretion.
 
-## 12.4 Sample Letter to Customers in Case of Breach
+## Sample Letter to Customers in Case of Breach
 
 [Date]
 

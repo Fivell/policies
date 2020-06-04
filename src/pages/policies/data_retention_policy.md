@@ -6,8 +6,6 @@ image: "images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
 sortField: 1800
 ---
 
-# 18. Data Retention Policy
-
 Despite not being a requirement within HIPAA, Versionista understands and
 appreciates the importance of health data retention. Acting as a subcontractor,
 and at times a business associate, Versionista is not directly responsible for
@@ -15,11 +13,11 @@ health and medical records retention as set forth by each state. Despite this,
 Versionista has created and implemented the following policy to make it easier
 for Versionista Customers to support data retention laws.
 
-## 18.1 State Medical Record Laws
+## State Medical Record Laws
 
 - [Listing of state requirements for medical record retention](http://www.healthit.gov/sites/default/files/appa7-1.pdf)
 
-## 18.2 Data Retention Policy
+## Data Retention Policy
 
 - Current Versionista Customers have data stored by Versionista as a part of the
   Versionista Service.

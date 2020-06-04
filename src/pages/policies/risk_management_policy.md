@@ -6,28 +6,26 @@ image: "images/margaret-weir-GZyjbLNOaFg-unsplash.jpg"
 sortField: 400
 ---
 
-# 4. Risk Management Policy
-
 This policy establishes the scope, objectives, and procedures of Versionista's
 information security risk management process. The risk management process is
 intended to support and protect the organization and its ability to fulfill its
 mission.
 
-## 4.1 Applicable Standards
+## Applicable Standards
 
-### 4.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 03.a - Risk Management Program Development
 - 03.b - Performing Risk Assessments
 - 03.c - Risk Mitigation
 
-### 4.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(1)(ii)(A) - HIPAA Security Rule Risk Analysis
 - 164.308(a)(1)(ii)(B) - HIPAA Security Rule Risk Management
 - 164.308(a)(8) - HIPAA Security Rule Evaluation
 
-## 4.2 Risk Management Policies
+## Risk Management Policies
 
 1. It is the policy of Versionista to conduct thorough and timely risk
    assessments of the potential threats and vulnerabilities to the
@@ -97,9 +95,9 @@ mission.
 14. The Risk Management Procedure is monitored on a quarterly basis using the
     Quality Management System reporting to assess compliance with above policy.
 
-## 4.3 Risk Management Procedures
+## Risk Management Procedures
 
-### 4.3.1 Risk Assessment
+### Risk Assessment
 
 The intent of completing a risk assessment is to determine potential threats and
 vulnerabilities and the likelihood and impact should they occur. The output of
@@ -200,7 +198,7 @@ risk.
     vulnerabilities, measures the risk, and provides recommendations for control
     implementation.
 
-### 4.3.2 Risk Mitigation
+### Risk Mitigation
 
 Risk mitigation involves prioritizing, evaluating, and implementing the
 appropriate risk-reducing controls recommended from the Risk Assessment process
@@ -303,7 +301,7 @@ mission.
     an acceptable level can be identified.
   - Output - Residual Risk documentation
 
-### 4.3.3 Risk Management Schedule
+### Risk Management Schedule
 
 The two principle components of the risk management process - risk assessment
 and risk mitigation - will be carried out according to the following schedule to
@@ -325,7 +323,7 @@ information security program:
   sensitivity, threats, legal liabilities, or other significant factors that
   affect Versionista's Platform.
 
-## 4.4 Process Documentation
+## Process Documentation
 
 Maintain documentation of all risk assessment, risk management, and risk
 mitigation efforts for a minimum of six years.

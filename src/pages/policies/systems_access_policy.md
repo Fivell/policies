@@ -6,8 +6,6 @@ image: "images/johannes-groll-mrIaqKh9050-unsplash.jpg"
 sortField: 700
 ---
 
-# 7. System Access Policy
-
 Access to Versionista systems and applications is limited for all users,
 including but not limited to workforce members, volunteers, business associates,
 contracted providers, and consultants. Access by any other entity is allowable
@@ -16,9 +14,9 @@ incident of unauthorized use or access of the organization's information
 systems. These safeguards have been established to address the HIPAA Security
 regulations including the following:
 
-## 7.1 Applicable Standards
+## Applicable Standards
 
-### 7.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 01.d - User Password Management
 - 01.f - Password Use
@@ -32,7 +30,7 @@ regulations including the following:
 - 02.i - Removal of Access Rights
 - 06.e - Prevention of Misuse of Information Assets
 
-### 7.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(4)(ii)(C) Access Establishment and Modification
 - 164.308(a)(3)(ii)(B) Workforce Clearance Procedures
@@ -45,7 +43,7 @@ regulations including the following:
 - 164.310(c) Workstation Security
 - 164.308(a)(3)(ii)(C) Termination Procedures
 
-## 7.2 Access Establishment and Modification
+## Access Establishment and Modification
 
 1. Requests for access to Versionista Platform systems and applications are made
    formally using the following process:
@@ -136,7 +134,7 @@ regulations including the following:
    application authentication and authorization are limited and controlled to
    restrict access.
 
-## 7.3 Workforce Clearance
+## Workforce Clearance
 
 1. The level of security assigned to a user to the organization's information
    systems is based on the minimum necessary amount of data access required to
@@ -148,7 +146,7 @@ regulations including the following:
    data. As such, Versionista, including all workforce members, does not readily
    have access to any ePHI.
 
-## 7.4 Access Authorization
+## Access Authorization
 
 1. Role based access categories for each Versionista system and application are
    pre-approved by the Security Officer, or an authorized delegate of the
@@ -156,7 +154,7 @@ regulations including the following:
 2. Versionista utilizes hardware and software firewalls to segment data, prevent
    unauthorized access, and monitor traffic for denial of service attacks.
 
-## 7.5 Person or Entity Authentication
+## Person or Entity Authentication
 
 1. Each workforce member has and uses a unique user ID and password that
    identifies him/her as the user of the information system.
@@ -174,7 +172,7 @@ regulations including the following:
      using a phone number that has been registered with the corresponding
      account.
 
-## 7.6 Unique User Identification
+## Unique User Identification
 
 1. Access to the Versionista Platform systems and applications is controlled by
    requiring unique User Login IDs and passwords for each individual user and
@@ -188,7 +186,7 @@ regulations including the following:
    entry are not permitted for use with Versionista workstations or production
    systems.
 
-## 7.7 Automatic Logoff
+## Automatic Logoff
 
 1. Users are required to make information systems inaccessible by any other
    individual when unattended by the users (ex. by using a password protected
@@ -198,7 +196,7 @@ regulations including the following:
 3. The Security Officer pre-approves exceptions to automatic log off
    requirements.
 
-## 7.8 Employee Workstation Use
+## Employee Workstation Use
 
 All workstations at Versionista are company owned, and all are laptop Apple
 products running Mac OSX or Linux.
@@ -232,7 +230,7 @@ products running Mac OSX or Linux.
    follow, these policies (https://github.com/foxandgeese/policies) . Please
    contact us if you have problems with this - leval@versionista.com._
 
-## 7.9 Wireless Access Use
+## Wireless Access Use
 
 1. Versionista production systems are not accessible directly over wireless
    channels.
@@ -246,7 +244,7 @@ products running Mac OSX or Linux.
    - Passwords are rotated on a regular basis, presently quarterly. This process
      is managed by the Versionista Security Officer.
 
-## 7.10 Employee Termination Procedures
+## Employee Termination Procedures
 
 1. The Human Resources Department (or other designated department), users, and
    their supervisors are required to notify the Security Officer upon completion
@@ -271,12 +269,12 @@ products running Mac OSX or Linux.
    logged into organization's information systems/applications for an extended
    period of time.
 
-## 7.11 Paper Records
+## Paper Records
 
 Versionista does not use paper records for any sensitive information. Use of
 paper for recording and storing sensitive data is against Versionista policies.
 
-## 7.12 Password Management
+## Password Management
 
 1. User IDs and passwords are used to control access to Versionista systems and
    may not be disclosed to anyone for any reason.
@@ -331,7 +329,7 @@ The password-reset email inbox is used to track and store password reset
 requests. The Security Officer is the owner of this group and modifies
 membership as needed.
 
-## 7.13 Access to ePHI
+## Access to ePHI
 
 1. Employees may not download ePHI to any workstations used to connect to
    production systems.
@@ -347,7 +345,7 @@ membership as needed.
    - Configuration settings for enforcing these technical controls are managed
      by Versionista's configuration management tooling, Chef/Salt.
 
-## 7.14 PaaS Customer Access to Systems
+## PaaS Customer Access to Systems
 
 Versionista grants PaaS customer secure system access via VPN connections. This
 access is only to Customer-specific systems, no other systems in the

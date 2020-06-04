@@ -6,8 +6,6 @@ image: "images/pietro-jeng-n6B49lTx7NM-unsplash.jpg"
 sortField: 1300
 ---
 
-# 13. Disaster Recovery Policy
-
 The Versionista Contingency Plan establishes procedures to recover Versionista
 following a disruption resulting from a disaster. This Disaster Recovery Policy
 is maintained by the Versionista Security Officer and Privacy Officer.
@@ -82,18 +80,18 @@ perspective.
    functioning and being accessed appropriately. These systems are restored at a
    lower priority than critical systems.
 
-## 13.1 Applicable Standards
+## Applicable Standards
 
-## 13.1.1 Applicable Standards from the HITRUST Common Security Framework
+## Applicable Standards from the HITRUST Common Security Framework
 
 - 12.c - Developing and Implementing Continuity Plans Including Information
   Security
 
-## 13.1.2 Applicable Standards from the HIPAA Security Rule
+## Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(7)(i) - Contingency Plan
 
-## 13.2 Line of Succession
+## Line of Succession
 
 The following order of succession to ensure that decision-making authority for
 the Versionista Contingency Plan is uninterrupted. The Chief Technology Officer
@@ -106,7 +104,7 @@ please use the contact list below.
 
 - Peter Bray, CEO: peter@versionista.com
 
-## 13.3 Responsibilities
+## Responsibilities
 
 The following teams have been developed and trained to respond to a contingency
 event affecting the IT system.
@@ -125,7 +123,7 @@ contact information from [§13.2](#13-2-line-of-succession). Additionally, the
 CTO must maintain a local copy of this policy in the event Internet access is
 not available during a disaster scenario.
 
-## 13.4 Testing and Maintenance
+## Testing and Maintenance
 
 The CTO shall establish criteria for validation/testing of a Contingency Plan,
 an annual test schedule, and ensure implementation of the test. This process
@@ -137,7 +135,7 @@ the tabletop testing process. However, if the application system Contingency
 Plan is included in the technical testing of their respective support systems
 that technical test will satisfy the annual requirement.
 
-### 13.4.1 Tabletop Testing
+### Tabletop Testing
 
 Tabletop Testing is conducted in accordance with the the
 [CMS Risk Management Handbook, Volume 2](http://www.cms.gov/Research-Statistics-Data-and-Systems/CMS-Information-Technology/InformationSecurity/Downloads/RMH_VII_4-5_Contingency_Plan_Exercise.pdf).
@@ -150,7 +148,7 @@ but are not limited to:
   timely, and effective manner, by simulating the occurrence of a specific
   crisis.
 
-### 13.4.2 Technical Testing
+### Technical Testing
 
 The primary objective of the technical test is to ensure the communication
 processes and data storage and recovery processes can function at an alternate
@@ -161,9 +159,9 @@ designated requirements. Technical testing shall include, but is not limited to:
 - Restore system using backups; and
 - Switch compute and storage resources to alternate processing site.
 
-## 13.5 Disaster Recovery Procedures
+## Disaster Recovery Procedures
 
-### 13.5.1 Notification and Activation Phase
+### Notification and Activation Phase
 
 This phase addresses the initial actions taken to detect and assess damage
 inflicted by a disruption to Versionista. Based on the assessment of the Event,
@@ -203,7 +201,7 @@ The notification sequence is listed below:
   general status of the incident.
 - Notification can be message, email, or phone.
 
-### 13.5.2 Recovery Phase
+### Recovery Phase
 
 This section provides procedures for recovering the application at an alternate
 site, whereas other efforts are directed to repair damage to the original system
@@ -230,7 +228,7 @@ The tasks outlines below are not sequential and some can be run in parallel.
 7. Deploy environment to production - Web Services
 8. Update DNS to new environment. - Dev Ops
 
-### 13.5.3 Reconstitution Phase
+### Reconstitution Phase
 
 This section discusses activities necessary for restoring Versionista operations
 at the original or new site. The goal is to restore full operations within 24

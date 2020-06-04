@@ -6,8 +6,6 @@ image: "images/matthew-henry-fPxOowbR6ls-unsplash.jpg"
 sortField: 600
 ---
 
-# 6. Data Management Policy
-
 Versionista has procedures to create and maintain retrievable exact copies of
 electronic protected health information (ePHI) stored in conjunction with
 Versionista Add-ons and for PaaS Customers utilizing our Backup Service. This
@@ -24,19 +22,19 @@ that data remains available when needed and in case of a disaster.
 Violation of this policy and its procedures by workforce members may result in
 corrective disciplinary action, up to and including termination of employment.
 
-## 6.1 Applicable Standards
+## Applicable Standards
 
-### 6.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 01.v - Information Access Restriction
 
-### 6.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(7)(ii)(A) - Data Backup Plan
 - 164.310(d)(2)(iii) - Accountability
 - 164.310(d)(2)(iv) - Data Backup and Storage
 
-## 6.2 Backup Policy and Procedures
+## Backup Policy and Procedures
 
 1. Perform daily snapshot backups of all systems that process, store, or
    transmit ePHI for Versionista Customers, including PaaS Customers that

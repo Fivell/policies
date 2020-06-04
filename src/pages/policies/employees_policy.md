@@ -6,17 +6,15 @@ image: "images/charles-deluvio-pjAH2Ax4uWk-unsplash.jpg"
 sortField: 1900
 ---
 
-# 19. Employees Policy
-
 Versionista is committed to ensuring all workforce members actively address
 security and compliance in their roles at Versionista. As such, training is
 imperative to assuring an understanding of current best practices, the different
 types and sensitivities of data, and the sanctions associated with
 non-compliance.
 
-## 19.1 Applicable Standards
+## Applicable Standards
 
-### 19.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 02.e - Information Security Awareness, Education, and Training
 - 06.e - Prevention of Misuse of Information Assets
@@ -24,11 +22,11 @@ non-compliance.
 - 09.j - Controls Against Malicious Code
 - 01.y - Teleworking
 
-### 19.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.308(a)(5)(i) - Security Awareness and Training
 
-## 19.2 Employment Policies
+## Employment Policies
 
 1. All new workforce members, including contractors, are given training on
    security policies and procedures, including operations security, within 30
@@ -91,7 +89,7 @@ non-compliance.
     - Employees found to be in violation of this policy will be subject to
       sanctions as described in [§5.3.3](#5-3-security-officer).
 
-## 19.3 Issue Escalation
+## Issue Escalation
 
 Versionista workforce members are to escalate issues using the procedures
 outlined in the Employee Handbook. Issues that are brought to the Escalation

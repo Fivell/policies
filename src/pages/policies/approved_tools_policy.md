@@ -6,15 +6,13 @@ image: "images/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg"
 sortField: 2000
 ---
 
-# 20. Approved Tools Policy
-
 Versionista utilizes a suite of approved software tools for internal use by
 workforce members. These software tools are either self-hosted, with security
 managed by Versionista, or they are hosted by a Subcontractor with appropriate
 business associate agreements in place to preserve data integrity. Use of other
 tools requires approval from Versionista leadership.
 
-## 20.1 List of Approved Tools
+## List of Approved Tools
 
 - **GitLab**. GitLab is an open source tool built on top of Git, the version
   control platform. GitLab is hosted and secured by Versionista. It is utilized

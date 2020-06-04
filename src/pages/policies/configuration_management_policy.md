@@ -6,25 +6,23 @@ image: "images/absolutvision-bSlHKWxxXak-unsplash.jpg"
 sortField: 900
 ---
 
-# 9. Configuration Management Policy
-
 Versionista standardizes and automates configuration management through the use
 of Chef/Salt scripts as well as documentation of all changes to production
 systems and networks. Chef and Salt automatically configure all Versionista
 systems according to established and tested policies, and are used as part of
 our Disaster Recovery plan and process.
 
-## 9.1 Applicable Standards
+## Applicable Standards
 
-### 9.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 06 - Configuration Management
 
-### 9.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.310(a)(2)(iii) Access Control & Validation Procedures
 
-## 9.2 Configuration Management Policies
+## Configuration Management Policies
 
 1. Chef and Salt are used to standardize and automate configuration management.
 2. No systems are deployed into Versionista environments without approval of the
@@ -74,7 +72,7 @@ our Disaster Recovery plan and process.
     systems using NTP or a platform-specific equivalent. Modifying time data on
     systems is restricted.
 
-## 9.3 Provisioning Production Systems
+## Provisioning Production Systems
 
 1. Before provisioning any systems, ops team members must file a request in the
    Versionista Quality Management System.
@@ -112,7 +110,7 @@ our Disaster Recovery plan and process.
    provisioning steps listed above have been correctly followed and has marked
    the Issue with the `Approved` state.
 
-### 9.3.1 Provisioning Linux Systems
+### Provisioning Linux Systems
 
 1. Linux systems have their baseline security configuration applied via Salt
    states. These baseline Salt states cover:
@@ -134,7 +132,7 @@ our Disaster Recovery plan and process.
    documented by the ops team member in the DT request by specifying the purpose
    of the new system.
 
-### 9.3.2 Provisioning Windows Systems
+### Provisioning Windows Systems
 
 1. Windows systems have their baseline security configuration applied via the
    combination of Group Policy settings and Chef recipes. These baseline
@@ -157,7 +155,7 @@ our Disaster Recovery plan and process.
    documented by the ops team member in the DT request by specifying the purpose
    of the new system.
 
-### 9.3.3 Provisioning Management Systems
+### Provisioning Management Systems
 
 1. Provisioning management systems such as Salt servers, LDAP servers, or VPN
    appliances follows the same procedure as provisioning a production system.
@@ -180,7 +178,7 @@ our Disaster Recovery plan and process.
 4. Critical infrastruture roles applied to new systems must be clearly
    documented by the ops team member in the DT request.
 
-## 9.4 Changing Existing Systems
+## Changing Existing Systems
 
 1. Subsequent changes to already-provisioned systems are unconditionally handled
    by one of the following methods:
@@ -202,7 +200,7 @@ our Disaster Recovery plan and process.
 4. Once the request has been approved by the CTO, the ops team member may roll
    out the change into production environments.
 
-## 9.5 Patch Management Procedures
+## Patch Management Procedures
 
 1. Versionista uses automated tooling to ensure systems are up-to-date with the
    latest security patches.
@@ -227,7 +225,7 @@ our Disaster Recovery plan and process.
 3. On Windows systems, the baseline Group Policy setting configures Windows
    Update to implement the patching policy.
 
-## 9.6 Software Development Procedures
+## Software Development Procedures
 
 1. All development uses feature branches based on the main branch used for the
    current release. Any changes required for a new feature or defect fix are
@@ -273,7 +271,7 @@ our Disaster Recovery plan and process.
    which point the original author(s) may merge their change into the release
    branch.
 
-## 9.7 Software Release Procedures
+## Software Release Procedures
 
 1. Software releases are treated as changes to existing systems and thus follow
    the procedure described in [§9.4](#9-4-changing-existing-systems).

@@ -6,8 +6,6 @@ image: "images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg"
 sortField: 1000
 ---
 
-# 10. Facility Access Policy
-
 Versionista works with Subcontractors to assure restriction of physical access
 to systems used as part of the Versionista Platform. Versionista and its
 Subcontractors control access to the physical buildings/facilities that house
@@ -26,9 +24,9 @@ associates. Versionista does not physically house any systems used by its
 Platform in Versionista facilities. Physical security of our Platform servers is
 outlined [in §1.3](#1-3-versionista-organizational-concepts).
 
-## 10.1 Applicable Standards
+## Applicable Standards
 
-### 10.1.1 Applicable Standards from the HITRUST Common Security Framework
+### Applicable Standards from the HITRUST Common Security Framework
 
 - 08.b - Physical Entry Controls
 - 08.d - Protecting Against External and Environmental Threats
@@ -36,13 +34,13 @@ outlined [in §1.3](#1-3-versionista-organizational-concepts).
 - 08.l - Secure Disposal or Re-Use of Equipment
 - 09.p - Disposal of Media
 
-### 10.1.2 Applicable Standards from the HIPAA Security Rule
+### Applicable Standards from the HIPAA Security Rule
 
 - 164.310(a)(2)(ii) Facility Security Plan
 - 164.310(a)(2)(iii) Access Control & Validation Procedures
 - 164.310(b-c) Workstation Use & Security
 
-## 10.2 Versionista-controlled Facility Access Policies
+## Versionista-controlled Facility Access Policies
 
 1. Visitor and third party support access is recorded and supervised. All
    visitors are escorted.
