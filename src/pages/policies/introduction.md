@@ -49,8 +49,8 @@ liability in the case of a breach.
 
 Versionista does not act as a covered entity. When Versionista does operate as a
 business associate (not a subcontractor), Versionista does not interface with
-users to obtain or provide access to ePHI. Access to ePHI is through our
-customers' applications.
+users to obtain or provide access to PHI or PII. Access to PHI or PII is through
+our customers' applications.
 
 Certain aspects of compliance cannot be inherited. Because of this, Versionista
 Customers, in order to achieve full compliance or HITRUST Certification, must
@@ -81,12 +81,12 @@ Within the Versionista Platform on Rackspace, AWS, and Azure, all data
 transmission is encrypted and all hard drives are encrypted so data at rest is
 also encrypted; this applies to all servers - those hosting Docker containers,
 databases, APIs, log servers, etc. Versionista assumes all data _may_ contain
-ePHI, even though our Risk Assessment does not indicate this is the case, and
-provides appropriate protections based on that assumption.
+PHI or PII, even though our Risk Assessment does not indicate this is the case,
+and provides appropriate protections based on that assumption.
 
 In the case of PaaS Customers, it is the responsibility of the Customer to
-restrict, secure, and assure the privacy of all ePHI data at the Application
-Level, as this is not under the control or purview of Versionista.
+restrict, secure, and assure the privacy of all PHI or PII data at the
+Application Level, as this is not under the control or purview of Versionista.
 
 The data and network segmentation mechanism differs depending on the primitives
 offered by the underlying cloud provider infrastructure:
@@ -114,17 +114,17 @@ the application servers over a TLS encrypted session.
 
 In the case of Platform Add-ons, once the data is received from the application
 server, a series of Application Programming Interface (API) calls is made to the
-database servers where the ePHI resides. The ePHI is separated into PostgreSQL
-and Percona databases through programming logic built so that access to one
-database server will not present you with the full ePHI spectrum.
+database servers where the PHI or PII resides. The PHI or PII is separated into
+PostgreSQL and Percona databases through programming logic built so that access
+to one database server will not present you with the full PHI or PII spectrum.
 
 The VPN server, nginx web server, and application servers are externally facing
-and accessible via the Internet. The database servers, where the ePHI resides,
-are located on the internal Versionista network and can only be accessed through
-a bastion host over a VPN connection. Access to the internal database is
-restricted to a limited number of personnel and strictly controlled to only
-those personnel with a business-justified reason. Remote access to internal
-servers is not accessible except through load balancers.
+and accessible via the Internet. The database servers, where the PHI or PII
+resides, are located on the internal Versionista network and can only be
+accessed through a bastion host over a VPN connection. Access to the internal
+database is restricted to a limited number of personnel and strictly controlled
+to only those personnel with a business-justified reason. Remote access to
+internal servers is not accessible except through load balancers.
 
 All Platform Add-ons and operating systems are tested end-to-end for usability,
 security, and impact prior to deployment to production.

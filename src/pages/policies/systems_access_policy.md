@@ -144,7 +144,7 @@ regulations including the following:
 2. All access requests are treated on a "least-access principle."
 3. Versionista maintains a minimum necessary approach to access to Customer
    data. As such, Versionista, including all workforce members, does not readily
-   have access to any ePHI.
+   have access to any PHI or PII.
 
 ## Access Authorization
 
@@ -228,7 +228,7 @@ products running Mac OSX or Linux.
    and login screen: _This computer is owned by Versionista. By logging in,
    unlocking, and/or using this computer you acknowledge you have seen, and
    follow, these policies (https://github.com/foxandgeese/policies) . Please
-   contact us if you have problems with this - leval@versionista.com._
+   contact us if you have problems with this - legal@versionista.com._
 
 ## Wireless Access Use
 
@@ -300,8 +300,8 @@ paper for recording and storing sensitive data is against Versionista policies.
      requirements in [§17.9](#17-9-transmission-security).
 5. Each information system automatically requires users to change passwords at a
    pre-determined interval as determined by the organization, based on the
-   criticality and sensitivity of the ePHI contained within the network, system,
-   application, and/or database.
+   criticality and sensitivity of the PHI or PII contained within the network,
+   system, application, and/or database.
 6. Passwords are inactivated immediately upon an employee's termination (refer
    to the
    [Employee Termination Procedures in §7.10](#7-10-employee-termination-procedures)).
@@ -329,12 +329,12 @@ The password-reset email inbox is used to track and store password reset
 requests. The Security Officer is the owner of this group and modifies
 membership as needed.
 
-## Access to ePHI
+## Access to PHI or PII
 
-1. Employees may not download ePHI to any workstations used to connect to
+1. Employees may not download PHI or PII to any workstations used to connect to
    production systems.
-2. Disallowing transfer of ePHI to workstations is enforced through technical
-   measures.
+2. Disallowing transfer of PHI or PII to workstations is enforced through
+   technical measures.
    - All production access to systems is performed through a bastion/jump host
      accessed through a VPN. Direct access to production systems is disallowed
      by Versionista's VPN configuration.

@@ -37,7 +37,7 @@ responsibilities.
    documents the training provided.
 2. Assists in the administration and oversight of business associate agreements.
 3. Manage relationships with customers and partners as those relationships
-   affect security and compliance of ePHI.
+   affect security and compliance of PHI or PII.
 4. Assist Security Officer as needed.
 
 The current Versionista Privacy Officer is Peter Bray
@@ -73,24 +73,24 @@ The current Versionista Privacy Officer is Peter Bray
    10. Users are required to report unauthorized access to facilities
    11. Users are required to report noted log-in discrepancies (i.e. application
        states user's last log-in was on a date user was on vacation);
-   12. Users may not alter ePHI maintained in a database, unless authorized to
-       do so by a Versionista Customer;
+   12. Users may not alter PHI or PII maintained in a database, unless
+       authorized to do so by a Versionista Customer;
    13. Users are required to understand their role in Versionista's contingency
        plan;
    14. Users may not share their user names nor passwords with anyone;
    15. Requirements for users to create and change passwords;
-   16. Users must set all applications that contain or transmit ePHI to
+   16. Users must set all applications that contain or transmit PHI or PII to
        automatically log off after 15 minutes of inactivity;
    17. Supervisors are required to report terminations of workforce members and
        other outside users;
    18. Supervisors are required to report a change in a user's title, role,
        department, and/or location;
-   19. Procedures to backup ePHI;
+   19. Procedures to backup PHI or PII;
    20. Procedures to move and record movement of hardware and electronic media
-       containing ePHI;
+       containing PHI or PII;
    21. Procedures to dispose of discs, CDs, hard drives, and other media
-       containing ePHI;
-   22. Procedures to re-use electronic media containing ePHI;
+       containing PHI or PII;
+   22. Procedures to re-use electronic media containing PHI or PII;
    23. SSH key and sensitive document encryption procedures.
 
 ## Security Officer
@@ -113,8 +113,9 @@ for facilitating the development, testing, implementation, training, and
 oversight of all activities pertaining to Versionista's efforts to be compliant
 with the HIPAA Security Regulations, HITRUST CSF, and any other security and
 compliance frameworks. The intent of the Security Officer Responsibilities is to
-maintain the confidentiality, integrity, and availability of ePHI. The Security
-Officer is appointed by and reports to the Board of Directors and the CEO.
+maintain the confidentiality, integrity, and availability of PHI or PII. The
+Security Officer is appointed by and reports to the Board of Directors and the
+CEO.
 
 These organizational responsibilities include, but are not limited to the
 following:
@@ -137,11 +138,12 @@ following:
    which they apply.
 7. Annually, and as necessary, reviews and updates documentation to respond to
    environmental or operational changes affecting the security and risk posture
-   of ePHI stored, transmitted, or processed within Versionista infrastructure.
+   of PHI or PII stored, transmitted, or processed within Versionista
+   infrastructure.
 8. Develops and provides periodic security updates and reminder communications
    for all workforce members.
 9. Implements procedures for the authorization and/or supervision of workforce
-   members who work with ePHI or in locations where it may be accessed.
+   members who work with PHI or PII or in locations where it may be accessed.
 10. Maintains a program promoting workforce members to report non-compliance
     with policies and procedures.
     - Promptly, properly, and consistently investigates and addresses reported
@@ -149,17 +151,18 @@ following:
     - Applies consistent and appropriate sanctions against workforce members who
       fail to comply with the security policies and procedures of Versionista.
     - Mitigates, to the extent practicable, any harmful effect known to
-      Versionista of a use or disclosure of ePHI in violation of Versionista's
-      policies and procedures, even if effect is the result of actions of
-      Versionista business associates, customers, and/or partners.
+      Versionista of a use or disclosure of PHI or PII in violation of
+      Versionista's policies and procedures, even if effect is the result of
+      actions of Versionista business associates, customers, and/or partners.
 11. Reports security efforts and incidents to administration immediately upon
-    discovery. Responsibilities in the case of a known ePHI breach are
+    discovery. Responsibilities in the case of a known PHI or PII breach are
     documented in the [Versionista Breach Policy](#12-breach-policy).
 12. The Security Officer facilitates the communication of security updates and
     reminders to all workforce members to which it pertains. Examples of
     security updates and reminders include, but are not limited to:
     - Latest malicious software or virus alerts;
-    - Versionista's requirement to report unauthorized attempts to access ePHI;
+    - Versionista's requirement to report unauthorized attempts to access PHI or
+      PII;
     - Changes in creating or changing passwords;
     - Additional security-focused training is provided to all workforce members
       by the Security Officer. This training includes, but is not limited to:
@@ -195,7 +198,7 @@ activities related to maintaining compliance, it is the responsibility of all
 workforce members (i.e. team leaders, supervisors, managers, directors,
 co-workers, etc.) to supervise all workforce members and any other user of
 Versionista's systems, applications, servers, workstations, etc. that contain
-ePHI.
+PHI or PII.
 
 1. Monitor workstations and applications for unauthorized use, tampering, and
    theft and report non-compliance according to the Security Incident Response
@@ -236,9 +239,9 @@ other retaliatory action as a consequence.
    and criminal penalties as determined by federal and state laws and
    regulations.
    - A violation resulting in a breach of confidentiality (i.e. release of PHI
-     to an unauthorized individual), change of the integrity of any ePHI, or
-     inability to access any ePHI by other users, requires immediate termination
-     of the workforce member from Versionista.
+     to an unauthorized individual), change of the integrity of any PHI or PII,
+     or inability to access any PHI or PII by other users, requires immediate
+     termination of the workforce member from Versionista.
 3. The Security Officer facilitates taking appropriate steps to prevent
    recurrence of the violation (when possible and feasible).
 4. In the case of an insider threat, the Security Officer and Privacy Officer

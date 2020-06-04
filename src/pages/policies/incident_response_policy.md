@@ -67,8 +67,8 @@ following categories:
   - Excessive network traffic directed at unexpected geographic locations.
 - **Incidents** - A violation of computer security policies or acceptable use
   policies, often resulting in data breaches. Examples:
-  - Unauthorized disclosure of ePHI.
-  - Unauthorized change or destruction of ePHI.
+  - Unauthorized disclosure of PHI or PII.
+  - Unauthorized change or destruction of PHI or PII.
   - A data breach accomplished by an internal or external entity.
   - A Denial-of-Service (DoS) attack causing a critical service to become
     unreachable.

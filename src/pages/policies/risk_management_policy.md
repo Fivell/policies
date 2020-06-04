@@ -29,12 +29,12 @@ mission.
 
 1. It is the policy of Versionista to conduct thorough and timely risk
    assessments of the potential threats and vulnerabilities to the
-   confidentiality, integrity, and availability of electronic protected health
-   information (ePHI) (and other confidential and proprietary electronic
-   information) it stores, transmits, and/or processes for its Customers and to
-   develop strategies to efficiently and effectively mitigate the risks
-   identified in the assessment process as an integral part of the Versionista's
-   information security program.
+   confidentiality, integrity, and availability of protected health information
+   or personally identifiable information (PHI or PII) (and other confidential
+   and proprietary electronic information) it stores, transmits, and/or
+   processes for its Customers and to develop strategies to efficiently and
+   effectively mitigate the risks identified in the assessment process as an
+   integral part of the Versionista's information security program.
 2. Risk analysis and risk management are recognized as important components of
    Versionista's corporate compliance program and information security program
    in accordance with the Risk Analysis and Risk Management implementation
@@ -52,16 +52,16 @@ mission.
       introduce new, untested configurations.
    4. Versionista performs periodic technical and non-technical assessments of
       the security rule requirements as well as in response to environmental or
-      operational changes affecting the security of ePHI.
+      operational changes affecting the security of PHI or PII.
 3. Versionista implements security measures sufficient to reduce risks and
    vulnerabilities to a reasonable and appropriate level to:
-   1. Ensure the confidentiality, integrity, and availability of all ePHI
+   1. Ensure the confidentiality, integrity, and availability of all PHI or PII
       Versionista receives, maintains, processes, and/or transmits for its
       Customers;
    2. Protect against any reasonably anticipated threats or hazards to the
-      security or integrity of Customer ePHI;
+      security or integrity of Customer PHI or PII;
    3. Protect against any reasonably anticipated uses or disclosures of Customer
-      ePHI that are not permitted or required; and
+      PHI or PII that are not permitted or required; and
    4. Ensure compliance by all workforce members.
 4. Any risk remaining (residual) after other risk controls have been applied,
    requires sign off by the senior management and Versionista's Security
@@ -107,7 +107,7 @@ risk.
 - Step 1. System Characterization
 
   - The first step in assessing risk is to define the scope of the effort. To do
-    this, identify where ePHI is received, maintained, processed, or
+    this, identify where PHI or PII is received, maintained, processed, or
     transmitted. Using information-gathering techniques, the Versionista
     Platform boundaries are identified.
   - Output - Characterization of the Versionista Platform system assessed, a
@@ -203,9 +203,9 @@ risk.
 Risk mitigation involves prioritizing, evaluating, and implementing the
 appropriate risk-reducing controls recommended from the Risk Assessment process
 to ensure the confidentiality, integrity and availability of Versionista
-Platform ePHI. Determination of appropriate controls to reduce risk is dependent
-upon the risk tolerance of the organization consistent with its goals and
-mission.
+Platform PHI or PII. Determination of appropriate controls to reduce risk is
+dependent upon the risk tolerance of the organization consistent with its goals
+and mission.
 
 - Step 1. Prioritize Actions
 
@@ -243,8 +243,8 @@ mission.
   - Taking into account the information and results from previous steps,
     Versionista's mission, and other important criteria, the Risk Management
     Team determines the best control(s) for reducing risks to the information
-    systems and to the confidentiality, integrity, and availability of ePHI.
-    These controls may consist of a mix of administrative, physical, and/or
+    systems and to the confidentiality, integrity, and availability of PHI or
+    PII. These controls may consist of a mix of administrative, physical, and/or
     technical safeguards.
   - Output - Selected control(s)
 

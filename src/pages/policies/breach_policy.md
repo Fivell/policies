@@ -7,7 +7,7 @@ sortField: 1200
 ---
 
 To provide guidance for breach notification when impressive or unauthorized
-access, acquisition, use and/or disclosure of the ePHI occurs. Breach
+access, acquisition, use and/or disclosure of the PHI or PII occurs. Breach
 notification will be carried out in compliance with the American Recovery and
 Reinvestment Act (ARRA)/Health Information Technology for Economic and Clinical
 Health Act (HITECH) as well as any other federal or state notification law.
@@ -49,8 +49,8 @@ the responsibility of the Customers to notify affected individuals.
 
 ## Versionista Breach Policy
 
-1. Discovery of Breach: A breach of ePHI shall be treated as "discovered" as of
-   the first day on which such breach is known to the organization, or, by
+1. Discovery of Breach: A breach of PHI or PII shall be treated as "discovered"
+   as of the first day on which such breach is known to the organization, or, by
    exercising reasonable diligence would have been known to Versionista
    (includes breaches by the organization's Customers, Partners, or
    subcontractors). Versionista shall be deemed to have knowledge of a breach if
@@ -77,27 +77,27 @@ the responsibility of the Customers to notify affected individuals.
    documentation related to the breach investigation, including the risk
    assessment, shall be retained for a minimum of six years. A template breach
    log is located [here](sections/breach.log.pdf).
-3. Risk Assessment: For an acquisition, access, use or disclosure of ePHI to
-   constitute a breach, it must constitute a violation of the HIPAA Privacy
-   Rule. A use or disclosure of ePHI that is incident to an otherwise
+3. Risk Assessment: For an acquisition, access, use or disclosure of PHI or PII
+   to constitute a breach, it must constitute a violation of the HIPAA Privacy
+   Rule. A use or disclosure of PHI or PII that is incident to an otherwise
    permissible use or disclosure and occurs despite reasonable safeguards and
    proper minimum necessary procedures would not be a violation of the Privacy
    Rule and would not qualify as a potential breach. To determine if an
-   impermissible use or disclosure of ePHI constitutes a breach and requires
-   further notification, the organization will need to perform a risk assessment
-   to determine if there is significant risk of harm to the individual as a
-   result of the impermissible use or disclosure. The organization shall
-   document the risk assessment as part of the investigation in the incident
-   report form noting the outcome of the risk assessment process. The
-   organization has the burden of proof for demonstrating that all notifications
-   to appropriate Customers or that the use or disclosure did not constitute a
-   breach. Based on the outcome of the risk assessment, the organization will
-   determine the need to move forward with breach notification. The risk
-   assessment and the supporting documentation shall be fact specific and
-   address:
+   impermissible use or disclosure of PHI or PII constitutes a breach and
+   requires further notification, the organization will need to perform a risk
+   assessment to determine if there is significant risk of harm to the
+   individual as a result of the impermissible use or disclosure. The
+   organization shall document the risk assessment as part of the investigation
+   in the incident report form noting the outcome of the risk assessment
+   process. The organization has the burden of proof for demonstrating that all
+   notifications to appropriate Customers or that the use or disclosure did not
+   constitute a breach. Based on the outcome of the risk assessment, the
+   organization will determine the need to move forward with breach
+   notification. The risk assessment and the supporting documentation shall be
+   fact specific and address:
    - Consideration of who impermissibly used or to whom the information was
      impermissibly disclosed;
-   - The type and amount of ePHI involved;
+   - The type and amount of PHI or PII involved;
    - The cause of the breach, and the entity responsible for the breach, either
      Customer, Versionista, or Partner;
    - The potential for significant risk of financial, reputational, or other
@@ -139,8 +139,8 @@ the responsibility of the Customers to notify affected individuals.
    phone within the timeframe for reporting breaches, as outlined above.
 8. Maintenance of Breach Information/Log: As described above and in addition to
    the reports created for each incident, Versionista shall maintain a process
-   to record or log all breaches of unsecured ePHI regardless of the number of
-   records and Customers affected. The following information should be
+   to record or log all breaches of unsecured PHI or PII regardless of the
+   number of records and Customers affected. The following information should be
    collected/logged for each breach (see sample Breach Notification Log):
    - A description of what happened, including the date of the breach, the date
      of the discovery of the breach, and the number of records and Customers
@@ -153,10 +153,10 @@ the responsibility of the Customers to notify affected individuals.
    - Resolution steps taken to mitigate the breach and prevent future
      occurrences.
 9. Workforce Training: Versionista shall train all members of its workforce on
-   the policies and procedures with respect to ePHI as necessary and appropriate
-   for the members to carry out their job responsibilities. Workforce members
-   shall also be trained as to how to identify and report breaches within the
-   organization.
+   the policies and procedures with respect to PHI or PII as necessary and
+   appropriate for the members to carry out their job responsibilities.
+   Workforce members shall also be trained as to how to identify and report
+   breaches within the organization.
 10. Complaints: Versionista must provide a process for individuals to make
     complaints concerning the organization's patient privacy policies and
     procedures or its compliance with such policies and procedures.
@@ -174,9 +174,9 @@ the responsibility of the Customers to notify affected individuals.
 
 1. The Versionista Customer that accesses, maintains, retains, modifies,
    records, stores, destroys, or otherwise holds, uses, or discloses unsecured
-   ePHI shall, without unreasonable delay and in no case later than 60 calendar
-   days after discovery of a breach, notify Versionista of such breach. The
-   Customer shall provide Versionista with the following information:
+   PHI or PII shall, without unreasonable delay and in no case later than 60
+   calendar days after discovery of a breach, notify Versionista of such breach.
+   The Customer shall provide Versionista with the following information:
    - A description of what happened, including the date of the breach, the date
      of the discovery of the breach, and the number of records and Customers
      affected, if known.
@@ -200,10 +200,10 @@ the responsibility of the Customers to notify affected individuals.
 
 Dear [Name of Customer]:
 
-I am writing to you from Versionista Health, Inc., with important information
-about a recent breach that affects your account with us. We became aware of this
-breach on [Insert Date] which occurred on or about [Insert Date]. The breach
-occurred as follows:
+I am writing to you from Versionista, with important information about a recent
+breach that affects your account with us. We became aware of this breach on
+[Insert Date] which occurred on or about [Insert Date]. The breach occurred as
+follows:
 
 Describe event and include the following information:
 

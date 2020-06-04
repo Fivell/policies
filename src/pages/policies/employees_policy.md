@@ -35,7 +35,7 @@ non-compliance.
    - Upon completion of training, workforce members complete this
      [form](https://docs.google.com/a/catalyze.io/forms/d/1bmEK3TidACj6ForBqGMaINPjIckv9ht28rtkGEQsBGs/viewform?usp=send_form).
    - Employees must complete this training before accessing production systems
-     containing ePHI.
+     containing PHI or PII.
 2. All workforce members are granted access to formal organizational policies,
    which include the sanction policy for security violations.
 3. The Versionista Employee Handbook clearly states the responsibilities and
@@ -54,15 +54,15 @@ non-compliance.
    controls implemented, their responsibilities, and sanctions associated with
    violation of policies. Additionally, remote security is maintained through
    the use of VPN tunnels for all access to production systems with access to
-   ePHI data.
+   PHI or PII data.
 7. All Versionista-purchased and -owned computers are to display this message at
    login and when the computer is unlocked: _This computer is owned by
    Versionista. By logging in, unlocking, and/or using this computer you
    acknowledge you have seen, and follow, these policies
    (https://github.com/foxandgeese/policies). Please contact us if you have
-   problems with this - leval@versionista.com_.
+   problems with this - legal@versionista.com_.
 8. Employees may only use Versionista-purchased and -owned workstations for
-   accessing production systems with access to ePHI data.
+   accessing production systems with access to PHI or PII data.
    - Any workstations used to access production systems must be configured as
      prescribed in [§7.8](#7-8-employee-workstation-use).
    - Any workstations used to access production systems must have virus
@@ -76,10 +76,10 @@ non-compliance.
 10. Request for modifications of access for any Versionista employee can be made
     using the procedures outlined in
     [§7.2](#7-2-access-establishment-and-modification).
-11. Versionista employees are strictly forbidden from downloading any ePHI to
-    their workstations.
-    - Restricting transfers of ePHI is enforced through technical controls as
-      described in [§7.13](#7-13-access-to-ephi).
+11. Versionista employees are strictly forbidden from downloading any PHI or PII
+    to their workstations.
+    - Restricting transfers of PHI or PII is enforced through technical controls
+      as described in [§7.13](#7-13-access-to-ephi).
     - Employees found to be in violation of this policy will be subject to
       sanctions as described in [§5.3.3](#5-3-security-officer).
 12. Employees are required to cooperate with federal and state investigations.
@@ -96,9 +96,9 @@ outlined in the Employee Handbook. Issues that are brought to the Escalation
 Team are assigned an owner. The membership of the Escalation Team is maintained
 by the Chief Executive Officer.
 
-Security incidents, particularly those involving ePHI, are handled using the
-process described in [§11.2](#11-2-incident-management-policies). If the
-incident involves a breach of ePHI, the Security Officer will manage the
+Security incidents, particularly those involving PHI or PII, are handled using
+the process described in [§11.2](#11-2-incident-management-policies). If the
+incident involves a breach of PHI or PII, the Security Officer will manage the
 incident using the process described in [§12.2](#12-2-datica-breach-policy).
 Refer to [§11.2](#11-2-incident-management-policies) for a list of sample items
 that can trigger Versionista's incident response procedures; if you are unsure

@@ -43,7 +43,7 @@ our Disaster Recovery plan and process.
      demand using APIs provided by each cloud provider.
    - These scripts are used to generate the diagrams and asset lists required by
      the Risk Assessment phase of Versionista's Risk Management procedures
-     ([§4.3.1](#4-3-risk-management-procedures)).
+     ([Risk Management Procedures](risk_management_procedures)).
    - After every use of these scripts, the Security Officer will verify their
      accuracy by reconciling their output with recent changes to production
      systems. The Security Officer will address any discrepancies immediately
@@ -88,8 +88,9 @@ our Disaster Recovery plan and process.
      configuration file and running a `highstate` operation.
    - For Windows systems, this means adding the appropriate roles to the
      system's Chef profile and forcing a Chef run.
-4. If the system will be used to house production data (ePHI), the ops team
-   member must add an encrypted block data volume to the VM during provisioning.
+4. If the system will be used to house production data (PHI or PII), the ops
+   team member must add an encrypted block data volume to the VM during
+   provisioning.
    - For systems on AWS, the ops team member must add an encrypted Elastic Block
      Storage (EBS) volume.
    - For systems on other cloud providers, the ops team member must add a block
@@ -251,10 +252,10 @@ our Disaster Recovery plan and process.
    - Engineers should note all potential issues with the code; it is the
      responsibility of the author(s) to address those issues or explain why they
      are not applicable.
-5. If the feature or defect interacts with ePHI, or controls access to data
-   potentially containing ePHI, the code changes must be reviewed by two members
-   of Versionista's Blue Team (software security team) before the feature is
-   marked as complete.
+5. If the feature or defect interacts with PHI or PII, or controls access to
+   data potentially containing PHI or PII, the code changes must be reviewed by
+   two members of Versionista's Blue Team (software security team) before the
+   feature is marked as complete.
    - The Blue Team members will provide a security analysis of features to
      ensure they satisfy Versionista's compliance and security commitments.
    - This review must include a security analysis for potential vulnerabilities

@@ -7,14 +7,15 @@ sortField: 800
 ---
 
 Versionista shall audit access and activity of electronic protected health
-information (ePHI) applications and systems in order to ensure compliance. The
-Security Rule requires healthcare organizations to implement reasonable
-hardware, software, and/or procedural mechanisms that record and examine
-activity in information systems that contain or use ePHI. Audit activities may
-be limited by application, system, and/or network auditing capabilities and
-resources. Versionista shall make reasonable and good-faith efforts to safeguard
-information privacy and security through a well-thought-out approach to auditing
-that is consistent with available resources.
+information or personally identifiable information (PHI or PII) applications and
+systems in order to ensure compliance. The Security Rule requires healthcare
+organizations to implement reasonable hardware, software, and/or procedural
+mechanisms that record and examine activity in information systems that contain
+or use PHI or PII. Audit activities may be limited by application, system,
+and/or network auditing capabilities and resources. Versionista shall make
+reasonable and good-faith efforts to safeguard information privacy and security
+through a well-thought-out approach to auditing that is consistent with
+available resources.
 
 It is the policy of Versionista to safeguard the confidentiality, integrity, and
 availability of applications, systems, and networks. To ensure that appropriate
@@ -25,11 +26,11 @@ activity to detect, report, and guard against:
 - Breaches in confidentiality and security of patient protected health
   information;
 - Performance problems and flaws in applications;
-- Improper alteration or destruction of ePHI;
+- Improper alteration or destruction of PHI or PII;
 - Out of date software and/or software known to have vulnerabilities.
 
 This policy applies to all Versionista Add-on systems that store, transmit, or
-process ePHI.
+process PHI or PII.
 
 ## Applicable Standards
 
@@ -153,7 +154,7 @@ process ePHI.
    and/or Security Officer before proceeding. Under no circumstances shall
    detailed audit information be shared with parties without proper permissions
    and access to see such data.
-   - Should the audit disclose that a workforce member has accessed ePHI
+   - Should the audit disclose that a workforce member has accessed PHI or PII
      inappropriately, the minimum necessary/least privileged information shall
      be shared with Versionista's Security Officer to determine appropriate
      sanction/corrective disciplinary action.
@@ -201,8 +202,8 @@ process ePHI.
    disclosed to administrative level oversight structures only and that
    information which may further expose organizational risk is shared with
    extreme caution. Generic security audit information may be included in
-   organizational reports (individually-identifiable ePHI shall not be included
-   in the reports).
+   organizational reports (individually-identifiable PHI or PII shall not be
+   included in the reports).
 1. Whenever indicated through evaluation and reporting, appropriate corrective
    actions must be undertaken. These actions shall be documented and shared with
    the responsible workforce members, Customers, and/or Partners.
@@ -247,12 +248,12 @@ process ePHI.
 ## Workforce Training, Education, Awareness and Responsibilities
 
 1. Versionista workforce members are provided training, education, and awareness
-   on safeguarding the privacy and security of business and ePHI. Versionista's
-   commitment to auditing access and activity of the information applications,
-   systems, and networks is communicated through new employee orientation,
-   ongoing training opportunities and events, and applicable policies.
-   Versionista workforce members are made aware of responsibilities with regard
-   to privacy and security of information as well as applicable
+   on safeguarding the privacy and security of business and PHI or PII.
+   Versionista's commitment to auditing access and activity of the information
+   applications, systems, and networks is communicated through new employee
+   orientation, ongoing training opportunities and events, and applicable
+   policies. Versionista workforce members are made aware of responsibilities
+   with regard to privacy and security of information as well as applicable
    sanctions/corrective disciplinary actions should the auditing process detect
    a workforce member's failure to comply with organizational policies.
 2. Versionista Customers are provided with necessary information to understand
