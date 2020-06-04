@@ -2,7 +2,8 @@
 path: "/policies/1100-incident_response_policy"
 title: "Incident Response Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/marius-masalar-CyFBmFEsytU-unsplash.jpg"
+sortField: 1100
 ---
 
 # 11. Incident Response Policy

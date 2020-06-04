@@ -2,7 +2,8 @@
 path: "/policies/100-introduction"
 title: "Introduction"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+sortField: 100
 ---
 
 # 1. Introduction

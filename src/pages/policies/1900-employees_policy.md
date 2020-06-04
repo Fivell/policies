@@ -2,7 +2,8 @@
 path: "/policies/1900-employees_policy"
 title: "Employees Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/charles-deluvio-pjAH2Ax4uWk-unsplash.jpg"
+sortField: 1900
 ---
 
 # 19. Employees Policy

@@ -2,7 +2,8 @@
 path: "/policies/1700-data_integrity_policy"
 title: "Data Integrity Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/tobias-fischer-PkbZahEG2Ng-unsplash.jpg"
+sortField: 1700
 ---
 
 # 17. Data Integrity Policy

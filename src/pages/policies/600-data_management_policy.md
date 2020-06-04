@@ -2,7 +2,8 @@
 path: "/policies/600-data_management_policy"
 title: "Data Management Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/matthew-henry-fPxOowbR6ls-unsplash.jpg"
+sortField: 600
 ---
 
 # 6. Data Management Policy

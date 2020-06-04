@@ -2,7 +2,8 @@
 path: "/policies/1000-facility_access_policy"
 title: "Facility Access Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg"
+sortField: 1000
 ---
 
 # 10. Facility Access Policy

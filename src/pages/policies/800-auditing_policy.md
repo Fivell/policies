@@ -2,7 +2,8 @@
 path: "/policies/800-auditing_policy"
 title: "Auditing Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/clint-adair-BW0vK-FA3eg-unsplash.jpg"
+sortField: 800
 ---
 
 # 8. Auditing Policy

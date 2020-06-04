@@ -19,7 +19,7 @@ export const query = graphql`
   query ProductsQuery {
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/policies/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___sortField], order: ASC }
     ) {
       edges {
         node {
@@ -30,6 +30,7 @@ export const query = graphql`
             }
             title
             path
+            sortField
           }
         }
       }

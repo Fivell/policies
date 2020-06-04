@@ -2,7 +2,8 @@
 path: "/policies/300-policy_management_policy"
 title: "Policy Management Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/jordan-harrison-40XgDxBfYXM-unsplash.jpg"
+sortField: 300
 ---
 
 # 3. Policy Management Policy

@@ -2,7 +2,8 @@
 path: "/policies/1400-disposable_media_policy"
 title: "Disposable Media Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/dennis-kummer-52gEprMkp7M-unsplash.jpg"
+sortField: 1400
 ---
 
 # 14. Disposable Media Policy

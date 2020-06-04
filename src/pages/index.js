@@ -65,7 +65,7 @@ export const query = graphql`
     }
     allMarkdownRemark(
       filter: { fileAbsolutePath: { regex: "/policies/" } }
-      sort: { fields: [frontmatter___date], order: DESC }
+      sort: { fields: [frontmatter___sortField], order: ASC }
     ) {
       edges {
         node {
@@ -74,6 +74,7 @@ export const query = graphql`
             image {
               publicURL
             }
+            sortField
             path
             title
             date(formatString: "DD MMMM YYYY")

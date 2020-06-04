@@ -2,7 +2,8 @@
 path: "/policies/1300-disaster_recovery_policy"
 title: "Disaster Recovery Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/pietro-jeng-n6B49lTx7NM-unsplash.jpg"
+sortField: 1300
 ---
 
 # 13. Disaster Recovery Policy

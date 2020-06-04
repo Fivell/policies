@@ -2,7 +2,8 @@
 path: "/policies/2100-3rd_party_policy"
 title: "3rd Party Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/shahadat-rahman-BfrQnKBulYQ-unsplash.jpg"
+sortField: 2100
 ---
 
 # 21. 3rd Party Policy

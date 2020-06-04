@@ -2,7 +2,8 @@
 path: "/policies/400-risk_management_policy"
 title: "Risk Management Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/margaret-weir-GZyjbLNOaFg-unsplash.jpg"
+sortField: 400
 ---
 
 # 4. Risk Management Policy

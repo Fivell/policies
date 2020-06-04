@@ -2,7 +2,8 @@
 path: "/policies/1800-data_retention_policy"
 title: "Data Retention Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/taylor-vick-M5tzZtFCOfs-unsplash.jpg"
+sortField: 1800
 ---
 
 # 18. Data Retention Policy

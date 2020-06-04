@@ -2,7 +2,8 @@
 path: "/policies/700-systems_access_policy"
 title: "System Access Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/johannes-groll-mrIaqKh9050-unsplash.jpg"
+sortField: 700
 ---
 
 # 7. System Access Policy

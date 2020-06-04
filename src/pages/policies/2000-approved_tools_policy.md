@@ -2,7 +2,8 @@
 path: "/policies/2000-approved_tools_policy"
 title: "Approved Tools Policy"
 date: 2018-11-18T12:33:46+10:00
-image: "joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
+image: "images/michael-dziedzic-aQYgUYwnCsM-unsplash.jpg"
+sortField: 2000
 ---
 
 # 20. Approved Tools Policy
