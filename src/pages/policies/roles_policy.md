@@ -156,7 +156,7 @@ following:
       actions of Versionista business associates, customers, and/or partners.
 11. Reports security efforts and incidents to administration immediately upon
     discovery. Responsibilities in the case of a known PHI or PII breach are
-    documented in the [Versionista Breach Policy](#12-breach-policy).
+    documented in the [Versionista Breach Policy](breach_policy).
 12. The Security Officer facilitates the communication of security updates and
     reminders to all workforce members to which it pertains. Examples of
     security updates and reminders include, but are not limited to:

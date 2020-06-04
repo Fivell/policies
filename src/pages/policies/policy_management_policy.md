@@ -56,7 +56,7 @@ of finding policies at specific historic dates in time.
    5. If the policy change requires technical modifications to production
       systems, those changes are carried out by authorized personnel using
       Versionista's
-      [change management process (§9.4)](#9-4-changing-existing-systems).
+      [Configuration Management Policy](configuration_management_policy).
 
    6. All policies are made accessible to all Versionista workforce members. The
       current master policies are published at
@@ -105,4 +105,4 @@ of finding policies at specific historic dates in time.
        Management System reporting to assess compliance with above policy.
 
 Additional documentation related to maintenance of policies is outlined in
-[§5.3.1](#5-3-security-officer).
+[Roles Policy](roles_policy).

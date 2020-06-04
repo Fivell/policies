@@ -22,7 +22,7 @@ Of note, Versionista does not have ready access to PHI or PII, it provides
 cloud-based, compliant infrastructure to covered entities and business
 associates. Versionista does not physically house any systems used by its
 Platform in Versionista facilities. Physical security of our Platform servers is
-outlined [in §1.3](#1-3-versionista-organizational-concepts).
+outlined [in Introduction](introduction).
 
 ## Applicable Standards
 

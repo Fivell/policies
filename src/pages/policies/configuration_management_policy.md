@@ -78,8 +78,7 @@ our Disaster Recovery plan and process.
    Versionista Quality Management System.
    - Quality Management System access requires authenticated users.
    - The CTO grants access to the Quality Management System following the
-     procedures covered in the
-     [Access Establishment and Modification section](#7-2-access-establishment-and-modification).
+     procedures covered in the [Systems Access Policy](systems_access_policy).
 2. The CTO, or an authorized delegate of the CTO, must approve the provisioning
    request before any new system can be provisioned.
 3. Once provisioning has been approved, the ops team member must configure the
@@ -128,7 +127,7 @@ our Disaster Recovery plan and process.
      protected from unauthorized access.
    - Configuring authentication to the centralized LDAP servers.
    - Configuring audit logging as described in the
-     [Auditing Policy section](#8-auditing-policy).
+     [Auditing Policy](auditing_policy).
 2. Any additional Salt states applied to the Linux system must be clearly
    documented by the ops team member in the DT request by specifying the purpose
    of the new system.
@@ -146,12 +145,11 @@ our Disaster Recovery plan and process.
    - Installing and configuring the OSSEC IDS agent.
    - Configuring 15-minute session inactivity timeouts.
    - Installing and configuring the Avast virus scanner.
-   - Configuring transport encryption according to the requirements described in
-     [§17.9](#17-9-transmission-security).
+   - Configuring transport encryption according to specified requirements.
    - Configuring the system clock, including ensuring that modifying system time
      cannot be performed by unprivileged users.
    - Configuring audit logging as described in the
-     [Auditing Policy section](#8-auditing-policy).
+     [Auditing Policy](auditing_policy).
 2. Any additional Salt states applied to the Linux system must be clearly
    documented by the ops team member in the DT request by specifying the purpose
    of the new system.
@@ -275,4 +273,4 @@ our Disaster Recovery plan and process.
 ## Software Release Procedures
 
 1. Software releases are treated as changes to existing systems and thus follow
-   the procedure described in [§9.4](#9-4-changing-existing-systems).
+   the procedure described in relevant policies.

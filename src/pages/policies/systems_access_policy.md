@@ -66,8 +66,8 @@ regulations including the following:
    the Issue as Done, adding any pertinent notes required. The Security Officer
    or Privacy Officer then grants requested access.
    - New accounts will be created with a temporary secure password that meets
-     all requirements from [§7.12](#7-12-password-management), which must be
-     changed on the initial login.
+     all requirements from [Systems Access Policy](systems_access_policy), which
+     must be changed on the initial login.
    - All password exchanges must occur over an authenticated channel.
    - For production systems, access grants are accomplished by adding the
      appropriate user account to the corresponding LDAP group.
@@ -97,8 +97,7 @@ regulations including the following:
    6. Review of user access is monitored on a quarterly basis using the Quality
       Management System reporting to assess compliance with above policy.
 1. Any Versionista workforce member can request change of access using the
-   process outlined in
-   [§7.2 paragraph 1](#7-2-access-establishment-and-modification).
+   process outlined in [Systems Access Policy](systems_access_policy).
 1. Access to production systems is controlled using centralized user management
    and authentication.
 1. Temporary accounts are not used unless absolutely necessary for business
@@ -116,7 +115,7 @@ regulations including the following:
      accounts that must invoke `sudo` to perform privileged tasks.
    - Rights for privileged accounts are granted by the Security Officer or
      Privacy Officer using the process outlined in
-     [§7.2 paragraph 1](#7-2-access-establishment-and-modification).
+     [Systems Access Policy](systems_access_policy).
 1. All application to application communication using service accounts is
    restricted and not permitted unless absolutely needed. Automated tools are
    used to limit account access across applications and systems.
@@ -295,16 +294,15 @@ paper for recording and storing sensitive data is against Versionista policies.
      salted cryptographic hash function (SHA-256 or equivalent).
    - Passwords that must be stored in non-hashed format must be encrypted at
      rest pursuant to the requirements in
-     [§17.8](#17-8-production-data-security).
+     [Data Integrity Policy](data_integrity_policy).
    - Transmitted passwords must be encrypted in flight pursuant to the
-     requirements in [§17.9](#17-9-transmission-security).
+     requirements in [Data Integrity Policy](data_integrity_policy).
 5. Each information system automatically requires users to change passwords at a
    pre-determined interval as determined by the organization, based on the
    criticality and sensitivity of the PHI or PII contained within the network,
    system, application, and/or database.
 6. Passwords are inactivated immediately upon an employee's termination (refer
-   to the
-   [Employee Termination Procedures in §7.10](#7-10-employee-termination-procedures)).
+   to the [Systems Access Policy](systems_access_policy)).
 7. All default system, application, and Partner passwords are changed before
    deployment to production.
 8. Upon initial login, users must change any passwords that were automatically

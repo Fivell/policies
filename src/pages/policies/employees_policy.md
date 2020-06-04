@@ -64,30 +64,30 @@ non-compliance.
 8. Employees may only use Versionista-purchased and -owned workstations for
    accessing production systems with access to PHI or PII data.
    - Any workstations used to access production systems must be configured as
-     prescribed in [§7.8](#7-8-employee-workstation-use).
+     prescribed in [Systems Access Policy](systems_access_policy).
    - Any workstations used to access production systems must have virus
      protection software installed, configured, and enabled.
    - Versionista may monitor access and activities of all users on workstations
-     and production systems in order to meet auditing policy requirements
-     ([§8](#8-auditing-policy)).
+     and production systems in order to meet
+     ([Auditing Policy](auditing_policy)) requirements.
 9. Access to internal Versionista systems can be requested using the procedures
-   outlined in [§7.2](#7-2-access-establishment-and-modification). All requests
-   for access must be granted by the Versionista Security Officer.
+   outlined in [Systems Access Policy](systems_access_policy). All requests for
+   access must be granted by the Versionista Security Officer.
 10. Request for modifications of access for any Versionista employee can be made
     using the procedures outlined in
-    [§7.2](#7-2-access-establishment-and-modification).
+    [Systems Access Policy](systems_access_policy).
 11. Versionista employees are strictly forbidden from downloading any PHI or PII
     to their workstations.
     - Restricting transfers of PHI or PII is enforced through technical controls
-      as described in [§7.13](#7-13-access-to-ephi).
+      as described in [Systems Access Policy](systems_access_policy).
     - Employees found to be in violation of this policy will be subject to
-      sanctions as described in [§5.3.3](#5-3-security-officer).
+      sanctions as described in [Roles Policy](roles_policy).
 12. Employees are required to cooperate with federal and state investigations.
     - Employees must not interfere with investigations through willful
       misrepresentation, omission of facts, or by the use of threats against any
       person.
     - Employees found to be in violation of this policy will be subject to
-      sanctions as described in [§5.3.3](#5-3-security-officer).
+      sanctions as described in [Roles Policy](roles_policy).
 
 ## Issue Escalation
 
@@ -97,10 +97,11 @@ Team are assigned an owner. The membership of the Escalation Team is maintained
 by the Chief Executive Officer.
 
 Security incidents, particularly those involving PHI or PII, are handled using
-the process described in [§11.2](#11-2-incident-management-policies). If the
-incident involves a breach of PHI or PII, the Security Officer will manage the
-incident using the process described in [§12.2](#12-2-datica-breach-policy).
-Refer to [§11.2](#11-2-incident-management-policies) for a list of sample items
+the process described in [Incident Response Policy](incident_response_policy).
+If the incident involves a breach of PHI or PII, the Security Officer will
+manage the incident using the process described in
+[Breach Policy](breach_policy). Refer to
+[Incident Response Policy](incident_response_policy) for a list of sample items
 that can trigger Versionista's incident response procedures; if you are unsure
 whether the issue is a security incident, contact the Security Officer
 immediately.

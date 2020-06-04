@@ -57,10 +57,6 @@ Customers, in order to achieve full compliance or HITRUST Certification, must
 implement certain organizational policies. These policies and aspects of
 compliance fall outside of the services and obligations of Versionista.
 
-Mappings of HIPAA Rules to Versionista controls and a mapping of what Rules are
-inherited by Customers, both Platform Customers and Add-on Customers, are
-covered in [§2](#2-hipaa-inheritance).
-
 ## Versionista Organizational Concepts
 
 The physical infrastructure environment is hosted at
