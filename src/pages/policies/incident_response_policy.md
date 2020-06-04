@@ -44,8 +44,9 @@ Refer to the linked document for additional copyright information.
 
 The Versionista incident response process follows the process recommended by
 [SANS](https://www.sans.org), an industry leader in security. Process flows are
-a direct representation of the SANS process which can be found in
-[this document](sections/incident-flowchart.pdf).
+a direct representation of the SANS process, as documented below:
+
+<img src="/incident_flowchart.png" style="width: 100%"/>
 
 Versionista's incident response classifies security-related events into the
 following categories:
@@ -92,15 +93,14 @@ indications as soon as they are discovered.
    5. Secure Chat;
    6. Anonymously through workforce member's desired channels.
 2. The individual receiving the report facilitates completion of an
-   [Incident Identification form](sections/IH-Identification.pdf) and notifies
-   the Security Officer (if not already done).
+   [Incident Identification Form](/IH-Identification.pdf) and notifies the
+   Security Officer (if not already done).
 3. The Security Officer determines if the issue is an Event, Precursor,
    Indication, or Incident.
    1. If the issue is an event, indication, or precursor the Security Officer
       forwards it to the appropriate resource for resolution.
       1. Non-Technical Event (minor infringement): the Security Officer
-         completes a [SIR Form](sections/sir-form.doc) and investigates the
-         incident.
+         completes a [SIR Form](/sir-form.doc) and investigates the incident.
       2. Technical Event: Assign the issue to an IT resource for resolution.
          This resource may also be a contractor or outsourced technical
          resource, in the event of a small office or lack of expertise in the
@@ -120,10 +120,9 @@ indications as soon as they are discovered.
          document all measures taken during each phase, including the start and
          end times of all efforts.
       6. The lead member of the SIRT team facilitates initiation of a
-         [SIR Form](sections/sir-form.doc) or an
-         [Incident Survey Form](sections/IH-Survey.pdf). The intent of the SIR
-         form is to provide a summary of all events, efforts, and conclusions of
-         each Phase of this policy and procedures.
+         [SIR Form](/sir-form.doc) or an [Incident Survey Form](/IH-Survey.pdf).
+         The intent of the SIR form is to provide a summary of all events,
+         efforts, and conclusions of each Phase of this policy and procedures.
 4. The Security Officer, Privacy Officer, or Versionista representative
    appointed notifies any affected Customers and Partners. If no Customers and
    Partners are affected, notification is at the discretion of the Security and
@@ -153,7 +152,7 @@ security incident can be used successfully during prosecution, if appropriate.
       system(s).
    7. If it is safe, allow the system to continue to function;
       1. Complete any documentation relative to the security incident on the
-         [SIR Form](sections/sir-form.doc).
+         [SIR Form](/sir-form.doc).
       2. Move to Phase V, Follow-up.
    8. If it is NOT safe to allow the system to continue operations, discontinue
       the system(s) operation and move to Phase III, Eradication.
@@ -181,7 +180,7 @@ resulting security exposures, that are now on the affected system(s).
    1. If additional issues or symptoms are identified, take appropriate
       preventative measures to eliminate or minimize potential future
       compromises.
-4. Complete the [Eradication Form](sections/IH-Eradication.pdf).
+4. Complete the [Eradication Form](/IH-Eradication.pdf).
 5. Update the documentation with the information learned from the vulnerability
    assessment, including the cause, symptoms, and the method used to fix the
    problem with the affected system(s).
@@ -228,7 +227,7 @@ Timeframes may extend to one to two weeks post-incident.
    resource) meet to review the documentation collected during the security
    incident.
 2. Create a "lessons learned" document and attach it to the completed
-   [SIR Form](sections/sir-form.doc).
+   [SIR Form](/sir-form.doc).
    1. Evaluate the cost and impact of the security incident to Versionista using
       the documents provided by the SIRT and the technical security resource.
    2. Determine what could be improved.

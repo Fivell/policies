@@ -23,19 +23,16 @@ class Carousel extends React.Component {
   state = {
     activeStep: 0,
   };
-
   handleNext = () => {
     this.setState(prevState => ({
       activeStep: prevState.activeStep + 1,
     }));
   };
-
   handleBack = () => {
     this.setState(prevState => ({
       activeStep: prevState.activeStep - 1,
     }));
   };
-
   handleStepChange = activeStep => {
     this.setState({ activeStep });
   };

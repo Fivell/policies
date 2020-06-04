@@ -75,8 +75,7 @@ the responsibility of the Customers to notify affected individuals.
    the key facilitator for all breach notification processes to the appropriate
    entities (e.g., HHS, media, law enforcement officials, etc.). All
    documentation related to the breach investigation, including the risk
-   assessment, shall be retained for a minimum of six years. A template breach
-   log is located [here](sections/breach.log.pdf).
+   assessment, shall be retained for a minimum of six years.
 3. Risk Assessment: For an acquisition, access, use or disclosure of PHI or PII
    to constitute a breach, it must constitute a violation of the HIPAA Privacy
    Rule. A use or disclosure of PHI or PII that is incident to an otherwise
