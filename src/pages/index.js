@@ -5,7 +5,6 @@ import PropTypes from "prop-types";
 import SEO from "../components/SEO";
 import Card from "../components/Card";
 import Page from "../components/Page";
-import HomeFeatures from "../components/HomeFeatures";
 import Button from "@material-ui/core/Button";
 import Carousel from "../components/Carousel";
 import Avatar from "@material-ui/core/Avatar";
@@ -20,15 +19,10 @@ const styles = () => ({
 const Home = props => {
   const policies = props.data.allMarkdownRemark.edges;
   return (
-    <Page title="Gatsby Material UI Business Starter">
+    <Page title={props.data.site.siteMetadata.title.toUpperCase()}>
       <SEO title="Home">
-        <meta
-          content="Beautiful Gatsby Material UI Business Starter. Tiny code. Well organized. Ready to customize and go."
-          name="description"
-        />
+        <meta content="All our policies in one place." name="description" />
       </SEO>
-
-      <HomeFeatures />
       <Card
         action={
           <Button
@@ -57,6 +51,11 @@ const Home = props => {
 
 export const query = graphql`
   query {
+    site {
+      siteMetadata {
+        title
+      }
+    }
     allFile(filter: { extension: { eq: "jpg" } }) {
       edges {
         node {
@@ -72,9 +71,6 @@ export const query = graphql`
         node {
           id
           frontmatter {
-            image {
-              publicURL
-            }
             path
             title
             date(formatString: "DD MMMM YYYY")

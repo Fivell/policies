@@ -1,3 +1,10 @@
+---
+path: "/policies/300-policy_management_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 3. Policy Management Policy
 
 Versionista implements policies and procedures to maintain compliance and

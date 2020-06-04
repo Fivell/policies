@@ -5,7 +5,7 @@ import Typography from "@material-ui/core/Typography";
 import Hidden from "@material-ui/core/Hidden";
 import withStyles from "@material-ui/styles/withStyles";
 
-const styles = (theme) => ({
+const styles = theme => ({
   divider: {
     marginTop: theme.spacing(6),
     marginBottom: theme.spacing(3),
@@ -16,14 +16,15 @@ const styles = (theme) => ({
   },
 });
 
-const Footer = withStyles(styles)((props) => {
+const Footer = withStyles(styles)(props => {
   const {
     classes,
     data: {
       site: {
         siteMetadata: {
-          title,
-          contact: { email, phone },
+          company,
+          companyUrl,
+          contact: { email },
         },
       },
     },
@@ -34,17 +35,12 @@ const Footer = withStyles(styles)((props) => {
       <footer className={classes.footer} id="footer">
         <span>
           <Typography component="span" variant="caption">
-            ©{new Date().getFullYear()} {title}{" "}
+            ©{new Date().getFullYear()} <a href={companyUrl}>{company}</a>{" "}
             <Hidden only={["xs", "sm"]}>–</Hidden>
             <Hidden only={["xl", "lg", "md"]}>
               <br />
             </Hidden>{" "}
-            {email} – {phone}
-            <br />
-            &middot;
-            <br />
-            Starter created by{" "}
-            <a href="https://foxandgeese.com">Fox and Geese</a>
+            {email}
           </Typography>
         </span>
       </footer>
@@ -58,15 +54,15 @@ export default () => (
       query {
         site {
           siteMetadata {
-            title
+            company
+            companyUrl
             contact {
               email
-              phone
             }
           }
         }
       }
     `}
-    render={(data) => <Footer data={data} />}
+    render={data => <Footer data={data} />}
   />
 );

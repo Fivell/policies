@@ -1,3 +1,10 @@
+---
+path: "/policies/900-configuration_management_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 9. Configuration Management Policy
 
 Versionista standardizes and automates configuration management through the use

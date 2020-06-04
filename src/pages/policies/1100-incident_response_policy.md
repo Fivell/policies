@@ -1,3 +1,10 @@
+---
+path: "/policies/1100-incident_response_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 11. Incident Response Policy
 
 Versionista implements an information security incident response process to

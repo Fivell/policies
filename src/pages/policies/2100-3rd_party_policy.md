@@ -1,3 +1,10 @@
+---
+path: "/policies/2100-3rd_party_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 21. 3rd Party Policy
 
 Versionista makes every effort to assure all 3rd party organizations are

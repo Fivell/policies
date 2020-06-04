@@ -1,3 +1,10 @@
+---
+path: "/policies/600-data_management_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 6. Data Management Policy
 
 Versionista has procedures to create and maintain retrievable exact copies of

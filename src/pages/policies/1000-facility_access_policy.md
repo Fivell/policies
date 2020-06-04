@@ -1,3 +1,10 @@
+---
+path: "/policies/1000-facility_access_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 10. Facility Access Policy
 
 Versionista works with Subcontractors to assure restriction of physical access

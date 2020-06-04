@@ -1,19 +1,16 @@
 module.exports = {
   pathPrefix: "/gatsby-material-ui-business-starter",
   siteMetadata: {
-    title: "Gatsby Material UI Business Starter",
+    companyUrl: "https://versionista.com",
+    company: "Versionista",
+    title: "Versionista Policies",
     contact: {
-      phone: "503-555-1111",
-      email: "hi@foxandgeese.com",
+      email: "account@versionista.com",
     },
     menuLinks: [
       {
-        name: "Products",
-        link: "/products",
-      },
-      {
-        name: "Team",
-        link: "/team",
+        name: "Policies",
+        link: "/policies",
       },
     ],
   },

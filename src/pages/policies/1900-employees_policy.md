@@ -1,3 +1,10 @@
+---
+path: "/policies/1900-employees_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 19. Employees Policy
 
 Versionista is committed to ensuring all workforce members actively address

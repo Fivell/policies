@@ -1,3 +1,10 @@
+---
+path: "/policies/2000-approved_tools_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 20. Approved Tools Policy
 
 Versionista utilizes a suite of approved software tools for internal use by

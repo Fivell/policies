@@ -6,7 +6,7 @@ exports.createPages = ({ graphql, actions }) => {
   const { createPage } = actions;
 
   return Promise.all(
-    ["products", "team"].map(async item => {
+    ["policies"].map(async item => {
       const result = await graphql(
         `
         query {

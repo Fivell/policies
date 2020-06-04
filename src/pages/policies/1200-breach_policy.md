@@ -1,3 +1,10 @@
+---
+path: "/policies/1200-breach_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 12. Breach Policy
 
 To provide guidance for breach notification when impressive or unauthorized

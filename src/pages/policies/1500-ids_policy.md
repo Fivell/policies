@@ -1,3 +1,10 @@
+---
+path: "/policies/1500-ids_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 15. IDS Policy
 
 In order to preserve the integrity of data that Versionista stores, processes,

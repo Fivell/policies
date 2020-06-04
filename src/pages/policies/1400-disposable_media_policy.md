@@ -1,3 +1,10 @@
+---
+path: "/policies/1400-disposable_media_policy"
+title: "Balderdash Backpack"
+date: 2018-11-18T12:33:46+10:00
+image: "jakob-owens-235219-unsplash.jpg"
+---
+
 # 14. Disposable Media Policy
 
 Versionista recognizes that media containing ePHI may be reused when appropriate

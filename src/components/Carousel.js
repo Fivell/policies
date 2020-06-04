@@ -7,7 +7,6 @@ import Button from "@material-ui/core/Button";
 import SwipeableViews from "react-swipeable-views";
 import Card from "@material-ui/core/Card";
 import CardContent from "@material-ui/core/CardContent";
-import CardMedia from "@material-ui/core/CardMedia";
 import { autoPlay } from "react-swipeable-views-utils";
 import withStyles from "@material-ui/styles/withStyles";
 
@@ -25,18 +24,18 @@ class Carousel extends React.Component {
   };
 
   handleNext = () => {
-    this.setState((prevState) => ({
+    this.setState(prevState => ({
       activeStep: prevState.activeStep + 1,
     }));
   };
 
   handleBack = () => {
-    this.setState((prevState) => ({
+    this.setState(prevState => ({
       activeStep: prevState.activeStep - 1,
     }));
   };
 
-  handleStepChange = (activeStep) => {
+  handleStepChange = activeStep => {
     this.setState({ activeStep });
   };
 
@@ -58,21 +57,13 @@ class Carousel extends React.Component {
               const {
                 node: {
                   excerpt,
-                  frontmatter: {
-                    path,
-                    title,
-                    image: { publicURL },
-                  },
+                  frontmatter: { path, title },
                 },
               } = item;
               return (
                 <div key={index}>
                   {Math.abs(activeStep - index) <= 2 ? (
                     <Card>
-                      <CardMedia
-                        className={classes.cardMedia}
-                        image={withPrefix(publicURL)}
-                      />
                       <CardContent>
                         <Typography component="h2" gutterBottom variant="h5">
                           <Link to={path}>{title}</Link>
