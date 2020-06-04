@@ -46,7 +46,8 @@ section.
    - Hosts are scanned daily for malicious binaries in critical system paths.
    - The malware signature database is checked hourly and automatically updated
      if new signatures are available.
-   - Logs of virus scans are maintained according to specified requirements.
+   - Logs of virus scans are maintained according to
+     [Configuration Management Policy](configuration_management_policy).
 3. All Production Systems are to only be used for Versionista business needs.
 
 ## Patch Management

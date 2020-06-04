@@ -145,6 +145,8 @@ our Disaster Recovery plan and process.
    - Installing and configuring the OSSEC IDS agent.
    - Configuring 15-minute session inactivity timeouts.
    - Installing and configuring the Avast virus scanner.
+   - - Configuring transport encryption according to the requirements described
+       in [Data Integrity Policy](data_integrity_policy).
    - Configuring transport encryption according to specified requirements.
    - Configuring the system clock, including ensuring that modifying system time
      cannot be performed by unprivileged users.
@@ -273,4 +275,5 @@ our Disaster Recovery plan and process.
 ## Software Release Procedures
 
 1. Software releases are treated as changes to existing systems and thus follow
-   the procedure described in relevant policies.
+   the procedure described in
+   [Configuration Management Policy](configuration_management_policy).
