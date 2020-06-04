@@ -28,7 +28,7 @@ const Menu = withStyles(styles)(props => {
         </Link>
       ))}
       <a
-        href="https://github.com/bluepeter/gatsby-material-ui-business-starter"
+        href="https://github.com/foxandgeese/policies"
         rel="noopener noreferrer"
         target="_blank"
       >
