@@ -1,5 +1,5 @@
 ---
-path: "/policies/1000-facility_access_policy"
+path: "/policies/facility_access_policy"
 title: "Facility Access Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/hunter-harritt-Ype9sdOPdYc-unsplash.jpg"

@@ -1,5 +1,5 @@
 ---
-path: "/policies/600-data_management_policy"
+path: "/policies/data_management_policy"
 title: "Data Management Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/matthew-henry-fPxOowbR6ls-unsplash.jpg"

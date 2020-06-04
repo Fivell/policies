@@ -1,5 +1,5 @@
 ---
-path: "/policies/1200-breach_policy"
+path: "/policies/breach_policy"
 title: "Breach Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/markus-spiske-hvSr_CVecVI-unsplash.jpg"

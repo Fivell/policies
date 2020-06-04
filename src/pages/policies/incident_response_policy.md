@@ -1,5 +1,5 @@
 ---
-path: "/policies/1100-incident_response_policy"
+path: "/policies/incident_response_policy"
 title: "Incident Response Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/marius-masalar-CyFBmFEsytU-unsplash.jpg"

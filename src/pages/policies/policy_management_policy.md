@@ -1,5 +1,5 @@
 ---
-path: "/policies/300-policy_management_policy"
+path: "/policies/policy_management_policy"
 title: "Policy Management Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/jordan-harrison-40XgDxBfYXM-unsplash.jpg"

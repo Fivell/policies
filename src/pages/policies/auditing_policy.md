@@ -1,5 +1,5 @@
 ---
-path: "/policies/800-auditing_policy"
+path: "/policies/auditing_policy"
 title: "Auditing Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/clint-adair-BW0vK-FA3eg-unsplash.jpg"

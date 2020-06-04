@@ -1,5 +1,5 @@
 ---
-path: "/policies/1500-ids_policy"
+path: "/policies/ids_policy"
 title: "IDS Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/mika-baumeister-Wpnoqo2plFA-unsplash.jpg"

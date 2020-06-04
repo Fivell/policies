@@ -1,5 +1,5 @@
 ---
-path: "/policies/900-configuration_management_policy"
+path: "/policies/configuration_management_policy"
 title: "Configuration Management Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/absolutvision-bSlHKWxxXak-unsplash.jpg"

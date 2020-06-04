@@ -1,5 +1,5 @@
 ---
-path: "/policies/400-risk_management_policy"
+path: "/policies/risk_management_policy"
 title: "Risk Management Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/margaret-weir-GZyjbLNOaFg-unsplash.jpg"

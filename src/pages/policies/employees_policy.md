@@ -1,5 +1,5 @@
 ---
-path: "/policies/1900-employees_policy"
+path: "/policies/employees_policy"
 title: "Employees Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/charles-deluvio-pjAH2Ax4uWk-unsplash.jpg"

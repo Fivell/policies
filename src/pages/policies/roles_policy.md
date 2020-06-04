@@ -1,5 +1,5 @@
 ---
-path: "/policies/500-roles_policy"
+path: "/policies/roles_policy"
 title: "Roles Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg"

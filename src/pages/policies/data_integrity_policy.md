@@ -1,5 +1,5 @@
 ---
-path: "/policies/1700-data_integrity_policy"
+path: "/policies/data_integrity_policy"
 title: "Data Integrity Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/tobias-fischer-PkbZahEG2Ng-unsplash.jpg"

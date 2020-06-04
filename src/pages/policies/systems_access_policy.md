@@ -1,5 +1,5 @@
 ---
-path: "/policies/700-systems_access_policy"
+path: "/policies/systems_access_policy"
 title: "System Access Policy"
 date: 2018-11-18T12:33:46+10:00
 image: "images/johannes-groll-mrIaqKh9050-unsplash.jpg"
