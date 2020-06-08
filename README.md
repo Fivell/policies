@@ -8,6 +8,7 @@
 - [Risk Management Policy](src/pages/policies/risk_management_policy.md)
 - [Roles Policy](src/pages/policies/roles_policy.md)
 - [Data Management Policy](src/pages/policies/data_management_policy.md)
+- [Data Classification](src/pages/policies/data_classification.md)
 - [System Access Policy](src/pages/policies/systems_access_policy.md)
 - [Auditing Policy](src/pages/policies/auditing_policy.md)
 - [Configuration Management Policy](src/pages/policies/configuration_management_policy.md)
