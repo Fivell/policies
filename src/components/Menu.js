@@ -27,18 +27,18 @@ const Menu = withStyles(styles)(props => {
           <Button className={classes.menuButton}>{link.name}</Button>
         </Link>
       ))}
-      <a
-        href="https://github.com/foxandgeese/policies"
-        rel="noopener noreferrer"
-        target="_blank"
-      >
-        <IconButton className={classes.menuButton}>
-          <Github />
-        </IconButton>
-      </a>
     </>
   );
 });
+//<a
+//href="https://github.com/foxandgeese/policies"
+//rel="noopener noreferrer"
+//target="_blank"
+//>
+//<IconButton className={classes.menuButton}>
+//<Github />
+//</IconButton>
+//</a>
 
 export default () => (
   <StaticQuery
